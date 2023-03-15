@@ -1,1 +1,1 @@
-# CSGOCaseAnalytics
+This program will analyze CSGO case statistics and the items within. Mainly used to improve betting odds on the CSGO item market. I used a homemade valuation formula that is mostly arbitrary and partially related to average case price.
