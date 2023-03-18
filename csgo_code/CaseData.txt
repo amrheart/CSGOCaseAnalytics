@@ -586,11 +586,11 @@
 <h4>Revolution Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQynaHMJT9B74-ywtjYxfOmMe_Vx28AucQj3brAoYrz3Fay_kY4MG_wdYeLMlhpLMaM-1U/256fx256f" alt="Revolution Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$3.01</p>
+<p class="nomargin">$2.44</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Revolution%20Case" target="_blank" rel="nofollow" data-gaevent="Revolution Case">13848 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Revolution%20Case" target="_blank" rel="nofollow" data-gaevent="Revolution Case">48447 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -600,11 +600,11 @@
 <h4>Recoil Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQxnaecIT8Wv9rilYTYkfTyNuiFwmhUvpZz3-2Z9oqg0Vew80NvZzuiJdeLMlhpwFO-XdA/256fx256f" alt="Recoil Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.72</p>
+<p class="nomargin">$0.83</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Recoil%20Case" target="_blank" rel="nofollow" data-gaevent="Recoil Case">194988 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Recoil%20Case" target="_blank" rel="nofollow" data-gaevent="Recoil Case">108453 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -614,11 +614,11 @@
 <h4>Dreams &amp; Nightmares Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/256fx256f" alt="Dreams &amp; Nightmares Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.65</p>
+<p class="nomargin">$0.84</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case" target="_blank" rel="nofollow" data-gaevent="Dreams &amp; Nightmares Case">136528 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case" target="_blank" rel="nofollow" data-gaevent="Dreams &amp; Nightmares Case">43203 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -628,11 +628,11 @@
 <h4>Operation Riptide Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU5narKKW4SvIrhw9PZlaPwNuqAxmgBucNz2L3C8dyj31Xn-0VtMW3wdY6LMlhplna0TPI/256fx256f" alt="Operation Riptide Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$2.58</p>
+<p class="nomargin">$2.79</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Riptide%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Riptide Case">5728 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Riptide%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Riptide Case">3222 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -663,11 +663,11 @@
 <h4>Snakebite Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU4naLOJzgUuYqyzIaIxa6jMOLXxGkHvcMjibmU99Sg3Qaw-hA_ZWrzLISLMlhpgJJUhGE/256fx256f" alt="Snakebite Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.17</p>
+<p class="nomargin">$0.38</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Snakebite%20Case" target="_blank" rel="nofollow" data-gaevent="Snakebite Case">213116 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Snakebite%20Case" target="_blank" rel="nofollow" data-gaevent="Snakebite Case">118930 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -677,11 +677,11 @@
 <h4>Operation Broken Fang Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/256fx256f" alt="Operation Broken Fang Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$2.19</p>
+<p class="nomargin">$2.49</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Broken%20Fang%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Broken Fang Case">21341 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Broken%20Fang%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Broken Fang Case">6383 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -691,11 +691,11 @@
 <h4>Fracture Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU2nfGaJG0btN2wwYHfxa-hY-uFxj4Dv50nj7uXpI7w3AewrhBpMWH6d9CLMlhpEbAe-Zk/256fx256f" alt="Fracture Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.23</p>
+<p class="nomargin">$0.37</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Fracture%20Case" target="_blank" rel="nofollow" data-gaevent="Fracture Case">272501 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Fracture%20Case" target="_blank" rel="nofollow" data-gaevent="Fracture Case">103675 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -705,11 +705,11 @@
 <h4>Prisma 2 Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU1nfbOIj8W7oWzkYLdlPOsMOmIk2kGscAj2erE99Sn2AGw_0M4NW2hIYOLMlhpcmY0CRM/256fx256f" alt="Prisma 2 Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.23</p>
+<p class="nomargin">$0.36</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Prisma%202%20Case" target="_blank" rel="nofollow" data-gaevent="Prisma 2 Case">136491 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Prisma%202%20Case" target="_blank" rel="nofollow" data-gaevent="Prisma 2 Case">79309 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -719,11 +719,11 @@
 <h4>CS20 Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU0naHKIj9D7oTgl4LelaGnMuqIwDgFusR337HCpYmhiwzm8ktqMjv2INKLMlhprbp6CTE/256fx256f" alt="CS20 Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.35</p>
+<p class="nomargin">$0.46</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/CS20%20Case" target="_blank" rel="nofollow" data-gaevent="CS20 Case">47917 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/CS20%20Case" target="_blank" rel="nofollow" data-gaevent="CS20 Case">63935 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -733,11 +733,11 @@
 <h4>X-Ray P250 Package</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsS091PDtH5O_1FAthwfTNP2kTvomzzYHdlqLxZb7XlW4IuJwk3u2S8NWl3QS1_EA6YT2iddeXdgIgIQaHHJc2aVo/256fx256f" alt="X-Ray P250 Package">
 <div class="price margin-top-sm">
-<p class="nomargin">$2.88</p>
+<p class="nomargin">$3.12</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/X-Ray%20P250%20Package" target="_blank" rel="nofollow" data-gaevent="X-Ray P250 Package">118 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/X-Ray%20P250%20Package" target="_blank" rel="nofollow" data-gaevent="X-Ray P250 Package">167 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -747,11 +747,11 @@
 <h4>Shattered Web Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUznaCaJWVDvozlzdONwvKjYLiBk24IsZEl0uuYrNjw0A3n80JpZWzwIYWLMlhpLvhcskA/256fx256f" alt="Shattered Web Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$1.73</p>
+<p class="nomargin">$2.00</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Shattered%20Web%20Case" target="_blank" rel="nofollow" data-gaevent="Shattered Web Case">5565 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Shattered%20Web%20Case" target="_blank" rel="nofollow" data-gaevent="Shattered Web Case">4770 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -761,11 +761,11 @@
 <h4>Prisma Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUynfWaI25G6Ijkl9iPw_SnNrjXw2oBu8cj3b2Qo4_33QbnrUdlYD37ddCLMlhpvs0XIz0/256fx256f" alt="Prisma Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.24</p>
+<p class="nomargin">$0.37</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Prisma%20Case" target="_blank" rel="nofollow" data-gaevent="Prisma Case">82411 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Prisma%20Case" target="_blank" rel="nofollow" data-gaevent="Prisma Case">62846 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -775,11 +775,11 @@
 <h4>Danger Zone Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUxnaPLJz5H74y1xtTcz6etNumIx29U6Zd3j7yQoYih3lG1-UJqY27xJIeLMlhpaD9Aclo/256fx256f" alt="Danger Zone Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.27</p>
+<p class="nomargin">$0.39</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Danger%20Zone%20Case" target="_blank" rel="nofollow" data-gaevent="Danger Zone Case">135570 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Danger%20Zone%20Case" target="_blank" rel="nofollow" data-gaevent="Danger Zone Case">140222 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -789,11 +789,11 @@
 <h4>Horizon Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUwnfbOdDgavYXukYTZkqf2ZbrTwmkE6scgj7CY94ml3FXl-ENkMW3wctOLMlhpVHKV9YA/256fx256f" alt="Horizon Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.35</p>
+<p class="nomargin">$0.46</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Horizon%20Case" target="_blank" rel="nofollow" data-gaevent="Horizon Case">41638 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Horizon%20Case" target="_blank" rel="nofollow" data-gaevent="Horizon Case">68334 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -803,11 +803,11 @@
 <h4>Clutch Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY5naqQIz4R7Yjix9bZkvKiZrmAzzlTu5AoibiT8d_x21Wy8hY_MWz1doSLMlhpM3FKbNs/256fx256f" alt="Clutch Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.47</p>
+<p class="nomargin">$0.69</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Clutch%20Case" target="_blank" rel="nofollow" data-gaevent="Clutch Case">191622 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Clutch%20Case" target="_blank" rel="nofollow" data-gaevent="Clutch Case">123935 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -817,11 +817,11 @@
 <h4>Spectrum 2 Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY4naeaJGhGtdnmx4Tek_bwY-iFlGlUsJMp3LuTot-mjFGxqUttZ2r3d4eLMlhpnZPxZK0/256fx256f" alt="Spectrum 2 Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.85</p>
+<p class="nomargin">$0.93</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Spectrum%202%20Case" target="_blank" rel="nofollow" data-gaevent="Spectrum 2 Case">39024 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Spectrum%202%20Case" target="_blank" rel="nofollow" data-gaevent="Spectrum 2 Case">38190 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -831,11 +831,11 @@
 <h4>Operation Hydra Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY3navMJWgQtNm1ldLZzvOiZr-BlToIsZcoi-yTpdutiVW2-Es4NWjwIo-LMlhpinMS53M/256fx256f" alt="Operation Hydra Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$15.08</p>
+<p class="nomargin">$15.90</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Hydra%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Hydra Case">582 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Hydra%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Hydra Case">539 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -845,11 +845,11 @@
 <h4>Spectrum Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY2nfKadD4U7Y7lwYXexaGlYb3QzjlUvZ0k0ujHptug2VbirkRrNW2md4SLMlhph09hpX0/256fx256f" alt="Spectrum Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$1.27</p>
+<p class="nomargin">$1.34</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Spectrum%20Case" target="_blank" rel="nofollow" data-gaevent="Spectrum Case">15111 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Spectrum%20Case" target="_blank" rel="nofollow" data-gaevent="Spectrum Case">10666 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -859,11 +859,11 @@
 <h4>Glove Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFY1naTMdzwTtNrukteIkqT2MO_Uwz5Q6cYhibyXo4rw2ALsrkRoYjuncNCLMlhpEV4XDTk/256fx256f" alt="Glove Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$3.68</p>
+<p class="nomargin">$4.00</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Glove%20Case" target="_blank" rel="nofollow" data-gaevent="Glove Case">17220 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Glove%20Case" target="_blank" rel="nofollow" data-gaevent="Glove Case">12945 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -873,11 +873,11 @@
 <h4>Gamma 2 Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVFx5KAVo5PSkKV4xhfGfKTgVvIXlxNPSwaOmMLiGwzgJvJMniO-Zoo_z2wXg-EVvfSmtc78HsNoy/256fx256f" alt="Gamma 2 Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$1.40</p>
+<p class="nomargin">$1.26</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Gamma%202%20Case" target="_blank" rel="nofollow" data-gaevent="Gamma 2 Case">13251 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Gamma%202%20Case" target="_blank" rel="nofollow" data-gaevent="Gamma 2 Case">18958 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -887,11 +887,11 @@
 <h4>Gamma Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYznarJJjkQ6ovjw4SPlfP3auqEl2oBuJB1j--WoY322QziqkdpZGr3IteLMlhpw4RJCv8/256fx256f" alt="Gamma Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$1.40</p>
+<p class="nomargin">$1.27</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Gamma%20Case" target="_blank" rel="nofollow" data-gaevent="Gamma Case">6023 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Gamma%20Case" target="_blank" rel="nofollow" data-gaevent="Gamma Case">10061 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -901,11 +901,11 @@
 <h4>Chroma 3 Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYynaSdJGhE74y0wNWIw_OlNuvXkDpSuZQmi--SrN-h3gey-Uo6YWmlIoCLMlhplhFFvwI/256fx256f" alt="Chroma 3 Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$1.00</p>
+<p class="nomargin">$1.09</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Chroma%203%20Case" target="_blank" rel="nofollow" data-gaevent="Chroma 3 Case">17939 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Chroma%203%20Case" target="_blank" rel="nofollow" data-gaevent="Chroma 3 Case">20911 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -915,11 +915,11 @@
 <h4>Operation Wildfire Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYxnaeQImRGu4S1x9TawfSmY-iHkmoD7cEl2LiQpIjz3wPl_ERkYWHwLY-LMlhp9pkR_UQ/256fx256f" alt="Operation Wildfire Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.81</p>
+<p class="nomargin">$1.03</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Wildfire%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Wildfire Case">10898 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Wildfire%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Wildfire Case">10666 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -929,11 +929,11 @@
 <h4>Revolver Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYwnfKfcG9HvN7iktaOkqD1auLTxD5SvZYgiLvFpo7xjVLh-kdrYWnzcoGLMlhpsyM-5vg/256fx256f" alt="Revolver Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.88</p>
+<p class="nomargin">$0.93</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Revolver%20Case" target="_blank" rel="nofollow" data-gaevent="Revolver Case">24028 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Revolver%20Case" target="_blank" rel="nofollow" data-gaevent="Revolver Case">23384 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -943,11 +943,11 @@
 <h4>Shadow Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF4u1qubIW4Su4mzxYHbzqGtZ-KGlz8EuJcg3rnE9NiijVe3_UY-Zzr2JJjVLFEEeiQRtg/256fx256f" alt="Shadow Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.46</p>
+<p class="nomargin">$0.61</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Shadow%20Case" target="_blank" rel="nofollow" data-gaevent="Shadow Case">20265 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Shadow%20Case" target="_blank" rel="nofollow" data-gaevent="Shadow Case">13304 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -957,11 +957,11 @@
 <h4>Falchion Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/256fx256f" alt="Falchion Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$0.49</p>
+<p class="nomargin">$0.69</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Falchion%20Case" target="_blank" rel="nofollow" data-gaevent="Falchion Case">16095 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Falchion%20Case" target="_blank" rel="nofollow" data-gaevent="Falchion Case">10121 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -971,11 +971,11 @@
 <h4>Chroma 2 Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFAuhqSaKWtEu43mxtbbk6b1a77Twm4Iu8Yl3bCU9Imii1Xt80M5MmD7JZjVLFH-6VnQJQ/256fx256f" alt="Chroma 2 Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$1.09</p>
+<p class="nomargin">$1.26</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Chroma%202%20Case" target="_blank" rel="nofollow" data-gaevent="Chroma 2 Case">12177 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Chroma%202%20Case" target="_blank" rel="nofollow" data-gaevent="Chroma 2 Case">10384 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -985,11 +985,11 @@
 <h4>Chroma Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFEuh_KQJTtEuI63xIXbxqOtauyClTMEsJV1jruS89T3iQKx_BBqa2j3JpjVLFH1xpp0EQ/256fx256f" alt="Chroma Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$1.61</p>
+<p class="nomargin">$1.80</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Chroma%20Case" target="_blank" rel="nofollow" data-gaevent="Chroma Case">3694 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Chroma%20Case" target="_blank" rel="nofollow" data-gaevent="Chroma Case">3299 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -999,11 +999,11 @@
 <h4>Operation Vanguard Weapon Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/256fx256f" alt="Operation Vanguard Weapon Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$1.49</p>
+<p class="nomargin">$1.65</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Vanguard%20Weapon%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Vanguard Weapon Case">2635 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Vanguard%20Weapon%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Vanguard Weapon Case">4889 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -1013,11 +1013,11 @@
 <h4>eSports 2014 Summer Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1Y07ODdfDBH_pKzwdfSkqTyZLjQxjsF7sEoiLyQ9I2ljgHt_EZlYzr6J4DHIA9oZ1-D5BHglkR7Cs6C/256fx256f" alt="eSports 2014 Summer Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$4.83</p>
+<p class="nomargin">$5.24</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/eSports%202014%20Summer%20Case" target="_blank" rel="nofollow" data-gaevent="eSports 2014 Summer Case">1590 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/eSports%202014%20Summer%20Case" target="_blank" rel="nofollow" data-gaevent="eSports 2014 Summer Case">1152 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -1027,11 +1027,11 @@
 <h4>Operation Breakout Weapon Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/256fx256f" alt="Operation Breakout Weapon Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$4.39</p>
+<p class="nomargin">$4.83</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Breakout%20Weapon%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Breakout Weapon Case">32184 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Breakout%20Weapon%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Breakout Weapon Case">10970 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -1041,11 +1041,11 @@
 <h4>Huntsman Weapon Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQu0PaQIm9DtY6wzYaIxKWtN7iJwW8G6Z0h2LqWoY6s2Qy2-0Q_Nzv7IJjVLFGZqUbjlQ/256fx256f" alt="Huntsman Weapon Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$6.57</p>
+<p class="nomargin">$7.41</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Huntsman%20Weapon%20Case" target="_blank" rel="nofollow" data-gaevent="Huntsman Weapon Case">1450 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Huntsman%20Weapon%20Case" target="_blank" rel="nofollow" data-gaevent="Huntsman Weapon Case">862 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -1055,11 +1055,11 @@
 <h4>Operation Phoenix Weapon Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFUuh6qZJmlD7tiyl4OIlaGhYuLTzjhVupJ12urH89ii3lHlqEdoMDr2I5jVLFFSv_J2Rg/256fx256f" alt="Operation Phoenix Weapon Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$1.99</p>
+<p class="nomargin">$2.02</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Phoenix%20Weapon%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Phoenix Weapon Case">10577 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Phoenix%20Weapon%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Phoenix Weapon Case">11834 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -1069,11 +1069,11 @@
 <h4>CS:GO Weapon Case 3</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5fSnf15k0KGacG0UtYXnzdTdkq-gariGlDgHvMcmjryZotqg2wCxrUVtfSmtc20v4quI/256fx256f" alt="CS:GO Weapon Case 3">
 <div class="price margin-top-sm">
-<p class="nomargin">$5.72</p>
+<p class="nomargin">$5.99</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/CS%3AGO%20Weapon%20Case%203" target="_blank" rel="nofollow" data-gaevent="CS:GO Weapon Case 3">2347 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/CS%3AGO%20Weapon%20Case%203" target="_blank" rel="nofollow" data-gaevent="CS:GO Weapon Case 3">2236 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -1083,11 +1083,11 @@
 <h4>Winter Offensive Weapon Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFYu0aKfJz8a793gxNLfzvOkMunUwWgH7JIjj-qW8d7x2VXt_UBuMT3zIpjVLFEGDSGUSQ/256fx256f" alt="Winter Offensive Weapon Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$4.90</p>
+<p class="nomargin">$5.67</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Winter%20Offensive%20Weapon%20Case" target="_blank" rel="nofollow" data-gaevent="Winter Offensive Weapon Case">820 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Winter%20Offensive%20Weapon%20Case" target="_blank" rel="nofollow" data-gaevent="Winter Offensive Weapon Case">651 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -1097,11 +1097,11 @@
 <h4>eSports 2013 Winter Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1Yz7KKcPzwav9jnzdfdlfWmY7_TzmkF6ZMlj77A9o3x0Qe1qhBkZGjxI9LBJgMgIQaH1G7WeaA/256fx256f" alt="eSports 2013 Winter Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$5.58</p>
+<p class="nomargin">$5.49</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/eSports%202013%20Winter%20Case" target="_blank" rel="nofollow" data-gaevent="eSports 2013 Winter Case">2058 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/eSports%202013%20Winter%20Case" target="_blank" rel="nofollow" data-gaevent="eSports 2013 Winter Case">2254 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -1111,11 +1111,11 @@
 <h4>CS:GO Weapon Case 2</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5PT8elUwgKKZJmtEvo_kxITZk6StNe-Fz2pTu8Aj3eqVpIqgjVfjrRI9fSmtc1Nw-Kh3/256fx256f" alt="CS:GO Weapon Case 2">
 <div class="price margin-top-sm">
-<p class="nomargin">$7.94</p>
+<p class="nomargin">$8.13</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/CS%3AGO%20Weapon%20Case%202" target="_blank" rel="nofollow" data-gaevent="CS:GO Weapon Case 2">1270 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/CS%3AGO%20Weapon%20Case%202" target="_blank" rel="nofollow" data-gaevent="CS:GO Weapon Case 2">962 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -1125,11 +1125,11 @@
 <h4>Operation Bravo Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/256fx256f" alt="Operation Bravo Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$45.97</p>
+<p class="nomargin">$56.99</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Bravo%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Bravo Case">603 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/Operation%20Bravo%20Case" target="_blank" rel="nofollow" data-gaevent="Operation Bravo Case">212 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -1139,11 +1139,11 @@
 <h4>eSports 2013 Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1YznfCcdzkR74vnw9TZwa-sYOOCzzoF6ZJ0jL6Qp9uj3Qbj_Uc6Z2z1I9WLMlhp9VPHu3g/256fx256f" alt="eSports 2013 Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$36.80</p>
+<p class="nomargin">$34.50</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/eSports%202013%20Case" target="_blank" rel="nofollow" data-gaevent="eSports 2013 Case">351 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/eSports%202013%20Case" target="_blank" rel="nofollow" data-gaevent="eSports 2013 Case">303 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -1153,11 +1153,11 @@
 <h4>CS:GO Weapon Case</h4>
 <img class="img-responsive center-block" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsRVx4MwFo5_T3eAQ3i6DMIW0X7ojiwoHax6egMOKGxj4G68Nz3-jCp4itjFWx-ktqfSmtcwqVx6sT/256fx256f" alt="CS:GO Weapon Case">
 <div class="price margin-top-sm">
-<p class="nomargin">$70.93</p>
+<p class="nomargin">$74.37</p>
 </div>
 </a>
 <div class="btn-group-sm btn-group-justified">
-<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/CS%3AGO%20Weapon%20Case" target="_blank" rel="nofollow" data-gaevent="CS:GO Weapon Case">289 Steam Market Listings</a>
+<a class="btn btn-default market-button-item" href="https://steamcommunity.com/market/listings/730/CS%3AGO%20Weapon%20Case" target="_blank" rel="nofollow" data-gaevent="CS:GO Weapon Case">224 Steam Market Listings</a>
 </div>
 </div>
 </div>
@@ -1263,6 +1263,6 @@
 <script src="https://csgostash.com/js/vendor.js?id=65ca2070436a0d6cc0e0ee3ea177a58a"></script>
 "<script>var sf = 'https://csgostash.com/js/sf.json?id=c9fb15cbd288b42843e618c4ea80f6b0';</script>"
 <script src="https://csgostash.com/js/app.js?id=f0db3a9f58dd5e6b54e6996a5f14a4e2"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"79dc46ae4b99631a","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a96cca3bd1ce26f","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
 </body>
 </html>

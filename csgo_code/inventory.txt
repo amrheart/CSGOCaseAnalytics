@@ -1,0 +1,903 @@
+<!DOCTYPE html>
+<html class=" responsive" lang="en">
+<head>
+\t<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+\t\t\t<meta name="viewport" content="width=device-width,initial-scale=1">
+\t\t<meta name="theme-color" content="#171a21">
+\t\t<title>Steam Community :: Zaza Expert :: Item Inventory</title>
+\t<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+\t
+\t
+\t<link href="https://community.cloudflare.steamstatic.com/public/shared/css/motiva_sans.css?v=GfSjbGKcNYaQ&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/shared/css/buttons.css?v=uR_4hRD_HUln&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/shared/css/shared_global.css?v=CpLeKXckLm3r&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/css/globalv2.css?v=RL7hpFRFPE4A&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/css/skin_1/economy.css?v=wliPEsKn4dhI&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/css/skin_1/economy_inventory.css?v=xPlN33nO84Qg&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/css/skin_1/profilev2.css?v=3y90VjwIbhlO&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/shared/css/shared_responsive.css?v=pqJ4scPK8PIv&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+<link href="https://community.cloudflare.steamstatic.com/public/css/skin_1/header.css?v=kSY7-qhkPHds&amp;l=english&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
+\t\t\t<script>
+"\t\t\t\t(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){"
+\t\t\t\t\t\t(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+\t\t\t\t\tm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+"\t\t\t\t})(window,document,'script','//www.google-analytics.com/analytics.js','ga');"
+
+"\t\t\t\tga('create', 'UA-33779068-1', 'auto', {"
+"\t\t\t\t\t'sampleRate': 0.4\t\t\t\t});"
+"\t\t\t\tga('set', 'dimension1', false );"
+"\t\t\t\tga('set', 'dimension2', 'External' );"
+"\t\t\t\tga('set', 'dimension3', 'profiles' );"
+\t\t\t\tga(\'set\', \'dimension4\', "profiles\\/inventory" );
+"\t\t\t\tga('send', 'pageview' );"
+
+\t\t\t</script>
+\t\t\t<script type="text/javascript">
+\tvar __PrototypePreserve=[];
+\t__PrototypePreserve[0] = Array.from;
+\t__PrototypePreserve[1] = Array.prototype.filter;
+\t__PrototypePreserve[2] = Array.prototype.flatMap;
+\t__PrototypePreserve[3] = Array.prototype.find;
+\t__PrototypePreserve[4] = Array.prototype.some;
+\t__PrototypePreserve[5] = Function.prototype.bind;
+\t__PrototypePreserve[6] = HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript">
+\tArray.from = __PrototypePreserve[0] || Array.from;
+\tArray.prototype.filter = __PrototypePreserve[1] || Array.prototype.filter;
+\tArray.prototype.flatMap = __PrototypePreserve[2] || Array.prototype.flatMap;
+\tArray.prototype.find = __PrototypePreserve[3] || Array.prototype.find;
+\tArray.prototype.some = __PrototypePreserve[4] || Array.prototype.some;
+\tFunction.prototype.bind = __PrototypePreserve[5] || Function.prototype.bind;
+\tHTMLElement.prototype.scrollTo = __PrototypePreserve[6] || HTMLElement.prototype.scrollTo;
+</script>
+<script type="text/javascript">VALVE_PUBLIC_PATH = "https:\\/\\/community.cloudflare.steamstatic.com\\/public\\/";</script><script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/scriptaculous/_combined.js?v=OeNIgrpEF8tL&amp;l=english&amp;_cdn=cloudflare&amp;load=effects,controls,slider,dragdrop" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/global.js?v=8jiHNmwBe17J&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/shared/javascript/tooltip.js?v=.zYHOpI1L3Rt0&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/shared/javascript/shared_global.js?v=3vHUb7HGl_l0&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript">Object.seal && [ Object, Array, String, Number ].map( function( builtin ) { Object.seal( builtin.prototype ); } );</script><script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != \'object\' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\\"text\\/javascript\\" src=\\"https:\\/\\/community.cloudflare.steamstatic.com\\/public\\/javascript\\/json2.js?v=pmScf4470EZP&amp;l=english&amp;_cdn=cloudflare\\" ><\\/script>\\n" ); };
+</script>
+\t\t<script type="text/javascript">
+"\t\t\tdocument.addEventListener('DOMContentLoaded', function(event) {"
+"\t\t\t\tSetupTooltips( { tooltipCSSClass: 'community_tooltip'} );"
+\t\t});
+\t\t</script><script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/economy_common.js?v=tsXdRVB0yEaR&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/economy_v2.js?v=CAQyLBU7Bff6&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/modalv2.js?v=dfMhuy-Lrpyo&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/profile.js?v=N9stUAARD78t&amp;l=english&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/jqplot/jquery.jqplot.min.js?v=.MtKHlYxlI0Rv&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/jqplot/plugins/jqplot.cursor.min.js?v=.M2KHp3--unVY&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/jqplot/plugins/jqplot.dateAxisRenderer.min.js?v=.4qfJsdWiq0OT&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/javascript/jqplot/plugins/jqplot.highlighter.min.js?v=.bt1BStJ5PY3c&amp;_cdn=cloudflare" ></script>
+<script type="text/javascript" src="https://community.cloudflare.steamstatic.com/public/shared/javascript/shared_responsive_adapter.js?v=pSvIAKtunfWg&amp;l=english&amp;_cdn=cloudflare" ></script>
+
+\t\t\t\t\t\t<meta name="twitter:card" content="summary">
+\t\t\t
+\t<meta name="twitter:site" content="@steam" />
+
+\t\t\t\t\t\t<meta property="og:title" content="Steam Community :: Zaza Expert :: Item Inventory">
+\t\t\t\t\t<meta property="twitter:title" content="Steam Community :: Zaza Expert :: Item Inventory">
+\t\t\t\t\t<meta property="og:type" content="website">
+\t\t\t\t\t<meta property="fb:app_id" content="105386699540688">
+\t\t\t
+\t
+\t\t\t<link rel="image_src" href="https://avatars.cloudflare.steamstatic.com/9cf02312741cc57b3d19c3b84ed17930925d4f0a_medium.jpg">
+\t\t<meta property="og:image" content="https://avatars.cloudflare.steamstatic.com/9cf02312741cc57b3d19c3b84ed17930925d4f0a_medium.jpg">
+\t\t<meta name="twitter:image" content="https://avatars.cloudflare.steamstatic.com/9cf02312741cc57b3d19c3b84ed17930925d4f0a_medium.jpg" />
+\t\t\t\t
+\t
+\t
+\t
+\t
+\t</head>
+<body class="flat_page migrated_profile_page inventory_page responsive_page ">
+
+
+<div class="responsive_page_frame with_header">
+\t\t\t\t\t\t<div class="responsive_page_menu_ctn mainmenu">
+\t\t\t\t<div class="responsive_page_menu"  id="responsive_page_menu">
+\t\t\t\t\t\t\t\t\t\t<div class="mainmenu_contents">
+\t\t\t\t\t\t<div class="mainmenu_contents_items">
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="menuitem" href="https://steamcommunity.com/login/home/?goto=profiles%2F76561198056863526%2Finventory%2F">
+\t\t\t\t\t\t\t\t\tLogin\t\t\t\t\t\t\t\t</a>
+\t\t\t\t\t\t\t\t<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+\t\tStore\t</a>
+\t<div class="submenu_store" style="display: none;" data-submenuid="store">
+\t\t<a class="submenuitem" href="https://store.steampowered.com/">Home</a>
+\t\t\t\t\t<a class="submenuitem" href="https://store.steampowered.com/explore/">Discovery Queue</a>
+\t\t\t\t<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+\t\t<a class="submenuitem" href="https://store.steampowered.com/points/shop/">Points Shop</a>\t
+       \t<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+\t\t\t\t\t<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+\t\t\t\t\t</div>
+
+
+\t\t\t<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+\t\t\tCommunity\t\t</a>
+\t\t<div class="submenu_community" style="display: none;" data-submenuid="community">
+\t\t\t<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+\t\t\t<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+\t\t\t<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+\t\t\t<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+\t\t\t<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t
+
+\t
+\t
+\t<a class="menuitem" href="https://help.steampowered.com/en/">
+\t\tSupport\t</a>
+
+\t\t\t\t\t\t\t<div class="minor_menu_items">
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class="menuitem change_language_action">
+\t\t\t\t\t\t\t\t\tChange language\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class="menuitem" onclick="Responsive_RequestDesktopView();">
+\t\t\t\t\t\t\t\t\t\tView desktop website\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t</div>
+\t\t\t\t\t\t<div class="mainmenu_footer_spacer  "></div>
+\t\t\t\t\t\t<div class="mainmenu_footer">
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class="mainmenu_footer_logo"><img src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/logo_valve_footer.png"></div>
+\t\t\t\t\t\t\t\t\xc2\xa9 Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.\t\t\t\t\t\t\t\t<span class="mainmenu_valve_links">
+\t\t\t\t\t\t\t\t\t<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">#footer_privacy_policy</a>
+\t\t\t\t\t\t\t\t\t&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">#footer_legal</a>
+\t\t\t\t\t\t\t\t\t&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/" target="_blank">#footer_ssa</a>
+\t\t\t\t\t\t\t\t\t&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/" target="_blank">#footer_refunds</a>
+\t\t\t\t\t\t\t\t</span>
+\t\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t</div>
+\t\t\t</div>
+\t\t
+\t\t<div class="responsive_local_menu_tab"></div>
+
+\t\t<div class="responsive_page_menu_ctn localmenu">
+\t\t\t<div class="responsive_page_menu"  id="responsive_page_local_menu" data-panel="{&quot;onOptionsActionDescription&quot;:&quot;#filter_toggle&quot;,&quot;onOptionsButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;,&quot;onCancelButton&quot;:&quot;Responsive_ToggleLocalMenu()&quot;}">
+\t\t\t\t<div class="localmenu_content" data-panel="{&quot;maintainY&quot;:true,&quot;bFocusRingRoot&quot;:true,&quot;flow-children&quot;:&quot;column&quot;}">
+\t\t\t\t</div>
+\t\t\t</div>
+\t\t</div>
+
+
+
+\t\t\t\t\t<div class="responsive_header">
+\t\t\t\t<div class="responsive_header_content">
+\t\t\t\t\t<div id="responsive_menu_logo">
+\t\t\t\t\t\t<img src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t<div class="responsive_header_logo">
+\t\t\t\t\t\t<a href="https://store.steampowered.com/">
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src="https://community.cloudflare.steamstatic.com/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+\t\t\t\t\t\t\t\t\t\t\t\t\t</a>
+\t\t\t\t\t</div>
+\t\t\t\t</div>
+\t\t\t</div>
+\t\t
+\t\t<div class="responsive_page_content_overlay">
+
+\t\t</div>
+
+\t\t<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+\t\t</div>
+\t
+\t<div class="responsive_page_content">
+
+\t\t<div id="global_header" data-panel="{&quot;flow-children&quot;:&quot;row&quot;}">
+\t<div class="content">
+\t\t<div class="logo">
+\t\t\t<span id="logo_holder">
+\t\t\t\t\t\t\t\t\t<a href="https://store.steampowered.com/">
+\t\t\t\t\t\t<img src="https://community.cloudflare.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" width="176" height="44">
+\t\t\t\t\t</a>
+\t\t\t\t\t\t\t</span>
+\t\t</div>
+
+\t\t\t<div class="supernav_container">
+\t<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+\t\tSTORE\t</a>
+\t<div class="submenu_store" style="display: none;" data-submenuid="store">
+\t\t<a class="submenuitem" href="https://store.steampowered.com/">Home</a>
+\t\t\t\t\t<a class="submenuitem" href="https://store.steampowered.com/explore/">Discovery Queue</a>
+\t\t\t\t<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+\t\t<a class="submenuitem" href="https://store.steampowered.com/points/shop/">Points Shop</a>\t
+       \t<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+\t\t\t\t\t<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+\t\t\t\t\t</div>
+
+
+\t\t\t<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+\t\t\tCOMMUNITY\t\t</a>
+\t\t<div class="submenu_community" style="display: none;" data-submenuid="community">
+\t\t\t<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+\t\t\t<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+\t\t\t<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+\t\t\t<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+\t\t\t<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t
+
+\t
+\t\t\t\t\t\t<a class="menuitem" href="https://store.steampowered.com/about/">
+\t\t\t\tABOUT\t\t\t</a>
+\t\t\t
+\t<a class="menuitem" href="https://help.steampowered.com/en/">
+\t\tSUPPORT\t</a>
+\t</div>
+\t<script type="text/javascript">
+\t\tjQuery(function($) {
+"\t\t\t$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-4, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});"
+\t\t});
+\t</script>
+
+\t\t<div id="global_actions">
+\t\t\t<div id="global_action_menu">
+\t\t\t\t\t\t\t\t\t<div class="header_installsteam_btn header_installsteam_btn_green">
+
+\t\t\t\t\t\t<a class="header_installsteam_btn_content" href="https://store.steampowered.com/about/">
+\t\t\t\t\t\t\tInstall Steam\t\t\t\t\t\t</a>
+\t\t\t\t\t</div>
+\t\t\t\t
+\t\t\t\t
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="global_action_link" href="https://steamcommunity.com/login/home/?goto=profiles%2F76561198056863526%2Finventory%2F">login</a>
+\t\t\t\t\t\t\t\t\t\t\t&nbsp;|&nbsp;
+\t\t\t\t\t\t<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, \'language_dropdown\', \'right\' );">language</span>
+\t\t\t\t\t\t<div class="popup_block_new" id="language_dropdown" style="display: none;">
+\t\t\t\t\t\t\t<div class="popup_body popup_menu">
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( \'schinese\' ); return false;">\xe7\xae\x80\xe4\xbd\x93\xe4\xb8\xad\xe6\x96\x87 (Simplified Chinese)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( \'tchinese\' ); return false;">\xe7\xb9\x81\xe9\xab\x94\xe4\xb8\xad\xe6\x96\x87 (Traditional Chinese)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( \'japanese\' ); return false;">\xe6\x97\xa5\xe6\x9c\xac\xe8\xaa\x9e (Japanese)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( \'koreana\' ); return false;">\xed\x95\x9c\xea\xb5\xad\xec\x96\xb4 (Korean)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( \'thai\' ); return false;">\xe0\xb9\x84\xe0\xb8\x97\xe0\xb8\xa2 (Thai)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( \'bulgarian\' ); return false;">\xd0\x91\xd1\x8a\xd0\xbb\xd0\xb3\xd0\xb0\xd1\x80\xd1\x81\xd0\xba\xd0\xb8 (Bulgarian)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( \'czech\' ); return false;">\xc4\x8ce\xc5\xa1tina (Czech)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( \'danish\' ); return false;">Dansk (Danish)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( \'german\' ); return false;">Deutsch (German)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( \'spanish\' ); return false;">Espa\xc3\xb1ol - Espa\xc3\xb1a (Spanish - Spain)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=latam" onclick="ChangeLanguage( \'latam\' ); return false;">Espa\xc3\xb1ol - Latinoam\xc3\xa9rica (Spanish - Latin America)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( \'greek\' ); return false;">\xce\x95\xce\xbb\xce\xbb\xce\xb7\xce\xbd\xce\xb9\xce\xba\xce\xac (Greek)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( \'french\' ); return false;">Fran\xc3\xa7ais (French)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( \'italian\' ); return false;">Italiano (Italian)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( \'hungarian\' ); return false;">Magyar (Hungarian)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( \'dutch\' ); return false;">Nederlands (Dutch)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( \'norwegian\' ); return false;">Norsk (Norwegian)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( \'polish\' ); return false;">Polski (Polish)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( \'portuguese\' ); return false;">Portugu\xc3\xaas (Portuguese - Portugal)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( \'brazilian\' ); return false;">Portugu\xc3\xaas - Brasil (Portuguese - Brazil)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( \'romanian\' ); return false;">Rom\xc3\xa2n\xc4\x83 (Romanian)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( \'russian\' ); return false;">\xd0\xa0\xd1\x83\xd1\x81\xd1\x81\xd0\xba\xd0\xb8\xd0\xb9 (Russian)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( \'finnish\' ); return false;">Suomi (Finnish)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( \'swedish\' ); return false;">Svenska (Swedish)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( \'turkish\' ); return false;">T\xc3\xbcrk\xc3\xa7e (Turkish)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=vietnamese" onclick="ChangeLanguage( \'vietnamese\' ); return false;">Ti\xe1\xba\xbfng Vi\xe1\xbb\x87t (Vietnamese)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( \'ukrainian\' ); return false;">\xd0\xa3\xd0\xba\xd1\x80\xd0\xb0\xd1\x97\xd0\xbd\xd1\x81\xd1\x8c\xd0\xba\xd0\xb0 (Ukrainian)</a>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class="popup_menu_item tight" href="https://www.valvesoftware.com/en/contact?contact-person=Translation%20Team%20Feedback" target="_blank">Report a translation problem</a>
+\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t</div>
+\t\t\t</div>
+</div>
+<script type="text/javascript">
+\tg_sessionID = "4f32230ea06fe8d7783eea3a";
+\tg_steamID = false;
+\tg_strLanguage = "english";
+"\tg_SNR = '2_100300_inventory_';"
+\tg_bAllowAppImpressions = true;
+\t\tg_ContentDescriptorPreferences = [3,4];
+
+\t
+
+\t// We always want to have the timezone cookie set for PHP to use
+\tsetTimezoneCookies();
+
+\t$J( function() {
+
+\t\tInitMiniprofileHovers();
+\t\tInitEmoticonHovers();
+\t\tApplyAdultContentPreferences();
+\t});
+
+\t$J( function() { InitEconomyHovers( "https:\\/\\/community.cloudflare.steamstatic.com\\/public\\/css\\/skin_1\\/economy.css?v=wliPEsKn4dhI&l=english&_cdn=cloudflare", "https:\\/\\/community.cloudflare.steamstatic.com\\/public\\/javascript\\/economy_common.js?v=tsXdRVB0yEaR&l=english&_cdn=cloudflare", "https:\\/\\/community.cloudflare.steamstatic.com\\/public\\/javascript\\/economy.js?v=7F-CkHa-o5A1&l=english&_cdn=cloudflare" );});</script>
+
+\t\t<div class="responsive_page_template_content" id="responsive_page_template_content" data-panel="{&quot;autoFocus&quot;:true}" >
+
+\t\t\t
+
+<div class="pagecontent no_header no_footerpad">
+
+\t<div class="profile_small_header_bg">
+\t<div class="profile_small_header_texture" data-panel="{&quot;flow-children&quot;:&quot;row&quot;}">
+\t\t<a href="https://steamcommunity.com/profiles/76561198056863526">
+\t\t\t<div class="profile_small_header_avatar">
+\t\t\t\t<div class="playerAvatar medium online">
+\t\t\t\t\t\t\t\t\t\t<div class="profile_avatar_frame">
+\t\t\t\t\t\t<img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/730/c2a822b6422d7a2c9e72ec74bf54139db8723ef0.png">
+\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t<img src="https://avatars.cloudflare.steamstatic.com/9cf02312741cc57b3d19c3b84ed17930925d4f0a_medium.jpg">
+\t\t\t\t</div>
+\t\t\t</div>
+\t\t</a>
+\t\t<div class="profile_small_header_text">
+\t\t\t<span class="profile_small_header_name">
+\t\t\t\t<a class="whiteLink persona_name_text_content" href="https://steamcommunity.com/profiles/76561198056863526">
+\t\t\t\t\tZaza Expert\t\t\t\t</a>
+\t\t\t</span>
+\t\t\t\t\t\t\t<span class="profile_small_header_arrow">&raquo;</span>
+\t\t\t\t<a class="whiteLink"  href="https://steamcommunity.com/profiles/76561198056863526/inventory/"><span class="profile_small_header_location">Item Inventory</span></a>
+\t\t\t
+\t\t\t\t\t</div>
+\t\t\t</div>
+</div>\t<!-- main body -->
+\t<div id="BG_bottom" class="maincontent">
+\t\t<div id="mainContents">
+\t\t\t\t\t\t<div id="market_headertip_itemsold" style="display:none">
+\t\t\t\t<div class="market_headertip_container">
+\t\t\t\t\t<div class="market_headertip">
+\t\t\t\t\t\t<div>
+\t\t\t\t\t\t\tYour <span id="market_headertip_itemsold_itemname"></span/> was successfully listed in the <a href="https://steamcommunity.com/market/" style="color: inherit; text-decoration: underline">Community Market</a>.\t\t\t\t\t\t</div>
+\t\t\t\t\t\t<div style="clear:left"></div>
+\t\t\t\t\t</div>
+\t\t\t\t</div>
+\t\t\t</div>
+\t\t\t<div id="market_headertip_itemsold_pending" style="display:none">
+\t\t\t\t<div class="market_headertip_container">
+\t\t\t\t\t<div class="market_headertip">
+\t\t\t\t\t\t<div>
+\t\t\t\t\t\t\tConfirmation needed to list your <span id="market_headertip_itemsold_itemname_pending"></span/> on the <a href="https://steamcommunity.com/market/" style="color: inherit; text-decoration: underline">Community Market</a>.\t\t\t\t\t\t</div>
+\t\t\t\t\t\t<div style="clear:left"></div>
+\t\t\t\t\t</div>
+\t\t\t\t</div>
+\t\t\t</div>
+\t\t\t
+\t\t\t
+\t\t\t                 <div class="tabitems_ctn">
+                                        <div class="games_list_tabs_ctn responsive_hidden" id="games_list_public">
+                        <div class="games_list_tabs">\t\t\t<a id="inventory_link_570" href="#570"
+\t\t\t\t  onclick="ShowItemInventory( 570 ); return true;"
+\t\t\t\t  class="games_list_tab first_tab">
+
+\t\t\t\t\t\t\t\t<span class="games_list_tab_icon item_desc_game_icon">
+\t\t\t\t\t <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/570/0bbb630d63262dd66d2fdd0f7d37e8661a410075.jpg">&nbsp;
+\t\t\t\t</span>
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_name">Dota 2</span>
+\t\t\t\t
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_number">(670)</span>
+\t\t\t\t\t\t\t</a>
+\t\t\t <div class="games_list_tab_separator"></div> \t\t\t<a id="inventory_link_753" href="#753"
+\t\t\t\t  onclick="ShowItemInventory( 753 ); return true;"
+\t\t\t\t  class="games_list_tab">
+
+\t\t\t\t\t\t\t\t<span class="games_list_tab_icon item_desc_game_icon">
+\t\t\t\t\t <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/753/135dc1ac1cd9763dfc8ad52f4e880d2ac058a36c.jpg">&nbsp;
+\t\t\t\t</span>
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_name">Steam</span>
+\t\t\t\t
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_number">(443)</span>
+\t\t\t\t\t\t\t</a>
+\t\t\t <div class="games_list_tab_separator"></div> \t\t\t<a id="inventory_link_440" href="#440"
+\t\t\t\t  onclick="ShowItemInventory( 440 ); return true;"
+\t\t\t\t  class="games_list_tab">
+
+\t\t\t\t\t\t\t\t<span class="games_list_tab_icon item_desc_game_icon">
+\t\t\t\t\t <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/440/e3f595a92552da3d664ad00277fad2107345f743.jpg">&nbsp;
+\t\t\t\t</span>
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_name">Team Fortress 2</span>
+\t\t\t\t
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_number">(150)</span>
+\t\t\t\t\t\t\t</a>
+\t\t\t <div class="games_list_tab_separator"></div> \t\t\t<a id="inventory_link_730" href="#730"
+\t\t\t\t  onclick="ShowItemInventory( 730 ); return true;"
+\t\t\t\t  class="games_list_tab fourth_tab">
+
+\t\t\t\t\t\t\t\t<span class="games_list_tab_icon item_desc_game_icon">
+\t\t\t\t\t <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg">&nbsp;
+\t\t\t\t</span>
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_name">Counter-Strike: Global Offensive</span>
+\t\t\t\t
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_number">(82)</span>
+\t\t\t\t\t\t\t</a>
+\t\t\t <div class="games_list_tab_row_separator"></div> \t\t\t<a id="inventory_link_322330" href="#322330"
+\t\t\t\t  onclick="ShowItemInventory( 322330 ); return true;"
+\t\t\t\t  class="games_list_tab">
+
+\t\t\t\t\t\t\t\t<span class="games_list_tab_icon item_desc_game_icon">
+\t\t\t\t\t <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/322330/a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee.jpg">&nbsp;
+\t\t\t\t</span>
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_name">Don\'t Starve Together</span>
+\t\t\t\t
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_number">(49)</span>
+\t\t\t\t\t\t\t</a>
+\t\t\t <div class="games_list_tab_separator"></div> \t\t\t<a id="inventory_link_238460" href="#238460"
+\t\t\t\t  onclick="ShowItemInventory( 238460 ); return true;"
+\t\t\t\t  class="games_list_tab">
+
+\t\t\t\t\t\t\t\t<span class="games_list_tab_icon item_desc_game_icon">
+\t\t\t\t\t <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/238460/2f258aaff583d797812cdcf24830d5992f48733b.jpg">&nbsp;
+\t\t\t\t</span>
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_name">BattleBlock Theater</span>
+\t\t\t\t
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_number">(9)</span>
+\t\t\t\t\t\t\t</a>
+\t\t\t <div class="games_list_tab_separator"></div> \t\t\t<a id="inventory_link_431240" href="#431240"
+\t\t\t\t  onclick="ShowItemInventory( 431240 ); return true;"
+\t\t\t\t  class="games_list_tab">
+
+\t\t\t\t\t\t\t\t<span class="games_list_tab_icon item_desc_game_icon">
+\t\t\t\t\t <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/431240/c6379c8ec66ac02565f1155bf3821b846164d93c.jpg">&nbsp;
+\t\t\t\t</span>
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_name">Golf With Your Friends</span>
+\t\t\t\t
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_number">(7)</span>
+\t\t\t\t\t\t\t</a>
+\t\t\t <div class="games_list_tab_separator"></div> \t\t\t<a id="inventory_link_252490" href="#252490"
+\t\t\t\t  onclick="ShowItemInventory( 252490 ); return true;"
+\t\t\t\t  class="games_list_tab">
+
+\t\t\t\t\t\t\t\t<span class="games_list_tab_icon item_desc_game_icon">
+\t\t\t\t\t <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/252490/820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c.jpg">&nbsp;
+\t\t\t\t</span>
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_name">Rust</span>
+\t\t\t\t
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_number">(5)</span>
+\t\t\t\t\t\t\t</a>
+\t\t\t <div class="games_list_tab_row_separator"></div> \t\t\t<a id="inventory_link_244850" href="#244850"
+\t\t\t\t  onclick="ShowItemInventory( 244850 ); return true;"
+\t\t\t\t  class="games_list_tab">
+
+\t\t\t\t\t\t\t\t<span class="games_list_tab_icon item_desc_game_icon">
+\t\t\t\t\t <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/244850/f9856a90000d88e9a89441a7381fe9877e91eaca.jpg">&nbsp;
+\t\t\t\t</span>
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_name">Space Engineers</span>
+\t\t\t\t
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_number">(4)</span>
+\t\t\t\t\t\t\t</a>
+\t\t\t <div class="games_list_tab_separator"></div> \t\t\t<a id="inventory_link_218620" href="#218620"
+\t\t\t\t  onclick="ShowItemInventory( 218620 ); return true;"
+\t\t\t\t  class="games_list_tab">
+
+\t\t\t\t\t\t\t\t<span class="games_list_tab_icon item_desc_game_icon">
+\t\t\t\t\t <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/218620/a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414.jpg">&nbsp;
+\t\t\t\t</span>
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_name">PAYDAY 2</span>
+\t\t\t\t
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_number">(2)</span>
+\t\t\t\t\t\t\t</a>
+\t\t\t <div class="games_list_tab_separator"></div> \t\t\t<a id="inventory_link_620" href="#620"
+\t\t\t\t  onclick="ShowItemInventory( 620 ); return true;"
+\t\t\t\t  class="games_list_tab">
+
+\t\t\t\t\t\t\t\t<span class="games_list_tab_icon item_desc_game_icon">
+\t\t\t\t\t <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/620/2e478fc6874d06ae5baf0d147f6f21203291aa02.jpg">&nbsp;
+\t\t\t\t</span>
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_name">Portal 2</span>
+\t\t\t\t
+\t\t\t\t\t\t\t\t\t <span class="games_list_tab_number">(1)</span>
+\t\t\t\t\t\t\t</a>
+\t\t\t <div class="games_list_tab_separator"></div> \t\t<!-- height: 0px to work around an ie layout bug -->
+\t\t<div style="clear: both; height: 0px;"></div>
+\t</div>
+                    </div>
+
+                    
+                                     </div>
+
+\t\t\t\t<div id="tabcontent_inventory">
+\t\t\t\t\t<div class="nonresponsive_hidden responsive_fixonscroll">
+\t\t\t\t\t\t<div class="sharedfiles_responsive_tab responsive_tab_ctn">
+\t\t\t\t\t\t\t<div class="responsive_tab_control">
+\t\t\t\t\t\t\t\t<label for="responsive_inventory_select"></label>
+\t\t\t\t\t\t\t\t<select class="responsive_tab_select" id="responsive_inventory_select">
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option data-appid="570" value="#570">
+\t\t\t\t\t\t\t\t\t\t\tDota 2 (670)
+\t\t\t\t\t\t\t\t\t\t</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option data-appid="753" value="#753">
+\t\t\t\t\t\t\t\t\t\t\tSteam (443)
+\t\t\t\t\t\t\t\t\t\t</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option data-appid="440" value="#440">
+\t\t\t\t\t\t\t\t\t\t\tTeam Fortress 2 (150)
+\t\t\t\t\t\t\t\t\t\t</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option data-appid="730" value="#730">
+\t\t\t\t\t\t\t\t\t\t\tCounter-Strike: Global Offensive (82)
+\t\t\t\t\t\t\t\t\t\t</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option data-appid="322330" value="#322330">
+"\t\t\t\t\t\t\t\t\t\t\tDon't Starve Together (49)"
+\t\t\t\t\t\t\t\t\t\t</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option data-appid="238460" value="#238460">
+\t\t\t\t\t\t\t\t\t\t\tBattleBlock Theater (9)
+\t\t\t\t\t\t\t\t\t\t</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option data-appid="431240" value="#431240">
+\t\t\t\t\t\t\t\t\t\t\tGolf With Your Friends (7)
+\t\t\t\t\t\t\t\t\t\t</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option data-appid="252490" value="#252490">
+\t\t\t\t\t\t\t\t\t\t\tRust (5)
+\t\t\t\t\t\t\t\t\t\t</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option data-appid="244850" value="#244850">
+\t\t\t\t\t\t\t\t\t\t\tSpace Engineers (4)
+\t\t\t\t\t\t\t\t\t\t</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option data-appid="218620" value="#218620">
+\t\t\t\t\t\t\t\t\t\t\tPAYDAY 2 (2)
+\t\t\t\t\t\t\t\t\t\t</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<option data-appid="620" value="#620">
+\t\t\t\t\t\t\t\t\t\t\tPortal 2 (1)
+\t\t\t\t\t\t\t\t\t\t</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</select>
+\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t</div>
+\t\t\t\t\t\t<div class="responsive_tab_baseline"></div>
+\t\t\t\t\t</div>
+\t\t\t\t\t<div class="view_inventory_logo" id="inventory_logos">
+\t\t\t\t\t\t<img id="inventory_applogo" src="https://community.cloudflare.steamstatic.com/public/images/trans.gif" style="display: none;">
+\t\t\t\t\t</div>
+
+\t\t\t\t\t<div class="responsive_fixonscroll">
+\t\t\t\t\t\t<div id="context_selector" style="display: none;">
+\t\t\t\t\t\t\t<div class="appselect" id="contextselect" onclick="ShowMenu( \'contextselect\', \'contextselect_options\', \'left\' );">
+\t\t\t\t\t\t\t\t<div id="contextselect_activecontext" class="option">
+\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t<div id="appselect_arrow"></div>
+\t\t\t\t\t\t\t</div>
+
+\t\t\t\t\t\t\t<div id="contextselect_options" class="popup_block" style="display: none;">
+\t\t\t\t\t\t\t\t<div class="shadow_ul"></div><div class="shadow_top"></div><div class="shadow_ur"></div><div class="shadow_left"></div><div class="shadow_right"></div><div class="shadow_bl"></div><div class="shadow_bottom"></div><div class="shadow_br"></div>\t\t\t\t\t\t\t\t<div id="contextselect_options_contexts" class="popup_body popup_menu shadow_content">
+\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t</div>
+\t\t\t\t\t</div>
+
+\t\t\t\t\t<div class="filter_ctn inventory_filters">
+\t\t\t\t\t\t<div class="filter_label">Looking for a specific item?</div>
+\t\t\t\t\t\t<div class="filter_control_ctn">
+\t\t\t\t\t\t\t<div id="filter_clear_btn" style="display: none;"></div>
+\t\t\t\t\t\t\t<input class="selectableText filter_search_box" type="text" id="filter_control" value="" placeholder="Start typing an item name here to filter items" name="filter" autocomplete="off">
+\t\t\t\t\t\t</div>
+\t\t\t\t\t\t<div class="filter_tag_button_ctn">
+\t\t\t\t\t\t\t<div class="btn_black btn_details btn_small" id="filter_tag_show" onclick="ShowTagFilters();">
+\t\t\t\t\t\t\t\t<span>Show advanced filters... <span class="btn_details_arrow down"></span></span>
+\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t<div class="btn_black btn_details btn_small" id="filter_tag_hide" onclick="HideTagFilters();" style="display: none;">
+\t\t\t\t\t\t\t\t<span>Hide advanced filters... <span class="btn_details_arrow up"></span></span>
+\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t</div>
+\t\t\t\t\t\t<div style="clear: left;"></div>
+\t\t\t\t\t</div>
+\t\t\t\t\t<div style="clear: left;"></div>
+\t\t\t\t\t<div class="filter_tag_options" id="filter_options" style="margin-left: 12px;" >
+\t\t\t\t\t</div>
+\t\t\t\t\t<div style="clear: left;"></div>
+
+\t\t\t\t\t<div id="inventory_load_error_ctn">
+\t\t\t\t\t</div>
+
+\t\t\t\t\t<div class="view_inventory_page" id="active_inventory_page">
+\t\t\t\t\t\t<div class="inventory_page_right">
+
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class="inventory_iteminfo" id="iteminfo0" style="display: none;">
+\t\t\t\t\t\t\t\t\t<div class="item_desc_content" id="iteminfo0_content">
+\t\t\t\t\t\t\t\t\t\t<div class="item_desc_icon">
+\t\t\t\t\t\t\t\t\t\t\t<div class="item_desc_icon_center">
+\t\t\t\t\t\t\t\t\t\t\t\t<img id="iteminfo0_item_icon">
+\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t<div class="item_desc_description">
+\t\t\t\t\t\t\t\t\t\t\t<h1 class="hover_item_name" id="iteminfo0_item_name"></h1>
+\t\t\t\t\t\t\t\t\t\t\t<div class="fraud_warning" id="iteminfo0_fraud_warnings"></div>
+\t\t\t\t\t\t\t\t\t\t\t<div class="item_desc_game_info" id="iteminfo0_game_info">
+\t\t\t\t\t\t\t\t\t\t\t\t<div class="item_desc_game_icon">
+\t\t\t\t\t\t\t\t\t\t\t\t\t<img id="iteminfo0_game_icon">
+\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t<div id="iteminfo0_game_name" class="ellipsis"></div>
+\t\t\t\t\t\t\t\t\t\t\t\t<div id="iteminfo0_item_type" class=""></div>
+\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t<div class="item_desc_descriptors" id="iteminfo0_item_descriptors">
+\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class="item_actions" id="iteminfo0_item_actions">
+\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class="item_desc_descriptors" id="iteminfo0_item_owner_descriptors">
+\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class="item_owner_actions" id="iteminfo0_item_owner_actions">
+\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t<div class="item_desc_descriptors" id="iteminfo0_item_tags">
+\t\t\t\t\t\t\t\t\t\t\tTags: <span class="item_desc_descriptors" id="iteminfo0_item_tags_content"></span>
+\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class="item_market_content" id="iteminfo0_market_content">
+\t\t\t\t\t\t\t\t\t\t\t<div class="item_market_actions" id="iteminfo0_item_market_actions">
+\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class="inventory_iteminfo" id="iteminfo1" style="display: none;">
+\t\t\t\t\t\t\t\t\t<div class="item_desc_content" id="iteminfo1_content">
+\t\t\t\t\t\t\t\t\t\t<div class="item_desc_icon">
+\t\t\t\t\t\t\t\t\t\t\t<div class="item_desc_icon_center">
+\t\t\t\t\t\t\t\t\t\t\t\t<img id="iteminfo1_item_icon">
+\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t<div class="item_desc_description">
+\t\t\t\t\t\t\t\t\t\t\t<h1 class="hover_item_name" id="iteminfo1_item_name"></h1>
+\t\t\t\t\t\t\t\t\t\t\t<div class="fraud_warning" id="iteminfo1_fraud_warnings"></div>
+\t\t\t\t\t\t\t\t\t\t\t<div class="item_desc_game_info" id="iteminfo1_game_info">
+\t\t\t\t\t\t\t\t\t\t\t\t<div class="item_desc_game_icon">
+\t\t\t\t\t\t\t\t\t\t\t\t\t<img id="iteminfo1_game_icon">
+\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t<div id="iteminfo1_game_name" class="ellipsis"></div>
+\t\t\t\t\t\t\t\t\t\t\t\t<div id="iteminfo1_item_type" class=""></div>
+\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t<div class="item_desc_descriptors" id="iteminfo1_item_descriptors">
+\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class="item_actions" id="iteminfo1_item_actions">
+\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class="item_desc_descriptors" id="iteminfo1_item_owner_descriptors">
+\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class="item_owner_actions" id="iteminfo1_item_owner_actions">
+\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t<div class="item_desc_descriptors" id="iteminfo1_item_tags">
+\t\t\t\t\t\t\t\t\t\t\tTags: <span class="item_desc_descriptors" id="iteminfo1_item_tags_content"></span>
+\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class="item_market_content" id="iteminfo1_market_content">
+\t\t\t\t\t\t\t\t\t\t\t<div class="item_market_actions" id="iteminfo1_item_market_actions">
+\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t<div class="inventory_page_left">
+\t\t\t\t\t\t\t<div class="trade_item_box selectableNone" id="inventories">
+
+\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t<div id="inventory_pagecontrols">
+
+\t\t\t\t\t\t\t\t<span class="inventory_loading_indicator responsive_hidden">
+\t\t\t\t\t\t\t\t\t<img src="https://community.cloudflare.steamstatic.com/public/images/login/throbber.gif">
+\t\t\t\t\t\t\t\t</span>
+
+\t\t\t\t\t\t\t\t<a class="pagecontrol_element pagebtn" id="pagebtn_next" href="javascript:void(0);" onclick="InventoryNextPage();">
+\t\t\t\t\t\t\t\t\t&gt;
+\t\t\t\t\t\t\t\t</a>
+\t\t\t\t\t\t\t\t<div class="pagecontrol_element pagecounts">
+\t\t\t\t\t\t\t\t\t<span id="pagecontrol_cur"></span> of <span id="pagecontrol_max"></span>\t\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t\t<a class="pagecontrol_element pagebtn" id="pagebtn_previous" href="javascript:void(0);" onclick="InventoryPreviousPage();">
+\t\t\t\t\t\t\t\t\t&lt;
+\t\t\t\t\t\t\t\t</a>
+\t\t\t\t\t\t\t\t<div style="clear: right;"></div>
+\t\t\t\t\t\t\t</div>
+\t\t\t\t\t\t\t<div style="clear: right;"></div>
+
+\t\t\t\t\t\t</div>
+\t\t\t\t\t</div>
+
+\t\t\t\t\t<div class="view_inventory_page inventory_msg_ctn" id="empty_inventory_page" style="display: none;">
+\t\t\t\t\t\t<div class="inventory_msg_content">
+\t\t\t\t\t\t\tYou currently have 0 items in your <span class="gamename"></span> inventory.\t\t\t\t\t\t\t<span id="empty_inventory_page_howtoget">
+\t\t\t\t\t\t\t</span>
+\t\t\t\t\t\t</div>
+\t\t\t\t\t</div>
+\t\t\t\t\t<div class="view_inventory_page inventory_msg_ctn" id="pending_inventory_page" style="display: none;">
+\t\t\t\t\t\t<div class="inventory_msg_content">
+\t\t\t\t\t\t\t<img src="https://community.cloudflare.steamstatic.com/public/images/login/throbber.gif">
+\t\t\t\t\t\t</div>
+\t\t\t\t\t</div>
+
+\t\t\t\t\t<div class="view_inventory_page inventory_msg_ctn" id="empty_filtered_inventory_page" style="display: none; border: 1px solid #4d729a;">
+\t\t\t\t\t\t<div class="inventory_msg_content">
+\t\t\t\t\t\t\tYour filter did not find any items.\t\t\t\t\t\t</div>
+\t\t\t\t\t</div>
+
+
+\t\t\t\t\t<div class="view_inventory_page inventory_msg_ctn" id="failed_inventory_page" style="display: none;">
+\t\t\t\t\t\t<div class="inventory_msg_content">
+\t\t\t\t\t\t\tThis inventory is not available at this time.  Please try again later.\t\t\t\t\t\t</div>
+\t\t\t\t\t</div>
+\t\t\t\t</div>
+\t\t\t
+\t\t\t
+\t\t</div>
+
+\t</div>
+
+\t<div id="gift_modal" class="modal_frame" style="display:none;">
+\t\t<div class="modal_top_band">
+\t\t\t<div class="modal_close"><a href="javascript:hideModal( \'gift_modal\' )"><img src="https://community.cloudflare.steamstatic.com/public/images/x9x9.gif" width="9" height="9" border="0" alt="Close" /></a></div>
+\t\t</div>
+\t\t<div class="modal_box">
+\t\t\t<div class="modal_box_ctn">
+\t\t\t<div id="gift_error_modal_content">
+\t\t\t\t<p>Sorry, an error has occurred:</p>
+\t\t\t\t<h2 id="gift_error_modal_message" class="gift_error_message"></h2>
+\t\t\t\t<div class="gift_modal_text" id="gift_error_modal_details"></div>
+\t\t\t\t<div class="buttons">
+\t\t\t\t\t<div class="btn_grey_white_innerfade btn_medium" onclick="hideModal( \'gift_modal\' );">
+
+\t\t\t\t\t\t<span>OK</span>
+\t\t\t\t\t</div>
+\t\t\t\t</div>
+\t\t\t</div>
+\t\t\t<div id="gift_success_modal_content">
+\t\t\t\t<h2 id="gift_success_modal_message"></h2>
+\t\t\t\t<div class="gift_modal_text" id="gift_success_modal_details"></div>
+\t\t\t\t<div class="buttons">
+\t\t\t\t\t<div class="btn_grey_white_innerfade btn_medium" onclick="hideModal( \'gift_modal\' );">
+\t\t\t\t\t\t<span>OK</span>
+\t\t\t\t\t</div>
+\t\t\t\t</div>
+\t\t\t</div>
+\t\t\t<div id="gift_unpack_install_modal">
+\t\t\t\t<h2><span id="gift_unpack_install_packagename"></span> has been added to your account.</span></h2>
+\t\t\t\t<div class="gift_modal_text">
+\t\t\t\t\t\t\t\t\t\t\tThe next time you open the Steam Client you can download and play from the Library.\t\t\t\t\t\t\t\t\t</div>
+\t\t\t\t<div class="buttons">
+\t\t\t\t\t\t\t\t\t\t<div class="btn_grey_white_innerfade btn_medium active" onclick="hideModal( \'gift_modal\' );">
+\t\t\t\t\t\t<span>Close</span>
+\t\t\t\t\t</div>
+\t\t\t\t</div>
+\t\t\t</div>
+\t\t</div>
+\t\t</div>
+\t</div>
+
+\t
+<div style="display:none" id="billing_info_form">
+\t<form method="POST">
+
+\t\t<div class="giftcard_billing_required">
+\t\t\tWe need to know where you live for the purpose of collecting sales tax.<br>Please enter your address below:\t\t</div>
+
+\t\t<div class="form_row redeem_form_row" id="billing_city_row">
+\t\t\t<div>
+\t\t\t\t<label for="billing_city">
+\t\t\t\t\t<div>City</div>
+\t\t\t\t\t<input type="text" class="redeem_input_box_text" tabindex="103" maxlength="255" name="billing_city" id="billing_city">
+\t\t\t\t</label>
+\t\t\t\t<div style="clear: both;"></div>
+\t\t\t</div>
+\t\t</div>
+
+\t\t<div class="form_row redeem_form_row" id="billing_state_row">
+\t\t\t<div>
+\t\t\t\t<label for="billing_state">
+\t\t\t\t\t<div>State/Province</div>
+\t\t\t\t\t<select id="billing_state_select" tabindex="104">
+\t\t\t\t\t\t<option value="">Select State/Province</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="AA">AA</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="AE">AE</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="AP">AP</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="AK">AK</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="AL">AL</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="AR">AR</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="AS">AS</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="AZ">AZ</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="CA">CA</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="CO">CO</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="CT">CT</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="DC">DC</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="DE">DE</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="FL">FL</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="FM">FM</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="GA">GA</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="GU">GU</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="HI">HI</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="IA">IA</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="ID">ID</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="IL">IL</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="IN">IN</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="KS">KS</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="KY">KY</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="LA">LA</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="MA">MA</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="ME">ME</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="MD">MD</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="MH">MH</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="MI">MI</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="MN">MN</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="MO">MO</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="MS">MS</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="MT">MT</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="NC">NC</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="ND">ND</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="NE">NE</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="NH">NH</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="NJ">NJ</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="NM">NM</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="NV">NV</option>
+
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="NY">NY</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="MP">MP</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="OH">OH</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="OK">OK</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="OR">OR</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="PA">PA</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="PR">PR</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="PW">PW</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="RI">RI</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="SC">SC</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="SD">SD</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="TN">TN</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="TX">TX</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="UT">UT</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="VI">VI</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="VT">VT</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="VA">VA</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="WA">WA</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="WI">WI</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="WV">WV</option>
+\t\t\t\t\t\t\t\t\t\t\t\t\t<option value="WY">WY</option>
+\t\t\t\t\t\t\t\t\t\t\t</select>
+\t\t\t\t</label>
+\t\t\t\t<div style="clear: both;"></div>
+\t\t\t</div>
+\t\t</div>
+
+\t\t<div class="form_row redeem_form_row" id="billing_postal_code_row">
+\t\t\t<div>
+\t\t\t\t<label for="billing_postal_code">
+\t\t\t\t\t<div>Zip or postal code</div>
+\t\t\t\t\t<input tabindex="105" type="text" class="redeem_input_box_text" maxlength="255" name="billing_postal_code" id="billing_postal_code">
+\t\t\t\t</label>
+\t\t\t\t<div style="clear: both;"></div>
+\t\t\t</div>
+\t\t</div>
+\t</form>
+</div>
+</div>
+
+
+
+<script type="text/javascript">
+var g_rgWalletInfo = {"success":false};
+var g_bInventoryIsInModalDialog = false;
+var g_bIsInMarketplace = false;
+
+"UserYou.SetSteamId( '76561198056863526' );"
+
+\tvar g_rgAppContextData = {"570":{"appid":570,"name":"Dota 2","icon":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/570\\/0bbb630d63262dd66d2fdd0f7d37e8661a410075.jpg","link":"https:\\/\\/steamcommunity.com\\/app\\/570","asset_count":670,"inventory_logo":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/570\\/910ef16cd7bf6c6986e78b3ad4eee7eaa5d26cc0.png","trade_permissions":"FULL","load_failed":0,"store_vetted":"1","owner_only":false,"rgContexts":{"2":{"asset_count":670,"id":"2","name":"Backpack"}}},"753":{"appid":753,"name":"Steam","icon":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/753\\/135dc1ac1cd9763dfc8ad52f4e880d2ac058a36c.jpg","link":"https:\\/\\/steamcommunity.com\\/app\\/753","asset_count":443,"inventory_logo":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/753\\/db8ca9e130b7b37685ab2229bf5a288aefc3f0fa.png","trade_permissions":"FULL","load_failed":0,"store_vetted":"1","owner_only":false,"rgContexts":{"6":{"asset_count":443,"id":"6","name":"Community"}}},"440":{"appid":440,"name":"Team Fortress 2","icon":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/440\\/e3f595a92552da3d664ad00277fad2107345f743.jpg","link":"https:\\/\\/steamcommunity.com\\/app\\/440","asset_count":150,"inventory_logo":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/440\\/e613d1d46de26ea755105b898cc8830d305353f3.png","trade_permissions":"FULL","load_failed":0,"store_vetted":"1","owner_only":false,"rgContexts":{"2":{"asset_count":150,"id":"2","name":"Backpack"}}},"730":{"appid":730,"name":"Counter-Strike: Global Offensive","icon":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/730\\/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg","link":"https:\\/\\/steamcommunity.com\\/app\\/730","asset_count":82,"inventory_logo":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/730\\/3ab6e87a04994b900881f694284a75150e640536.png","trade_permissions":"FULL","load_failed":0,"store_vetted":"1","owner_only":false,"rgContexts":{"2":{"asset_count":82,"id":"2","name":"Backpack"}}},"322330":{"appid":322330,"name":"Don\'t Starve Together","icon":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/322330\\/a80aa6cff8eebc1cbc18c367d9ab063e1553b0ee.jpg","link":"https:\\/\\/steamcommunity.com\\/app\\/322330","asset_count":49,"inventory_logo":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/322330\\/c0a9e18fea0eda7d1449cf3ee1087d26f37ed75e.png","trade_permissions":"FULL","load_failed":0,"store_vetted":"1","owner_only":false,"rgContexts":{"1":{"asset_count":49,"id":"1","name":"Inventory"}}},"238460":{"appid":238460,"name":"BattleBlock Theater","icon":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/238460\\/2f258aaff583d797812cdcf24830d5992f48733b.jpg","link":"https:\\/\\/steamcommunity.com\\/app\\/238460","asset_count":9,"inventory_logo":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/238460\\/f2d5a4eb818eb7f7e67863f482ec6c24b44719ca.png","trade_permissions":"FULL","load_failed":0,"store_vetted":"1","owner_only":false,"rgContexts":{"2":{"asset_count":9,"id":"2","name":"Backpack"}}},"431240":{"appid":431240,"name":"Golf With Your Friends","icon":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/431240\\/c6379c8ec66ac02565f1155bf3821b846164d93c.jpg","link":"https:\\/\\/steamcommunity.com\\/app\\/431240","asset_count":7,"inventory_logo":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/431240\\/69ae85fed11b3ad17894419e04936341b45df8fa.png","trade_permissions":"FULL","load_failed":0,"store_vetted":"1","owner_only":false,"rgContexts":{"2":{"asset_count":7,"id":"2","name":"Backpack"}}},"252490":{"appid":252490,"name":"Rust","icon":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/252490\\/820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c.jpg","link":"https:\\/\\/steamcommunity.com\\/app\\/252490","asset_count":5,"inventory_logo":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/252490\\/71aa51e17ef25a5e6c24b08019eb5482bd02261a.png","trade_permissions":"FULL","load_failed":0,"store_vetted":"1","owner_only":false,"rgContexts":{"2":{"asset_count":5,"id":"2","name":"Backpack"}}},"244850":{"appid":244850,"name":"Space Engineers","icon":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/244850\\/f9856a90000d88e9a89441a7381fe9877e91eaca.jpg","link":"https:\\/\\/steamcommunity.com\\/app\\/244850","asset_count":4,"inventory_logo":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/244850\\/00157d5e9163c4a1d14869a578cefe2a5aef7b2f.png","trade_permissions":"FULL","load_failed":0,"store_vetted":"1","owner_only":false,"rgContexts":{"2":{"asset_count":4,"id":"2","name":"Backpack"}}},"218620":{"appid":218620,"name":"PAYDAY 2","icon":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/218620\\/a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414.jpg","link":"https:\\/\\/steamcommunity.com\\/app\\/218620","asset_count":2,"inventory_logo":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/218620\\/28737f6df9d94df0c8b08a82e8750fc0db6c98ea.png","trade_permissions":"FULL","load_failed":0,"store_vetted":"1","owner_only":false,"rgContexts":{"2":{"asset_count":2,"id":"2","name":"Backpack"}}},"620":{"appid":620,"name":"Portal 2","icon":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/620\\/2e478fc6874d06ae5baf0d147f6f21203291aa02.jpg","link":"https:\\/\\/steamcommunity.com\\/app\\/620","asset_count":1,"inventory_logo":"https:\\/\\/cdn.cloudflare.steamstatic.com\\/steamcommunity\\/public\\/images\\/apps\\/620\\/d81769e0e0a67c158d9c95b138e0b6079b8f6cf7.png","trade_permissions":"FULL","load_failed":0,"store_vetted":"1","owner_only":false,"rgContexts":{"2":{"asset_count":1,"id":"2","name":"Backpack"}}}};
+\t\t$J( function() {
+\t\tUserYou.LoadContexts( g_rgAppContextData );
+\t} );
+
+$J( function() {
+\tvar bHasPendingGifts = false;
+\tInitInventoryPage( bHasPendingGifts, -1, false );
+});
+var g_bInClient = false;
+var g_bInChinaRealm =  false;
+var g_bViewingOwnProfile = false;
+var g_bMarketAllowed = false;
+"var g_strLanguage = 'english';"
+var g_strCountryCode = "US";
+"var g_strProfileURL = 'https://steamcommunity.com/profiles/76561198056863526';"
+</script>
+
+\t\t</div>\t<!-- responsive_page_legacy_content -->
+
+\t\t\t<div id="footer_spacer" class=""></div>
+\t<div id="footer_responsive_optin_spacer"></div>
+\t<div id="footer">
+\t\t\t\t\t<div class="footer_content">
+\t\t\t\t<span id="footerLogo"><img src="https://community.cloudflare.steamstatic.com/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve Logo" /></span>
+\t\t\t\t<span id="footerText">
+\t\t\t\t\t&copy; Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.<br/>Some geospatial data on this website is provided by <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel=" noopener">geonames.org</a>.\t\t\t\t\t<br>
+\t\t\t\t\t\t\t\t\t\t\t<span class="valve_links">
+\t\t\t\t\t\t\t<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+\t\t\t\t\t\t\t&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">Legal</a>
+\t\t\t\t\t\t\t&nbsp;| &nbsp;<a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+                            &nbsp;| &nbsp;<a href="http://store.steampowered.com/account/cookiepreferences/" target="_blank">Cookies</a>
+\t\t\t\t\t\t</span>
+\t\t\t\t\t\t\t\t\t</span>
+\t\t\t</div>
+\t\t\t\t\t\t\t<div class="responsive_optin_link">
+\t\t\t\t<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+\t\t\t\t\t<span>View mobile website</span>
+\t\t\t\t</div>
+\t\t\t</div>
+\t\t\t</div>
+\t
+\t</div>\t<!-- responsive_page_content -->
+
+</div>\t<!-- responsive_page_frame -->
+</body>
+</html>

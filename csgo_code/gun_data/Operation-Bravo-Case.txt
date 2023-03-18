@@ -507,7 +507,7 @@
 <a href="https://steamcommunity.com/market/listings/730/Operation%20Bravo%20Case" target="_blank" rel="nofollow" class="market-button-item" data-gaevent="Operation Bravo Case">
 <img class="img-responsive center-block content-header-img-margin" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/256fx256f" alt="Operation Bravo Case"></a>
 <div class="btn-group content-header-container-btn">
-<a href="https://steamcommunity.com/market/listings/730/Operation%20Bravo%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="Operation Bravo Case">$47.22 on Steam</a>
+<a href="https://steamcommunity.com/market/listings/730/Operation%20Bravo%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="Operation Bravo Case">$56.99 on Steam</a>
 <a class="btn btn-default" data-toggle="collapse" href="#case-item-details" aria-expanded="false" aria-controls="case-item-details">Market Details <span class="glyphicon glyphicon-chevron-down collapse-chevron"></span></a>
 </div>
 </div>
@@ -525,12 +525,12 @@
 <div class="btn-group btn-group-justified">
 <a href="https://steamcommunity.com/market/listings/730/Operation%20Bravo%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item " data-gaevent="Operation Bravo Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest Steam price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Steam</span>
-<span class="pull-right">$47.22</span></a>
+<span class="pull-right">$56.99</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://bitskins.com/?market_hash_name=Operation%20Bravo%20Case&amp;referred_by=76561197961670681&amp;sort_by=price&amp;order=asc&amp;is_stattrak=-1" target="_blank" class="btn btn-default bitskins-button " data-gaevent="Operation Bravo Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/bitskins.png?id=4726663ef591c414c8c69456fe7294a7" alt="BitSkins Logo">BitSkins</span>
-<span class="pull-right">$35.00</span></a>
+<span class="pull-right">$45.95</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://p2p.bitskins.com/?ref_alias=CSGOStash&amp;search={%22where%22:{%22name%22:%22Operation%20Bravo%20Case%22},%22order_by%22:{%22key%22:%22price%22,%22order%22:%22ASC%22}}" target="_blank" class="btn btn-default bitskins-button disabled-clickable" data-gaevent="Operation Bravo Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins P2P price">
@@ -545,7 +545,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# currently for sale">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Listings
 <span class="pull-right">
-610
+212
 </span>
 </td>
 </tr>
@@ -553,7 +553,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="Median price of items sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Median
 <span class="pull-right">
-$45.65
+$56.89
 </span>
 </td>
 </tr>
@@ -561,7 +561,7 @@ $45.65
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Volume
 <span class="pull-right">
-245
+199
 </span>
 </td>
 </tr>
@@ -742,10 +742,10 @@ Rarity
 <p class="nomargin">\xe2\x98\x85 Rare Special Items \xe2\x98\x85</p>
 </div>
 <a href="https://csgostash.com/case/3/Operation-Bravo-Case?Knives=1"><img class="img-responsive center-block margin-top-sm rare-item-header-img" src="https://csgostash.com/img/misc/rare_item.png?id=3a8208a7138f9be71c5cfe2c47b80874" alt="Rare Item Drop"></a>
-<a href="https://csgostash.com/case/3/Operation-Bravo-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_aa_fade_light_large.6e89c23706eafc34e7713c264fddeb94444a9b67.png" alt="Gut Knife Fade"></a>
-<a href="https://csgostash.com/case/3/Operation-Bravo-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_karambit.8b491b581a4b9c7b5298071425f2b29a39a2a12f.png" alt="Karambit \xe2\x98\x85 (Vanilla)"></a>
-<a href="https://csgostash.com/case/3/Operation-Bravo-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_am_zebra_light_large.c374f8e71f300e4351b680b6246da645d3dea01d.png" alt="Gut Knife Slaughter"></a>
-<a href="https://csgostash.com/case/3/Operation-Bravo-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_hy_webs_light_large.61217494aaae26081c31d87f15739f42b4c1444a.png" alt="Karambit Crimson Web"></a>
+<a href="https://csgostash.com/case/3/Operation-Bravo-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_aa_fade_light_large.5ac4f422043b48b47e4453cc250c79fda3e78855.png" alt="Bayonet Fade"></a>
+<a href="https://csgostash.com/case/3/Operation-Bravo-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_flip.ebfc00735792b1e2947b30a321a07215dae8ceed.png" alt="Flip Knife \xe2\x98\x85 (Vanilla)"></a>
+<a href="https://csgostash.com/case/3/Operation-Bravo-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_am_zebra_light_large.53f9641b2b66b6587f779e5f222cc98a48489a1e.png" alt="M9 Bayonet Slaughter"></a>
+<a href="https://csgostash.com/case/3/Operation-Bravo-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_aq_oiled_light_large.f141737f74526886d0d4895281e9a57526314c5c.png" alt="Gut Knife Case Hardened"></a>
 <div class="details-link">
 <a href="https://csgostash.com/case/3/Operation-Bravo-Case?Knives=1"><h4>65 Possible Knives</h4>
 <p class="nomargin"><span class="glyphicon glyphicon glyphicon-link"></span>All Operation Bravo Case Knives</p></a>
@@ -767,17 +767,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/114/AK-47-Fire-Serpent"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_fireserpent_ak47_bravo_light_large.9390e7fd091ea8a0434fd2143e0acf0d5d1bbc97.png" alt="AK-47 Fire Serpent"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/114/AK-47-Fire-Serpent">$641.96 - $3,650.00</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/114/AK-47-Fire-Serpent">$567.91 - $1,300.00</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/114/AK-47-Fire-Serpent">$1,147.50 - $7,500.00</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/114/AK-47-Fire-Serpent">$1,147.05 - $6,000.00</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S76561198251702978A7004230400D903048837917845911" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="AK-47 Fire Serpent">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ak47&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Fire+Serpent" class="btn btn-default market-button-skin" data-gaevent="AK-47 Fire Serpent" target="_blank" rel="nofollow">25 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ak47&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Fire+Serpent" class="btn btn-default market-button-skin" data-gaevent="AK-47 Fire Serpent" target="_blank" rel="nofollow">30 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/114/AK-47-Fire-Serpent"><span class="glyphicon glyphicon glyphicon-link"></span>AK-47 Fire Serpent Skin &amp; Price Details</a></p>
@@ -799,17 +799,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/120/Desert-Eagle-Golden-Koi"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_scales_bravo_light_large.6cba46695e74a8bee932ea90cea24e146cbef5e7.png" alt="Desert Eagle Golden Koi"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/120/Desert-Eagle-Golden-Koi">$38.03 - $39.76</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/120/Desert-Eagle-Golden-Koi">$44.53 - $45.33</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/120/Desert-Eagle-Golden-Koi">$124.25</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/120/Desert-Eagle-Golden-Koi">$127.37</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M567835434497858214A6893148684D2759836217530515559" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Desert Eagle Golden Koi">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_deagle&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Golden+Koi" class="btn btn-default market-button-skin" data-gaevent="Desert Eagle Golden Koi" target="_blank" rel="nofollow">111 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_deagle&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Golden+Koi" class="btn btn-default market-button-skin" data-gaevent="Desert Eagle Golden Koi" target="_blank" rel="nofollow">82 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/120/Desert-Eagle-Golden-Koi"><span class="glyphicon glyphicon glyphicon-link"></span>Desert Eagle Golden Koi Skin &amp; Price Details</a></p>
@@ -831,20 +831,52 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/117/P2000-Ocean-Foam"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_am_ossify_blue_p2000_bravo_light_large.91f225635f7e4a986b51e09bba106ca6a4bf7dbb.png" alt="P2000 Ocean Foam"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/117/P2000-Ocean-Foam">$134.23 - $143.00</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/117/P2000-Ocean-Foam">$140.00 - $183.90</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/117/P2000-Ocean-Foam">$391.00 - $1,061.19</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/117/P2000-Ocean-Foam">$428.98 - $1,056.59</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534597094873A7017038068D11963933693086198882" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P2000 Ocean Foam">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_hkp2000&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Ocean+Foam" class="btn btn-default market-button-skin" data-gaevent="P2000 Ocean Foam" target="_blank" rel="nofollow">50 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_hkp2000&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Ocean+Foam" class="btn btn-default market-button-skin" data-gaevent="P2000 Ocean Foam" target="_blank" rel="nofollow">31 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/117/P2000-Ocean-Foam"><span class="glyphicon glyphicon glyphicon-link"></span>P2000 Ocean Foam Skin &amp; Price Details</a></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="well result-box nomargin">
+<h3><a href="https://csgostash.com/weapon/P90">P90</a> | <a href="https://csgostash.com/family/Emerald+Dragon">Emerald Dragon</a></h3>
+<a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
+<div class="quality color-classified">
+<p class="nomargin">Classified SMG
+<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
+</p>
+</div>
+</a>
+<div class="stattrak">
+<p class="nomargin">StatTrak Available</p>
+</div>
+<a href="https://csgostash.com/skin/121/P90-Emerald-Dragon"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_dragon_p90_bravo_light_large.200ef513ae29ae7651ad3f31e68b5b186279572f.png" alt="P90 Emerald Dragon"></a>
+<div class="price">
+<p class="nomargin"><a href="https://csgostash.com/skin/121/P90-Emerald-Dragon">$119.00 - $365.30</a></p>
+</div>
+<div class="price">
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/121/P90-Emerald-Dragon">$193.60 - $1,685.14</a></p>
+</div>
+<div class="collection">
+<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
+</div>
+<div class="btn-group-sm btn-group-justified">
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M630880341064537635A6323088408D9991884485224246491" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P90 Emerald Dragon">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p90&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Emerald+Dragon" class="btn btn-default market-button-skin" data-gaevent="P90 Emerald Dragon" target="_blank" rel="nofollow">71 Steam Listings</a>
+</div>
+<div class="details-link">
+<p class="nomargin"><a href="https://csgostash.com/skin/121/P90-Emerald-Dragon"><span class="glyphicon glyphicon glyphicon-link"></span>P90 Emerald Dragon Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -871,38 +903,6 @@ Rarity
 </div>
 <div class="col-lg-4 col-md-6 col-widen text-center">
 <div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/P90">P90</a> | <a href="https://csgostash.com/family/Emerald+Dragon">Emerald Dragon</a></h3>
-<a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
-<div class="quality color-classified">
-<p class="nomargin">Classified SMG
-<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
-</p>
-</div>
-</a>
-<div class="stattrak">
-<p class="nomargin">StatTrak Available</p>
-</div>
-<a href="https://csgostash.com/skin/121/P90-Emerald-Dragon"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_dragon_p90_bravo_light_large.200ef513ae29ae7651ad3f31e68b5b186279572f.png" alt="P90 Emerald Dragon"></a>
-<div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/121/P90-Emerald-Dragon">$98.90 - $368.78</a></p>
-</div>
-<div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/121/P90-Emerald-Dragon">$217.54 - $1,689.37</a></p>
-</div>
-<div class="collection">
-<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
-</div>
-<div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M630880341064537635A6323088408D9991884485224246491" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P90 Emerald Dragon">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p90&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Emerald+Dragon" class="btn btn-default market-button-skin" data-gaevent="P90 Emerald Dragon" target="_blank" rel="nofollow">77 Steam Listings</a>
-</div>
-<div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/121/P90-Emerald-Dragon"><span class="glyphicon glyphicon glyphicon-link"></span>P90 Emerald Dragon Skin &amp; Price Details</a></p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6 col-widen text-center">
-<div class="well result-box nomargin">
 <h3><a href="https://csgostash.com/weapon/AWP">AWP</a> | <a href="https://csgostash.com/family/Graphite">Graphite</a></h3>
 <a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
 <div class="quality color-classified">
@@ -916,52 +916,20 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/110/AWP-Graphite"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_am_crumple_bravo_light_large.5f59de227d280f3c3b39fae7e49ac143338ca5b2.png" alt="AWP Graphite"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/110/AWP-Graphite">$191.02 - $210.97</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/110/AWP-Graphite">$208.16 - $211.31</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/110/AWP-Graphite">$407.00 - $452.27</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/110/AWP-Graphite">$328.60 - $443.76</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534594060403A7012829718D12592631941604242947" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="AWP Graphite">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_awp&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Graphite" class="btn btn-default market-button-skin" data-gaevent="AWP Graphite" target="_blank" rel="nofollow">209 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_awp&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Graphite" class="btn btn-default market-button-skin" data-gaevent="AWP Graphite" target="_blank" rel="nofollow">187 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/110/AWP-Graphite"><span class="glyphicon glyphicon glyphicon-link"></span>AWP Graphite Skin &amp; Price Details</a></p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6 col-widen text-center">
-<div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/M4A4">M4A4</a> | <a href="https://csgostash.com/family/Zirka">Zirka</a></h3>
-<a class="nounderline" href="https://csgostash.com/skin-rarity/Restricted" title="All Restricted Skins">
-<div class="quality color-restricted">
-<p class="nomargin">Restricted Rifle
-<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
-</p>
-</div>
-</a>
-<div class="stattrak">
-<p class="nomargin">StatTrak Available</p>
-</div>
-<a href="https://csgostash.com/skin/119/M4A4-Zirka"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_sp_star_bravo_light_large.d4a56abe885a1a03ea173a6aaeb4f10bcec6a0c2.png" alt="M4A4 Zirka"></a>
-<div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/119/M4A4-Zirka">$24.96 - $42.45</a></p>
-</div>
-<div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/119/M4A4-Zirka">$40.05 - $300.00</a></p>
-</div>
-<div class="collection">
-<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
-</div>
-<div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M633137629096977189A7015430266D5540700814263271648" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M4A4 Zirka">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Zirka" class="btn btn-default market-button-skin" data-gaevent="M4A4 Zirka" target="_blank" rel="nofollow">469 Steam Listings</a>
-</div>
-<div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/119/M4A4-Zirka"><span class="glyphicon glyphicon glyphicon-link"></span>M4A4 Zirka Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -980,20 +948,52 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/109/USP-S-Overgrowth"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_hy_siege_bravo_light_large.517b89e78bfe8bad7ca1aab7edf1d02a56b2da26.png" alt="USP-S Overgrowth"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/109/USP-S-Overgrowth">$23.83 - $67.68</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/109/USP-S-Overgrowth">$23.55 - $78.98</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/109/USP-S-Overgrowth">$39.99 - $343.87</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/109/USP-S-Overgrowth">$40.89 - $308.45</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M192910765523690831A6900299828D4647724359643658185" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="USP-S Overgrowth">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_usp_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Overgrowth" class="btn btn-default market-button-skin" data-gaevent="USP-S Overgrowth" target="_blank" rel="nofollow">328 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_usp_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Overgrowth" class="btn btn-default market-button-skin" data-gaevent="USP-S Overgrowth" target="_blank" rel="nofollow">308 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/109/USP-S-Overgrowth"><span class="glyphicon glyphicon glyphicon-link"></span>USP-S Overgrowth Skin &amp; Price Details</a></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="well result-box nomargin">
+<h3><a href="https://csgostash.com/weapon/M4A4">M4A4</a> | <a href="https://csgostash.com/family/Zirka">Zirka</a></h3>
+<a class="nounderline" href="https://csgostash.com/skin-rarity/Restricted" title="All Restricted Skins">
+<div class="quality color-restricted">
+<p class="nomargin">Restricted Rifle
+<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
+</p>
+</div>
+</a>
+<div class="stattrak">
+<p class="nomargin">StatTrak Available</p>
+</div>
+<a href="https://csgostash.com/skin/119/M4A4-Zirka"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_sp_star_bravo_light_large.d4a56abe885a1a03ea173a6aaeb4f10bcec6a0c2.png" alt="M4A4 Zirka"></a>
+<div class="price">
+<p class="nomargin"><a href="https://csgostash.com/skin/119/M4A4-Zirka">$24.52 - $39.12</a></p>
+</div>
+<div class="price">
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/119/M4A4-Zirka">$48.09 - $170.54</a></p>
+</div>
+<div class="collection">
+<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
+</div>
+<div class="btn-group-sm btn-group-justified">
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M633137629096977189A7015430266D5540700814263271648" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M4A4 Zirka">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Zirka" class="btn btn-default market-button-skin" data-gaevent="M4A4 Zirka" target="_blank" rel="nofollow">468 Steam Listings</a>
+</div>
+<div class="details-link">
+<p class="nomargin"><a href="https://csgostash.com/skin/119/M4A4-Zirka"><span class="glyphicon glyphicon glyphicon-link"></span>M4A4 Zirka Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -1012,17 +1012,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/116/MAC-10-Graven"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_aq_etched_mac10_bravo_light_large.ec4cf2f7748ac5318292630c8c7e3c2d016723e3.png" alt="MAC-10 Graven"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/116/MAC-10-Graven">$22.00 - $39.92</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/116/MAC-10-Graven">$24.05 - $87.63</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/116/MAC-10-Graven">$36.61 - $98.70</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/116/MAC-10-Graven">$43.85 - $115.00</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M628634029468861335A6091881561D6955401611709760747" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MAC-10 Graven">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mac10&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Graven" class="btn btn-default market-button-skin" data-gaevent="MAC-10 Graven" target="_blank" rel="nofollow">149 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mac10&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Graven" class="btn btn-default market-button-skin" data-gaevent="MAC-10 Graven" target="_blank" rel="nofollow">140 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/116/MAC-10-Graven"><span class="glyphicon glyphicon glyphicon-link"></span>MAC-10 Graven Skin &amp; Price Details</a></p>
@@ -1044,52 +1044,20 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/123/M4A1-S-Bright-Water"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_hy_ocean_bravo_light_large.7a942449926153575269af174733edc7bed5faeb.png" alt="M4A1-S Bright Water"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/123/M4A1-S-Bright-Water">$26.40 - $28.66</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/123/M4A1-S-Bright-Water">$26.11 - $26.77</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/123/M4A1-S-Bright-Water">$57.12 - $58.50</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/123/M4A1-S-Bright-Water">$49.62 - $59.15</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M628634029470049505A6930959569D16897590388671992780" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M4A1-S Bright Water">Inspect in-game (MW)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Bright+Water" class="btn btn-default market-button-skin" data-gaevent="M4A1-S Bright Water" target="_blank" rel="nofollow">541 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Bright+Water" class="btn btn-default market-button-skin" data-gaevent="M4A1-S Bright Water" target="_blank" rel="nofollow">545 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/123/M4A1-S-Bright-Water"><span class="glyphicon glyphicon glyphicon-link"></span>M4A1-S Bright Water Skin &amp; Price Details</a></p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6 col-widen text-center">
-<div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/Galil+AR">Galil AR</a> | <a href="https://csgostash.com/family/Shattered">Shattered</a></h3>
-<a class="nounderline" href="https://csgostash.com/skin-rarity/Mil-Spec" title="All Mil-Spec Skins">
-<div class="quality color-milspec">
-<p class="nomargin">Mil-Spec Rifle
-<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
-</p>
-</div>
-</a>
-<div class="stattrak">
-<p class="nomargin">StatTrak Available</p>
-</div>
-<a href="https://csgostash.com/skin/112/Galil-AR-Shattered"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_hy_crumple_bravo_light_large.fcf25827c0ef88bac7e5b0567ecd5a7dbee01791.png" alt="Galil AR Shattered"></a>
-<div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/112/Galil-AR-Shattered">$4.22 - $14.29</a></p>
-</div>
-<div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/112/Galil-AR-Shattered">$5.20 - $91.28</a></p>
-</div>
-<div class="collection">
-<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
-</div>
-<div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M192910765522237091A7002805183D12592634939092399021" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Galil AR Shattered">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_galilar&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Shattered" class="btn btn-default market-button-skin" data-gaevent="Galil AR Shattered" target="_blank" rel="nofollow">456 Steam Listings</a>
-</div>
-<div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/112/Galil-AR-Shattered"><span class="glyphicon glyphicon glyphicon-link"></span>Galil AR Shattered Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -1108,20 +1076,52 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/113/SG-553-Wave-Spray"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_sp_spray_waves_bravo_light_large.5d4e0e3977bf9f1fa8dd1576b5576b429546f98d.png" alt="SG 553 Wave Spray"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/113/SG-553-Wave-Spray">$4.63 - $40.26</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/113/SG-553-Wave-Spray">$4.78 - $17.38</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/113/SG-553-Wave-Spray">$5.17 - $63.20</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/113/SG-553-Wave-Spray">$5.30 - $98.50</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M630885829277857687A7005309936D9955353120696748497" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="SG 553 Wave Spray">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_sg556&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Wave+Spray" class="btn btn-default market-button-skin" data-gaevent="SG 553 Wave Spray" target="_blank" rel="nofollow">534 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_sg556&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Wave+Spray" class="btn btn-default market-button-skin" data-gaevent="SG 553 Wave Spray" target="_blank" rel="nofollow">511 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/113/SG-553-Wave-Spray"><span class="glyphicon glyphicon glyphicon-link"></span>SG 553 Wave Spray Skin &amp; Price Details</a></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="well result-box nomargin">
+<h3><a href="https://csgostash.com/weapon/Galil+AR">Galil AR</a> | <a href="https://csgostash.com/family/Shattered">Shattered</a></h3>
+<a class="nounderline" href="https://csgostash.com/skin-rarity/Mil-Spec" title="All Mil-Spec Skins">
+<div class="quality color-milspec">
+<p class="nomargin">Mil-Spec Rifle
+<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
+</p>
+</div>
+</a>
+<div class="stattrak">
+<p class="nomargin">StatTrak Available</p>
+</div>
+<a href="https://csgostash.com/skin/112/Galil-AR-Shattered"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_hy_crumple_bravo_light_large.fcf25827c0ef88bac7e5b0567ecd5a7dbee01791.png" alt="Galil AR Shattered"></a>
+<div class="price">
+<p class="nomargin"><a href="https://csgostash.com/skin/112/Galil-AR-Shattered">$5.11 - $14.22</a></p>
+</div>
+<div class="price">
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/112/Galil-AR-Shattered">$6.10 - $81.09</a></p>
+</div>
+<div class="collection">
+<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
+</div>
+<div class="btn-group-sm btn-group-justified">
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M192910765522237091A7002805183D12592634939092399021" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Galil AR Shattered">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_galilar&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Shattered" class="btn btn-default market-button-skin" data-gaevent="Galil AR Shattered" target="_blank" rel="nofollow">447 Steam Listings</a>
+</div>
+<div class="details-link">
+<p class="nomargin"><a href="https://csgostash.com/skin/112/Galil-AR-Shattered"><span class="glyphicon glyphicon glyphicon-link"></span>Galil AR Shattered Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -1140,17 +1140,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/111/G3SG1-Demeter"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_hy_bluepolygon_bravo_light_large.6638623a4979512bb048fa22f9ec06a5c1172c7e.png" alt="G3SG1 Demeter"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/111/G3SG1-Demeter">$4.20 - $12.88</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/111/G3SG1-Demeter">$4.76 - $15.79</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/111/G3SG1-Demeter">$5.43 - $62.26</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/111/G3SG1-Demeter">$5.60 - $61.38</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534594590463A7013313577D7413066300910097013" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="G3SG1 Demeter">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_g3sg1&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Demeter" class="btn btn-default market-button-skin" data-gaevent="G3SG1 Demeter" target="_blank" rel="nofollow">507 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_g3sg1&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Demeter" class="btn btn-default market-button-skin" data-gaevent="G3SG1 Demeter" target="_blank" rel="nofollow">471 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/111/G3SG1-Demeter"><span class="glyphicon glyphicon glyphicon-link"></span>G3SG1 Demeter Skin &amp; Price Details</a></p>
@@ -1172,17 +1172,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/122/Nova-Tempest"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_hy_seaside_bravo_light_large.bad13bb67e67ee02b782a574376df5e7e4ff766d.png" alt="Nova Tempest"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/122/Nova-Tempest">$5.11 - $12.90</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/122/Nova-Tempest">$5.20 - $11.65</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/122/Nova-Tempest">$6.00 - $33.26</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/122/Nova-Tempest">$6.47 - $31.11</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M629759929378438396A7015998069D28902350055458013" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Nova Tempest">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_nova&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Tempest" class="btn btn-default market-button-skin" data-gaevent="Nova Tempest" target="_blank" rel="nofollow">369 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_nova&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Tempest" class="btn btn-default market-button-skin" data-gaevent="Nova Tempest" target="_blank" rel="nofollow">372 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/122/Nova-Tempest"><span class="glyphicon glyphicon glyphicon-link"></span>Nova Tempest Skin &amp; Price Details</a></p>
@@ -1204,17 +1204,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/115/UMP-45-Bone-Pile"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_sp_skull_diagram_bravo_light_large.f3bf563f6e0274f55377e4fe0422905586a3d19b.png" alt="UMP-45 Bone Pile"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/115/UMP-45-Bone-Pile">$5.06 - $12.08</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/115/UMP-45-Bone-Pile">$4.99 - $13.37</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/115/UMP-45-Bone-Pile">$5.64 - $31.81</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/115/UMP-45-Bone-Pile">$7.15 - $29.00</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M628634029434729225A290767691D17150486256168466500" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="UMP-45 Bone Pile">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ump45&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Bone+Pile" class="btn btn-default market-button-skin" data-gaevent="UMP-45 Bone Pile" target="_blank" rel="nofollow">364 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ump45&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Bone+Pile" class="btn btn-default market-button-skin" data-gaevent="UMP-45 Bone Pile" target="_blank" rel="nofollow">343 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/115/UMP-45-Bone-Pile"><span class="glyphicon glyphicon glyphicon-link"></span>UMP-45 Bone Pile Skin &amp; Price Details</a></p>
@@ -1236,17 +1236,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/118/Dual-Berettas-Black-Limba"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_season_elites_bravo_light_large.03b5f4afcbffb80f73ce009da240f4aa1455c15f.png" alt="Dual Berettas Black Limba"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/118/Dual-Berettas-Black-Limba">$4.26 - $12.93</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/118/Dual-Berettas-Black-Limba">$4.77 - $17.36</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/118/Dual-Berettas-Black-Limba">$5.24 - $39.50</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/118/Dual-Berettas-Black-Limba">$5.64 - $39.50</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsXE1xNwVDv7WrFA5pnabNJGwSuN3gxtnawKOlMO6HzzhQucAm0uvFo4n2iw3h_UM-ZmilJNeLMlhpjfjxEoE/50fx38f" alt="Operation Bravo Case">Operation Bravo Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M630885829278094067A7005525866D7216497951248624732" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Dual Berettas Black Limba">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_elite&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Black+Limba" class="btn btn-default market-button-skin" data-gaevent="Dual Berettas Black Limba" target="_blank" rel="nofollow">468 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_elite&amp;category_730_ItemSet%5B0%5D=tag_set_bravo_i&amp;appid=730&amp;q=Black+Limba" class="btn btn-default market-button-skin" data-gaevent="Dual Berettas Black Limba" target="_blank" rel="nofollow">443 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/118/Dual-Berettas-Black-Limba"><span class="glyphicon glyphicon glyphicon-link"></span>Dual Berettas Black Limba Skin &amp; Price Details</a></p>
@@ -1355,6 +1355,6 @@ Rarity
 <script src="https://csgostash.com/js/vendor.js?id=65ca2070436a0d6cc0e0ee3ea177a58a"></script>
 "<script>var sf = 'https://csgostash.com/js/sf.json?id=c9fb15cbd288b42843e618c4ea80f6b0';</script>"
 <script src="https://csgostash.com/js/app.js?id=f0db3a9f58dd5e6b54e6996a5f14a4e2"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a271f67c9d5e268","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a96cce6bf6e2b1c","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
 </body>
 </html>

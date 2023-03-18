@@ -507,7 +507,7 @@
 <a href="https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case" target="_blank" rel="nofollow" class="market-button-item" data-gaevent="Dreams &amp; Nightmares Case">
 <img class="img-responsive center-block content-header-img-margin" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/256fx256f" alt="Dreams &amp; Nightmares Case"></a>
 <div class="btn-group content-header-container-btn">
-<a href="https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="Dreams &amp; Nightmares Case">$0.77 on Steam</a>
+<a href="https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="Dreams &amp; Nightmares Case">$0.84 on Steam</a>
 <a class="btn btn-default" data-toggle="collapse" href="#case-item-details" aria-expanded="false" aria-controls="case-item-details">Market Details <span class="glyphicon glyphicon-chevron-down collapse-chevron"></span></a>
 </div>
 </div>
@@ -525,12 +525,12 @@
 <div class="btn-group btn-group-justified">
 <a href="https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item " data-gaevent="Dreams &amp; Nightmares Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest Steam price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Steam</span>
-<span class="pull-right">$0.77</span></a>
+<span class="pull-right">$0.84</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://bitskins.com/?market_hash_name=Dreams%20%26%20Nightmares%20Case&amp;referred_by=76561197961670681&amp;sort_by=price&amp;order=asc&amp;is_stattrak=-1" target="_blank" class="btn btn-default bitskins-button " data-gaevent="Dreams &amp; Nightmares Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/bitskins.png?id=4726663ef591c414c8c69456fe7294a7" alt="BitSkins Logo">BitSkins</span>
-<span class="pull-right">$0.55</span></a>
+<span class="pull-right">$0.66</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://p2p.bitskins.com/?ref_alias=CSGOStash&amp;search={%22where%22:{%22name%22:%22Dreams%20%26%20Nightmares%20Case%22},%22order_by%22:{%22key%22:%22price%22,%22order%22:%22ASC%22}}" target="_blank" class="btn btn-default bitskins-button disabled-clickable" data-gaevent="Dreams &amp; Nightmares Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins P2P price">
@@ -545,7 +545,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# currently for sale">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Listings
 <span class="pull-right">
-117672
+43203
 </span>
 </td>
 </tr>
@@ -740,10 +740,10 @@ Rarity
 <p class="nomargin">\xe2\x98\x85 Rare Special Items \xe2\x98\x85</p>
 </div>
 <a href="https://csgostash.com/case/339/Dreams-&amp;-Nightmares-Case?Knives=1"><img class="img-responsive center-block margin-top-sm rare-item-header-img" src="https://csgostash.com/img/misc/rare_item.png?id=3a8208a7138f9be71c5cfe2c47b80874" alt="Rare Item Drop"></a>
-<a href="https://csgostash.com/case/339/Dreams-&amp;-Nightmares-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_am_emerald_marbleized_light_large.86b54169ca00cfa482715e49b558e9e74776a669.png" alt="Falchion Knife Gamma Doppler"></a>
-<a href="https://csgostash.com/case/339/Dreams-&amp;-Nightmares-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_cu_push_lore_light_large.75720207a6f8db9d7c8b6a92c111c776ebd35508.png" alt="Shadow Daggers Lore"></a>
+<a href="https://csgostash.com/case/339/Dreams-&amp;-Nightmares-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_am_emerald_marbleized_light_large.a30b95a1a77d51fb98fd6d3907681a585a80fdc9.png" alt="Bowie Knife Gamma Doppler"></a>
 <a href="https://csgostash.com/case/339/Dreams-&amp;-Nightmares-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_gs_butterfly_autotronic_light_large.02e4e5002d0b54d85cc3d527fe745a614e72405e.png" alt="Butterfly Knife Autotronic"></a>
 <a href="https://csgostash.com/case/339/Dreams-&amp;-Nightmares-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_am_marked_up_90_light_large.cbfa16ed4ffd00d17f847b46677d5e4cb58dd5f1.png" alt="Shadow Daggers Freehand"></a>
+<a href="https://csgostash.com/case/339/Dreams-&amp;-Nightmares-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_cu_bowie_lore_light_large.83091fde14cb5dea85805779420387bdd18c6126.png" alt="Bowie Knife Lore"></a>
 <div class="details-link">
 <a href="https://csgostash.com/case/339/Dreams-&amp;-Nightmares-Case?Knives=1"><h4>30 Possible Knives</h4>
 <p class="nomargin"><span class="glyphicon glyphicon glyphicon-link"></span>All Dreams &amp; Nightmares Case Knives</p></a>
@@ -765,17 +765,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1515/AK-47-Nightwish"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_nightwish_light_large.0c4581be094e2bd732bec18ebdad2f71b1018af2.png" alt="AK-47 Nightwish"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1515/AK-47-Nightwish">$10.59 - $120.00</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1515/AK-47-Nightwish">$10.65 - $133.66</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1515/AK-47-Nightwish">$21.48 - $298.50</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1515/AK-47-Nightwish">$21.80 - $385.90</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3555030120138050167A24661215825D12108635738036396447" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="AK-47 Nightwish">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ak47&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Nightwish" class="btn btn-default market-button-skin" data-gaevent="AK-47 Nightwish" target="_blank" rel="nofollow">501 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ak47&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Nightwish" class="btn btn-default market-button-skin" data-gaevent="AK-47 Nightwish" target="_blank" rel="nofollow">568 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1515/AK-47-Nightwish"><span class="glyphicon glyphicon glyphicon-link"></span>AK-47 Nightwish Skin &amp; Price Details</a></p>
@@ -797,17 +797,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1516/MP9-Starlight-Protector"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_gs_mp9_starlight_light_large.79d29560c71c4ba592824c1a1e3a8172cc7269be.png" alt="MP9 Starlight Protector"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1516/MP9-Starlight-Protector">$4.05 - $36.25</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1516/MP9-Starlight-Protector">$3.93 - $37.83</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1516/MP9-Starlight-Protector">$9.00 - $86.18</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1516/MP9-Starlight-Protector">$7.86 - $86.45</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3551652420412976724A24656266760D12271370277823767294" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MP9 Starlight Protector">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp9&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Starlight+Protector" class="btn btn-default market-button-skin" data-gaevent="MP9 Starlight Protector" target="_blank" rel="nofollow">483 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp9&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Starlight+Protector" class="btn btn-default market-button-skin" data-gaevent="MP9 Starlight Protector" target="_blank" rel="nofollow">537 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1516/MP9-Starlight-Protector"><span class="glyphicon glyphicon glyphicon-link"></span>MP9 Starlight Protector Skin &amp; Price Details</a></p>
@@ -829,20 +829,52 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1512/Dual-Berettas-Melondrama"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_elites_beware_light_large.3a4517010e237136f9cca5c593beedd94a2a0a15.png" alt="Dual Berettas Melondrama"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1512/Dual-Berettas-Melondrama">$1.78 - $10.72</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1512/Dual-Berettas-Melondrama">$1.80 - $10.75</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1512/Dual-Berettas-Melondrama">$2.82 - $23.15</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1512/Dual-Berettas-Melondrama">$2.96 - $26.42</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3547148820788378560A24660967823D11721920052491218518" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Dual Berettas Melondrama">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_elite&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Melondrama" class="btn btn-default market-button-skin" data-gaevent="Dual Berettas Melondrama" target="_blank" rel="nofollow">1027 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_elite&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Melondrama" class="btn btn-default market-button-skin" data-gaevent="Dual Berettas Melondrama" target="_blank" rel="nofollow">814 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1512/Dual-Berettas-Melondrama"><span class="glyphicon glyphicon glyphicon-link"></span>Dual Berettas Melondrama Skin &amp; Price Details</a></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="well result-box nomargin">
+ <h3><a href="https://csgostash.com/weapon/FAMAS">FAMAS</a> | <a href="https://csgostash.com/family/Rapid+Eye+Movement">Rapid Eye Movement</a></h3>
+<a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
+<div class="quality color-classified">
+<p class="nomargin">Classified Rifle
+<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
+</p>
+</div>
+</a>
+<div class="stattrak">
+<p class="nomargin">StatTrak Available</p>
+</div>
+<a href="https://csgostash.com/skin/1513/FAMAS-Rapid-Eye-Movement"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_gs_famas_rapid_eyes_light_large.8a166e6d36121b16dddc11b9aca94d5c541b0b56.png" alt="FAMAS Rapid Eye Movement"></a>
+<div class="price">
+<p class="nomargin"><a href="https://csgostash.com/skin/1513/FAMAS-Rapid-Eye-Movement">$1.74 - $11.78</a></p>
+</div>
+<div class="price">
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1513/FAMAS-Rapid-Eye-Movement">$2.71 - $26.04</a></p>
+</div>
+<div class="collection">
+<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
+</div>
+<div class="btn-group-sm btn-group-justified">
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3565163219298886996A24660709398D12116594836820202040" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="FAMAS Rapid Eye Movement">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_famas&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Rapid+Eye+Movement" class="btn btn-default market-button-skin" data-gaevent="FAMAS Rapid Eye Movement" target="_blank" rel="nofollow">911 Steam Listings</a>
+</div>
+<div class="details-link">
+<p class="nomargin"><a href="https://csgostash.com/skin/1513/FAMAS-Rapid-Eye-Movement"><span class="glyphicon glyphicon glyphicon-link"></span>FAMAS Rapid Eye Movement Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -882,52 +914,20 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1514/MP7-Abyssal-Apparition"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7_fear_light_large.17f608ce70f44af09c1a92c541430804429ae2d6.png" alt="MP7 Abyssal Apparition"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1514/MP7-Abyssal-Apparition">$1.67 - $10.18</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1514/MP7-Abyssal-Apparition">$1.67 - $11.76</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1514/MP7-Abyssal-Apparition">$3.19 - $22.48</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1514/MP7-Abyssal-Apparition">$2.81 - $25.96</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3551652420412900804A24656145619D12258803580297994281" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MP7 Abyssal Apparition">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp7&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Abyssal+Apparition" class="btn btn-default market-button-skin" data-gaevent="MP7 Abyssal Apparition" target="_blank" rel="nofollow">979 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp7&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Abyssal+Apparition" class="btn btn-default market-button-skin" data-gaevent="MP7 Abyssal Apparition" target="_blank" rel="nofollow">892 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1514/MP7-Abyssal-Apparition"><span class="glyphicon glyphicon glyphicon-link"></span>MP7 Abyssal Apparition Skin &amp; Price Details</a></p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6 col-widen text-center">
-<div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/FAMAS">FAMAS</a> | <a href="https://csgostash.com/family/Rapid+Eye+Movement">Rapid Eye Movement</a></h3>
-<a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
-<div class="quality color-classified">
-<p class="nomargin">Classified Rifle
-<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
-</p>
-</div>
-</a>
-<div class="stattrak">
-<p class="nomargin">StatTrak Available</p>
-</div>
-<a href="https://csgostash.com/skin/1513/FAMAS-Rapid-Eye-Movement"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_gs_famas_rapid_eyes_light_large.8a166e6d36121b16dddc11b9aca94d5c541b0b56.png" alt="FAMAS Rapid Eye Movement"></a>
-<div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1513/FAMAS-Rapid-Eye-Movement">$1.76 - $9.74</a></p>
-</div>
-<div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1513/FAMAS-Rapid-Eye-Movement">$2.82 - $21.29</a></p>
-</div>
-<div class="collection">
-<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
-</div>
-<div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3565163219298886996A24660709398D12116594836820202040" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="FAMAS Rapid Eye Movement">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_famas&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Rapid+Eye+Movement" class="btn btn-default market-button-skin" data-gaevent="FAMAS Rapid Eye Movement" target="_blank" rel="nofollow">1220 Steam Listings</a>
-</div>
-<div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/1513/FAMAS-Rapid-Eye-Movement"><span class="glyphicon glyphicon glyphicon-link"></span>FAMAS Rapid Eye Movement Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -946,17 +946,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1509/M4A1-S-Night-Terror"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_insomnia_light_large.265e6eb866d751caf4bbe7f8c8b62e400c5f0175.png" alt="M4A1-S Night Terror"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1509/M4A1-S-Night-Terror">$1.23 - $3.02</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1509/M4A1-S-Night-Terror">$1.16 - $2.87</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1509/M4A1-S-Night-Terror">$4.26 - $9.13</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1509/M4A1-S-Night-Terror">$3.96 - $8.71</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3552778320323901325A24661333797D2892650899953924524" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M4A1-S Night Terror">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Night+Terror" class="btn btn-default market-button-skin" data-gaevent="M4A1-S Night Terror" target="_blank" rel="nofollow">6976 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Night+Terror" class="btn btn-default market-button-skin" data-gaevent="M4A1-S Night Terror" target="_blank" rel="nofollow">9480 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1509/M4A1-S-Night-Terror"><span class="glyphicon glyphicon glyphicon-link"></span>M4A1-S Night Terror Skin &amp; Price Details</a></p>
@@ -978,17 +978,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1511/USP-S-Ticket-to-Hell"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_to_hell_light_large.13912fa139f2055f7e3044a234ad111bbbce548f.png" alt="USP-S Ticket to Hell"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1511/USP-S-Ticket-to-Hell">$0.53 - $2.87</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1511/USP-S-Ticket-to-Hell">$0.47 - $2.83</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1511/USP-S-Ticket-to-Hell">$2.20 - $10.90</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1511/USP-S-Ticket-to-Hell">$1.96 - $11.73</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3551652420412980804A24656271634D14882325704241386791" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="USP-S Ticket to Hell">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_usp_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Ticket+to+Hell" class="btn btn-default market-button-skin" data-gaevent="USP-S Ticket to Hell" target="_blank" rel="nofollow">4832 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_usp_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Ticket+to+Hell" class="btn btn-default market-button-skin" data-gaevent="USP-S Ticket to Hell" target="_blank" rel="nofollow">6886 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1511/USP-S-Ticket-to-Hell"><span class="glyphicon glyphicon glyphicon-link"></span>USP-S Ticket to Hell Skin &amp; Price Details</a></p>
@@ -1010,17 +1010,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1507/PP-Bizon-Space-Cat"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_cu_bizon_spacecat_light_large.c2c9bbf949c4bdf2ce3173cd2447559177716dd3.png" alt="PP-Bizon Space Cat"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1507/PP-Bizon-Space-Cat">$0.38 - $1.44</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1507/PP-Bizon-Space-Cat">$0.36 - $1.44</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1507/PP-Bizon-Space-Cat">$0.53 - $3.53</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1507/PP-Bizon-Space-Cat">$0.53 - $3.41</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3566289119202868797A24656281949D14188696498661611188" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="PP-Bizon Space Cat">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_bizon&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Space+Cat" class="btn btn-default market-button-skin" data-gaevent="PP-Bizon Space Cat" target="_blank" rel="nofollow">2741 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_bizon&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Space+Cat" class="btn btn-default market-button-skin" data-gaevent="PP-Bizon Space Cat" target="_blank" rel="nofollow">3503 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1507/PP-Bizon-Space-Cat"><span class="glyphicon glyphicon glyphicon-link"></span>PP-Bizon Space Cat Skin &amp; Price Details</a></p>
@@ -1042,17 +1042,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1508/G3SG1-Dream-Glade"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_cu_g3sg1_glade_light_large.93e176857183136f472c81b75331929d7b51d3ad.png" alt="G3SG1 Dream Glade"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1508/G3SG1-Dream-Glade">$0.37 - $1.44</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1508/G3SG1-Dream-Glade">$0.34 - $1.58</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1508/G3SG1-Dream-Glade">$0.48 - $3.45</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1508/G3SG1-Dream-Glade">$0.46 - $3.47</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3566289119206214457A24661205867D7416424210402530933" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="G3SG1 Dream Glade">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_g3sg1&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Dream+Glade" class="btn btn-default market-button-skin" data-gaevent="G3SG1 Dream Glade" target="_blank" rel="nofollow">3609 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_g3sg1&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Dream+Glade" class="btn btn-default market-button-skin" data-gaevent="G3SG1 Dream Glade" target="_blank" rel="nofollow">3471 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1508/G3SG1-Dream-Glade"><span class="glyphicon glyphicon glyphicon-link"></span>G3SG1 Dream Glade Skin &amp; Price Details</a></p>
@@ -1074,17 +1074,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1510/XM1014-Zombie-Offensive"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_am_xm_zombie_offensive_light_large.0e15d69fbf9b3d93b14f54f85fa84bcb45c8f49e.png" alt="XM1014 Zombie Offensive"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1510/XM1014-Zombie-Offensive">$0.39 - $1.27</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1510/XM1014-Zombie-Offensive">$0.36 - $1.33</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1510/XM1014-Zombie-Offensive">$0.54 - $3.00</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1510/XM1014-Zombie-Offensive">$0.48 - $2.88</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3548274720691100441A24656156451D6982457809795387621" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="XM1014 Zombie Offensive">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_xm1014&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Zombie+Offensive" class="btn btn-default market-button-skin" data-gaevent="XM1014 Zombie Offensive" target="_blank" rel="nofollow">2004 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_xm1014&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Zombie+Offensive" class="btn btn-default market-button-skin" data-gaevent="XM1014 Zombie Offensive" target="_blank" rel="nofollow">1943 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1510/XM1014-Zombie-Offensive"><span class="glyphicon glyphicon glyphicon-link"></span>XM1014 Zombie Offensive Skin &amp; Price Details</a></p>
@@ -1106,17 +1106,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1501/MAC-10-Ensnared"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_pixie_light_large.26950e30ef7e74e69920d67965c409b8b88902c8.png" alt="MAC-10 Ensnared"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1501/MAC-10-Ensnared">$0.10 - $0.53</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1501/MAC-10-Ensnared">$0.10 - $0.57</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1501/MAC-10-Ensnared">$0.23 - $2.20</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1501/MAC-10-Ensnared">$0.21 - $2.26</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558407819854963890A24656283954D4939479222357656129" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MAC-10 Ensnared">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mac10&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Ensnared" class="btn btn-default market-button-skin" data-gaevent="MAC-10 Ensnared" target="_blank" rel="nofollow">7982 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mac10&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Ensnared" class="btn btn-default market-button-skin" data-gaevent="MAC-10 Ensnared" target="_blank" rel="nofollow">8418 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1501/MAC-10-Ensnared"><span class="glyphicon glyphicon glyphicon-link"></span>MAC-10 Ensnared Skin &amp; Price Details</a></p>
@@ -1138,17 +1138,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1500/Five-SeveN-Scrawl"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_alpha_omega_light_large.698d00d53621c1b2358655aaff4f729bc0ed6300.png" alt="Five-SeveN Scrawl"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1500/Five-SeveN-Scrawl">$0.10 - $0.39</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1500/Five-SeveN-Scrawl">$0.09 - $0.39</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1500/Five-SeveN-Scrawl">$0.20 - $2.04</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1500/Five-SeveN-Scrawl">$0.20 - $1.91</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3552778320320177505A24656235534D17052500136435805393" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Five-SeveN Scrawl">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_fiveseven&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Scrawl" class="btn btn-default market-button-skin" data-gaevent="Five-SeveN Scrawl" target="_blank" rel="nofollow">9275 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_fiveseven&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Scrawl" class="btn btn-default market-button-skin" data-gaevent="Five-SeveN Scrawl" target="_blank" rel="nofollow">10930 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1500/Five-SeveN-Scrawl"><span class="glyphicon glyphicon glyphicon-link"></span>Five-SeveN Scrawl Skin &amp; Price Details</a></p>
@@ -1173,14 +1173,14 @@ Rarity
 <p class="nomargin"><a href="https://csgostash.com/skin/1503/MP5-SD-Necro-Jr">$0.10 - $0.35</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1503/MP5-SD-Necro-Jr">$0.19 - $1.35</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1503/MP5-SD-Necro-Jr">$0.17 - $1.32</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3568540919017130999A24656168168D16286823912042504603" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MP5-SD Necro Jr.">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp5sd&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Necro+Jr." class="btn btn-default market-button-skin" data-gaevent="MP5-SD Necro Jr." target="_blank" rel="nofollow">8599 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp5sd&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Necro+Jr." class="btn btn-default market-button-skin" data-gaevent="MP5-SD Necro Jr." target="_blank" rel="nofollow">8191 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1503/MP5-SD-Necro-Jr"><span class="glyphicon glyphicon glyphicon-link"></span>MP5-SD Necro Jr. Skin &amp; Price Details</a></p>
@@ -1202,17 +1202,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1504/P2000-Lifted-Spirits"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2k_flying_dream_light_large.db13d5d635e72a5c6d5ab742a6fa3a1ec4129405.png" alt="P2000 Lifted Spirits"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1504/P2000-Lifted-Spirits">$0.10 - $0.32</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1504/P2000-Lifted-Spirits">$0.09 - $0.34</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1504/P2000-Lifted-Spirits">$0.20 - $0.97</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1504/P2000-Lifted-Spirits">$0.17 - $0.92</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3558407819854922430A24656238540D460745986700668456" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P2000 Lifted Spirits">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_hkp2000&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Lifted+Spirits" class="btn btn-default market-button-skin" data-gaevent="P2000 Lifted Spirits" target="_blank" rel="nofollow">8645 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_hkp2000&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Lifted+Spirits" class="btn btn-default market-button-skin" data-gaevent="P2000 Lifted Spirits" target="_blank" rel="nofollow">8789 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1504/P2000-Lifted-Spirits"><span class="glyphicon glyphicon glyphicon-link"></span>P2000 Lifted Spirits Skin &amp; Price Details</a></p>
@@ -1237,14 +1237,14 @@ Rarity
 <p class="nomargin"><a href="https://csgostash.com/skin/1506/Sawed-Off-Spirit-Board">$0.10 - $0.30</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1506/Sawed-Off-Spirit-Board">$0.19 - $0.99</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1506/Sawed-Off-Spirit-Board">$0.18 - $0.81</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3562911419490170134A24661417316D7830073704783633667" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Sawed-Off Spirit Board">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_sawedoff&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Spirit+Board" class="btn btn-default market-button-skin" data-gaevent="Sawed-Off Spirit Board" target="_blank" rel="nofollow">7632 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_sawedoff&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Spirit+Board" class="btn btn-default market-button-skin" data-gaevent="Sawed-Off Spirit Board" target="_blank" rel="nofollow">5917 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1506/Sawed-Off-Spirit-Board"><span class="glyphicon glyphicon glyphicon-link"></span>Sawed-Off Spirit Board Skin &amp; Price Details</a></p>
@@ -1266,17 +1266,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1505/SCAR-20-Poultrygeist"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_sp_scar_chickenfight_light_large.b32fde27f0f45456b4c1e5f049be6f44bc8649b7.png" alt="SCAR-20 Poultrygeist"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1505/SCAR-20-Poultrygeist">$0.10 - $0.27</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1505/SCAR-20-Poultrygeist">$0.10 - $0.31</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1505/SCAR-20-Poultrygeist">$0.20 - $0.80</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1505/SCAR-20-Poultrygeist">$0.19 - $0.74</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3550526520507023303A24656122455D10288721996984247610" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="SCAR-20 Poultrygeist">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_scar20&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Poultrygeist" class="btn btn-default market-button-skin" data-gaevent="SCAR-20 Poultrygeist" target="_blank" rel="nofollow">6315 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_scar20&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Poultrygeist" class="btn btn-default market-button-skin" data-gaevent="SCAR-20 Poultrygeist" target="_blank" rel="nofollow">6049 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1505/SCAR-20-Poultrygeist"><span class="glyphicon glyphicon glyphicon-link"></span>SCAR-20 Poultrygeist Skin &amp; Price Details</a></p>
@@ -1298,17 +1298,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1502/MAG-7-Foresight"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_cu_mag7_predictor_light_large.431734cae141d06a20fa3615d38e3b15c708602a.png" alt="MAG-7 Foresight"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1502/MAG-7-Foresight">$0.09 - $0.25</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1502/MAG-7-Foresight">$0.10 - $0.28</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1502/MAG-7-Foresight">$0.20 - $0.78</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1502/MAG-7-Foresight">$0.18 - $0.71</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/50fx38f" alt="Dreams & Nightmares Case">Dreams & Nightmares Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3550526520507041683A24656310333D3083315243209715735" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MAG-7 Foresight">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mag7&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Foresight" class="btn btn-default market-button-skin" data-gaevent="MAG-7 Foresight" target="_blank" rel="nofollow">6353 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mag7&amp;category_730_ItemSet%5B0%5D=tag_set_community_30&amp;appid=730&amp;q=Foresight" class="btn btn-default market-button-skin" data-gaevent="MAG-7 Foresight" target="_blank" rel="nofollow">7586 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1502/MAG-7-Foresight"><span class="glyphicon glyphicon glyphicon-link"></span>MAG-7 Foresight Skin &amp; Price Details</a></p>
@@ -1334,7 +1334,7 @@ Rarity
 <li><a href="https://csgostash.com/music/68/ULTIMATE-Denzel-Curry">Denzel Curry Music Kit</a></li>
 <li><a href="https://csgostash.com/stickers/capsule/375/Espionage-Sticker-Capsule">Espionage Sticker Capsule</a></li>
 </ul>
- </li>
+</li>
 <li>15 November 2022
 <ul>
 <li><a href="https://csgostash.com/stickers/capsule/372/Rio-2022-Champions-Autograph-Capsule">Rio 2022 Champions Autograph Capsule</a></li>
@@ -1417,6 +1417,6 @@ Rarity
 <script src="https://csgostash.com/js/vendor.js?id=65ca2070436a0d6cc0e0ee3ea177a58a"></script>
 "<script>var sf = 'https://csgostash.com/js/sf.json?id=c9fb15cbd288b42843e618c4ea80f6b0';</script>"
 <script src="https://csgostash.com/js/app.js?id=f0db3a9f58dd5e6b54e6996a5f14a4e2"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a271ebf0a102c97","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a96ccaa2912e168","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
 </body>
 </html>
