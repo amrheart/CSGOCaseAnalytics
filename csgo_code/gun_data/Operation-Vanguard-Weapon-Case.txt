@@ -382,7 +382,7 @@
 <li><a href="https://csgostash.com/gloves"><img src="https://csgostash.com/img/menu/gloves.png?id=02fc8c32b16ea0672092ab7a978ab7a7" alt="Gloves">Gloves</a></li>
 <li class="divider"></li>
 <li><a href="https://csgostash.com/agents"><img src="https://csgostash.com/img/menu/agent.png?id=6c7beead860822faa2755f45911081a8" alt="Agent">All Agents</a></li>
- <li><a href="https://csgostash.com/agents/Operation+Riptide+Agents">Operation Riptide Agents</a></li>
+<li><a href="https://csgostash.com/agents/Operation+Riptide+Agents">Operation Riptide Agents</a></li>
 <li><a href="https://csgostash.com/agents/Broken+Fang+Agents">Broken Fang Agents</a></li>
 <li><a href="https://csgostash.com/agents/Shattered+Web+Agents">Shattered Web Agents</a></li>
 <li class="divider"></li>
@@ -507,7 +507,7 @@
 <a href="https://steamcommunity.com/market/listings/730/Operation%20Vanguard%20Weapon%20Case" target="_blank" rel="nofollow" class="market-button-item" data-gaevent="Operation Vanguard Weapon Case">
 <img class="img-responsive center-block content-header-img-margin" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/256fx256f" alt="Operation Vanguard Weapon Case"></a>
 <div class="btn-group content-header-container-btn">
-<a href="https://steamcommunity.com/market/listings/730/Operation%20Vanguard%20Weapon%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="Operation Vanguard Weapon Case">$1.68 on Steam</a>
+<a href="https://steamcommunity.com/market/listings/730/Operation%20Vanguard%20Weapon%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="Operation Vanguard Weapon Case">$1.65 on Steam</a>
 <a class="btn btn-default" data-toggle="collapse" href="#case-item-details" aria-expanded="false" aria-controls="case-item-details">Market Details <span class="glyphicon glyphicon-chevron-down collapse-chevron"></span></a>
 </div>
 </div>
@@ -525,12 +525,12 @@
 <div class="btn-group btn-group-justified">
 <a href="https://steamcommunity.com/market/listings/730/Operation%20Vanguard%20Weapon%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item " data-gaevent="Operation Vanguard Weapon Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest Steam price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Steam</span>
-<span class="pull-right">$1.68</span></a>
+<span class="pull-right">$1.65</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://bitskins.com/?market_hash_name=Operation%20Vanguard%20Weapon%20Case&amp;referred_by=76561197961670681&amp;sort_by=price&amp;order=asc&amp;is_stattrak=-1" target="_blank" class="btn btn-default bitskins-button " data-gaevent="Operation Vanguard Weapon Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/bitskins.png?id=4726663ef591c414c8c69456fe7294a7" alt="BitSkins Logo">BitSkins</span>
-<span class="pull-right">$1.49</span></a>
+<span class="pull-right">$1.33</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://p2p.bitskins.com/?ref_alias=CSGOStash&amp;search={%22where%22:{%22name%22:%22Operation%20Vanguard%20Weapon%20Case%22},%22order_by%22:{%22key%22:%22price%22,%22order%22:%22ASC%22}}" target="_blank" class="btn btn-default bitskins-button disabled-clickable" data-gaevent="Operation Vanguard Weapon Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins P2P price">
@@ -545,7 +545,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# currently for sale">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Listings
 <span class="pull-right">
-2839
+4889
 </span>
 </td>
 </tr>
@@ -553,7 +553,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="Median price of items sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Median
 <span class="pull-right">
-$1.67
+$1.59
 </span>
 </td>
 </tr>
@@ -561,7 +561,7 @@ $1.67
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Volume
 <span class="pull-right">
-1080
+1510
 </span>
 </td>
 </tr>
@@ -742,10 +742,10 @@ Rarity
 <p class="nomargin">\xe2\x98\x85 Rare Special Items \xe2\x98\x85</p>
 </div>
 <a href="https://csgostash.com/case/29/Operation-Vanguard-Weapon-Case?Knives=1"><img class="img-responsive center-block margin-top-sm rare-item-header-img" src="https://csgostash.com/img/misc/rare_item.png?id=3a8208a7138f9be71c5cfe2c47b80874" alt="Rare Item Drop"></a>
-<a href="https://csgostash.com/case/29/Operation-Vanguard-Weapon-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aa_fade_light_large.66027f3a763a8b0a89895f3bdd55485d21d8dcda.png" alt="M9 Bayonet Fade"></a>
-<a href="https://csgostash.com/case/29/Operation-Vanguard-Weapon-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_karambit.8b491b581a4b9c7b5298071425f2b29a39a2a12f.png" alt="Karambit \xe2\x98\x85 (Vanilla)"></a>
-<a href="https://csgostash.com/case/29/Operation-Vanguard-Weapon-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_am_zebra_light_large.53f9641b2b66b6587f779e5f222cc98a48489a1e.png" alt="M9 Bayonet Slaughter"></a>
-<a href="https://csgostash.com/case/29/Operation-Vanguard-Weapon-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_hy_webs_light_large.5beb986be2c0fd1a6dde6cc3f360fb1a4b77823d.png" alt="M9 Bayonet Crimson Web"></a>
+<a href="https://csgostash.com/case/29/Operation-Vanguard-Weapon-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_aa_fade_light_large.5ac4f422043b48b47e4453cc250c79fda3e78855.png" alt="Bayonet Fade"></a>
+<a href="https://csgostash.com/case/29/Operation-Vanguard-Weapon-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_gut.1d53007384970e8eaf28448312777683fd633a79.png" alt="Gut Knife \xe2\x98\x85 (Vanilla)"></a>
+<a href="https://csgostash.com/case/29/Operation-Vanguard-Weapon-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_am_zebra_light_large.2234064362204e87ea5ce3f997dc691d844d9168.png" alt="Bayonet Slaughter"></a>
+<a href="https://csgostash.com/case/29/Operation-Vanguard-Weapon-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_oiled_light_large.75bfecf8e9073c05ba21251889b8d49889f90669.png" alt="M9 Bayonet Case Hardened"></a>
 <div class="details-link">
 <a href="https://csgostash.com/case/29/Operation-Vanguard-Weapon-Case?Knives=1"><h4>65 Possible Knives</h4>
 <p class="nomargin"><span class="glyphicon glyphicon glyphicon-link"></span>All Operation Vanguard Weapon Case Knives</p></a>
@@ -767,17 +767,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/495/AK-47-Wasteland-Rebel"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_tribute_ak47_light_large.f0ccfeea8a432a82cf4fb7f0411a724dbb43459a.png" alt="AK-47 Wasteland Rebel"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/495/AK-47-Wasteland-Rebel">$28.07 - $222.00</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/495/AK-47-Wasteland-Rebel">$24.93 - $211.00</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/495/AK-47-Wasteland-Rebel">$72.41 - $1,080.00</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/495/AK-47-Wasteland-Rebel">$76.61 - $1,535.59</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M191784865621163210A7012055046D12124394908382135093" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="AK-47 Wasteland Rebel">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ak47&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Wasteland+Rebel" class="btn btn-default market-button-skin" data-gaevent="AK-47 Wasteland Rebel" target="_blank" rel="nofollow">211 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ak47&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Wasteland+Rebel" class="btn btn-default market-button-skin" data-gaevent="AK-47 Wasteland Rebel" target="_blank" rel="nofollow">213 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/495/AK-47-Wasteland-Rebel"><span class="glyphicon glyphicon glyphicon-link"></span>AK-47 Wasteland Rebel Skin &amp; Price Details</a></p>
@@ -799,17 +799,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/504/P2000-Fire-Elemental"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_fire_elemental_light_large.1e57d4d9f1c51e613c1923377aa55fab4b0ab1bc.png" alt="P2000 Fire Elemental"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/504/P2000-Fire-Elemental">$8.25 - $19.87</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/504/P2000-Fire-Elemental">$7.09 - $20.60</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/504/P2000-Fire-Elemental">$30.27 - $86.18</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/504/P2000-Fire-Elemental">$28.95 - $94.78</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M565583634690433292A7014434294D2605022506311372324" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P2000 Fire Elemental">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_hkp2000&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Fire+Elemental" class="btn btn-default market-button-skin" data-gaevent="P2000 Fire Elemental" target="_blank" rel="nofollow">227 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_hkp2000&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Fire+Elemental" class="btn btn-default market-button-skin" data-gaevent="P2000 Fire Elemental" target="_blank" rel="nofollow">221 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/504/P2000-Fire-Elemental"><span class="glyphicon glyphicon glyphicon-link"></span>P2000 Fire Elemental Skin &amp; Price Details</a></p>
@@ -831,20 +831,52 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/508/XM1014-Tranquility"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_cu_xm1014_caritas_light_large.060e6378f5b5ab6fc53a2db451f3d68b8033f304.png" alt="XM1014 Tranquility"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/508/XM1014-Tranquility">$3.80 - $13.27</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/508/XM1014-Tranquility">$3.94 - $13.73</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/508/XM1014-Tranquility">$10.63 - $56.28</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/508/XM1014-Tranquility">$10.49 - $58.94</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M628634029464934975A6998759697D16331968468946329321" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="XM1014 Tranquility">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_xm1014&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Tranquility" class="btn btn-default market-button-skin" data-gaevent="XM1014 Tranquility" target="_blank" rel="nofollow">224 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_xm1014&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Tranquility" class="btn btn-default market-button-skin" data-gaevent="XM1014 Tranquility" target="_blank" rel="nofollow">229 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/508/XM1014-Tranquility"><span class="glyphicon glyphicon glyphicon-link"></span>XM1014 Tranquility Skin &amp; Price Details</a></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="well result-box nomargin">
+<h3><a href="https://csgostash.com/weapon/P250">P250</a> | <a href="https://csgostash.com/family/Cartel">Cartel</a></h3>
+<a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
+<div class="quality color-classified">
+<p class="nomargin">Classified Pistol
+<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
+</p>
+</div>
+</a>
+<div class="stattrak">
+<p class="nomargin">StatTrak Available</p>
+</div>
+<a href="https://csgostash.com/skin/503/P250-Cartel"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_aq_p250_cartel_light_large.d63ea117934ac8f9a40afe027fa4a1438dbb1777.png" alt="P250 Cartel"></a>
+<div class="price">
+<p class="nomargin"><a href="https://csgostash.com/skin/503/P250-Cartel">$4.33 - $17.44</a></p>
+</div>
+<div class="price">
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/503/P250-Cartel">$11.28 - $52.37</a></p>
+</div>
+<div class="collection">
+<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
+</div>
+<div class="btn-group-sm btn-group-justified">
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M628634029471297195A7017106184D5342505733013022496" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P250 Cartel">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p250&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Cartel" class="btn btn-default market-button-skin" data-gaevent="P250 Cartel" target="_blank" rel="nofollow">258 Steam Listings</a>
+</div>
+<div class="details-link">
+<p class="nomargin"><a href="https://csgostash.com/skin/503/P250-Cartel"><span class="glyphicon glyphicon glyphicon-link"></span>P250 Cartel Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -871,38 +903,6 @@ Rarity
 </div>
 <div class="col-lg-4 col-md-6 col-widen text-center">
 <div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/P250">P250</a> | <a href="https://csgostash.com/family/Cartel">Cartel</a></h3>
-<a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
-<div class="quality color-classified">
-<p class="nomargin">Classified Pistol
-<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
-</p>
-</div>
-</a>
-<div class="stattrak">
-<p class="nomargin">StatTrak Available</p>
-</div>
-<a href="https://csgostash.com/skin/503/P250-Cartel"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_aq_p250_cartel_light_large.d63ea117934ac8f9a40afe027fa4a1438dbb1777.png" alt="P250 Cartel"></a>
-<div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/503/P250-Cartel">$3.94 - $13.69</a></p>
-</div>
-<div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/503/P250-Cartel">$9.23 - $52.63</a></p>
-</div>
-<div class="collection">
-<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
-</div>
-<div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M628634029471297195A7017106184D5342505733013022496" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P250 Cartel">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p250&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Cartel" class="btn btn-default market-button-skin" data-gaevent="P250 Cartel" target="_blank" rel="nofollow">321 Steam Listings</a>
-</div>
-<div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/503/P250-Cartel"><span class="glyphicon glyphicon glyphicon-link"></span>P250 Cartel Skin &amp; Price Details</a></p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6 col-widen text-center">
-<div class="well result-box nomargin">
 <h3><a href="https://csgostash.com/weapon/SCAR-20">SCAR-20</a> | <a href="https://csgostash.com/family/Cardiac">Cardiac</a></h3>
 <a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
 <div class="quality color-classified">
@@ -916,17 +916,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/506/SCAR-20-Cardiac"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_cu_scar20_intervention_light_large.96d9a26cca617207208a836d424d676bcb2ce3b9.png" alt="SCAR-20 Cardiac"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/506/SCAR-20-Cardiac">$2.84 - $12.73</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/506/SCAR-20-Cardiac">$2.71 - $12.69</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/506/SCAR-20-Cardiac">$7.14 - $55.69</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/506/SCAR-20-Cardiac">$7.10 - $54.23</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M192910765524019261A6917594963D16576628919396912624" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="SCAR-20 Cardiac">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_scar20&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Cardiac" class="btn btn-default market-button-skin" data-gaevent="SCAR-20 Cardiac" target="_blank" rel="nofollow">292 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_scar20&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Cardiac" class="btn btn-default market-button-skin" data-gaevent="SCAR-20 Cardiac" target="_blank" rel="nofollow">269 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/506/SCAR-20-Cardiac"><span class="glyphicon glyphicon glyphicon-link"></span>SCAR-20 Cardiac Skin &amp; Price Details</a></p>
@@ -948,17 +948,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/499/M4A1-S-Basilisk"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_aq_m4a1s_basilisk_light_large.18370d6557500376e137c7f6b07c7ed46c9dccf2.png" alt="M4A1-S Basilisk"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/499/M4A1-S-Basilisk">$4.17 - $8.23</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/499/M4A1-S-Basilisk">$3.85 - $11.41</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/499/M4A1-S-Basilisk">$13.30 - $30.43</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/499/M4A1-S-Basilisk">$12.66 - $34.69</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M191784865623499710A7014969448D1021203217827879886" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M4A1-S Basilisk">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Basilisk" class="btn btn-default market-button-skin" data-gaevent="M4A1-S Basilisk" target="_blank" rel="nofollow">1471 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Basilisk" class="btn btn-default market-button-skin" data-gaevent="M4A1-S Basilisk" target="_blank" rel="nofollow">1391 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/499/M4A1-S-Basilisk"><span class="glyphicon glyphicon glyphicon-link"></span>M4A1-S Basilisk Skin &amp; Price Details</a></p>
@@ -980,17 +980,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/500/M4A4-Griffin"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_griffin_light_large.255bd83fd343ea8e8d84a1d5c94959d0b26cafae.png" alt="M4A4 Griffin"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/500/M4A4-Griffin">$1.88 - $6.09</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/500/M4A4-Griffin">$1.96 - $5.53</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/500/M4A4-Griffin">$4.60 - $17.25</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/500/M4A4-Griffin">$4.51 - $19.05</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M633137629096897099A7015293730D3063057042182226988" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M4A4 Griffin">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Griffin" class="btn btn-default market-button-skin" data-gaevent="M4A4 Griffin" target="_blank" rel="nofollow">1421 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Griffin" class="btn btn-default market-button-skin" data-gaevent="M4A4 Griffin" target="_blank" rel="nofollow">1455 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/500/M4A4-Griffin"><span class="glyphicon glyphicon glyphicon-link"></span>M4A4 Griffin Skin &amp; Price Details</a></p>
@@ -1012,17 +1012,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/498/Glock-18-Grinder"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_aq_glock_coiled_light_large.d4dcbf0d27479b95a4ad43c36f3b3f3dc87bbd84.png" alt="Glock-18 Grinder"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/498/Glock-18-Grinder">$1.55 - $2.16</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/498/Glock-18-Grinder">$1.57 - $2.15</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/498/Glock-18-Grinder">$5.35 - $6.75</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/498/Glock-18-Grinder">$5.25 - $6.80</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534595485113A7014431141D434635316065339174" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Glock-18 Grinder">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_glock&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Grinder" class="btn btn-default market-button-skin" data-gaevent="Glock-18 Grinder" target="_blank" rel="nofollow">944 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_glock&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Grinder" class="btn btn-default market-button-skin" data-gaevent="Glock-18 Grinder" target="_blank" rel="nofollow">958 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/498/Glock-18-Grinder"><span class="glyphicon glyphicon glyphicon-link"></span>Glock-18 Grinder Skin &amp; Price Details</a></p>
@@ -1044,24 +1044,24 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/505/Sawed-Off-Highwayman"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_aq_sawedoff_blackgold_light_large.4a8c3a27c780c2a5ec3e4b6686498dce439d5a73.png" alt="Sawed-Off Highwayman"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/505/Sawed-Off-Highwayman">$0.49 - $2.20</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/505/Sawed-Off-Highwayman">$0.50 - $2.68</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/505/Sawed-Off-Highwayman">$0.89 - $7.65</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/505/Sawed-Off-Highwayman">$1.16 - $7.59</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M633137629090232009A6944883466D2796249677296285615" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Sawed-Off Highwayman">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_sawedoff&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Highwayman" class="btn btn-default market-button-skin" data-gaevent="Sawed-Off Highwayman" target="_blank" rel="nofollow">502 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_sawedoff&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Highwayman" class="btn btn-default market-button-skin" data-gaevent="Sawed-Off Highwayman" target="_blank" rel="nofollow">496 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/505/Sawed-Off-Highwayman"><span class="glyphicon glyphicon glyphicon-link"></span>Sawed-Off Highwayman Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
-<div class="col-lg-4 col-md-6 col-widen text-center">
+ <div class="col-lg-4 col-md-6 col-widen text-center">
 <div class="well result-box nomargin">
 <h3><a href="https://csgostash.com/weapon/MAG-7">MAG-7</a> | <a href="https://csgostash.com/family/Firestarter">Firestarter</a></h3>
 <a class="nounderline" href="https://csgostash.com/skin-rarity/Mil-Spec" title="All Mil-Spec Skins">
@@ -1076,17 +1076,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/501/MAG-7-Firestarter"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_sp_mag7_firebitten_light_large.640af2edb52a7f170620e175ddaa5f5cf763325b.png" alt="MAG-7 Firestarter"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/501/MAG-7-Firestarter">$0.47 - $4.19</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/501/MAG-7-Firestarter">$0.41 - $4.42</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/501/MAG-7-Firestarter">$1.03 - $14.00</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/501/MAG-7-Firestarter">$0.85 - $13.28</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M565583634689616172A7015621986D11736636584828597363" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MAG-7 Firestarter">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mag7&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Firestarter" class="btn btn-default market-button-skin" data-gaevent="MAG-7 Firestarter" target="_blank" rel="nofollow">664 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mag7&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Firestarter" class="btn btn-default market-button-skin" data-gaevent="MAG-7 Firestarter" target="_blank" rel="nofollow">753 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/501/MAG-7-Firestarter"><span class="glyphicon glyphicon glyphicon-link"></span>MAG-7 Firestarter Skin &amp; Price Details</a></p>
@@ -1108,17 +1108,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/507/UMP-45-Delusion"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_sp_ump45_d-visions_light_large.33ae7e9e8bf24ee97f4f3d3ee113e51782a756fa.png" alt="UMP-45 Delusion"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/507/UMP-45-Delusion">$0.40 - $1.73</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/507/UMP-45-Delusion">$0.42 - $1.68</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/507/UMP-45-Delusion">$0.98 - $3.33</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/507/UMP-45-Delusion">$1.06 - $3.34</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534590094953A6966088136D12262187218814623240" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="UMP-45 Delusion">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ump45&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Delusion" class="btn btn-default market-button-skin" data-gaevent="UMP-45 Delusion" target="_blank" rel="nofollow">589 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ump45&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Delusion" class="btn btn-default market-button-skin" data-gaevent="UMP-45 Delusion" target="_blank" rel="nofollow">548 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/507/UMP-45-Delusion"><span class="glyphicon glyphicon glyphicon-link"></span>UMP-45 Delusion Skin &amp; Price Details</a></p>
@@ -1140,17 +1140,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/496/Five-SeveN-Urban-Hazard"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_fiveseven_urban_hazard_light_large.456966d23faf1034c51b8130b7a70294af087026.png" alt="Five-SeveN Urban Hazard"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/496/Five-SeveN-Urban-Hazard">$0.70 - $0.88</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/496/Five-SeveN-Urban-Hazard">$0.71 - $0.89</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/496/Five-SeveN-Urban-Hazard">$1.49 - $2.64</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/496/Five-SeveN-Urban-Hazard">$1.46 - $2.80</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M633137629095959969A7013845551D11856408276904337463" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Five-SeveN Urban Hazard">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_fiveseven&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Urban+Hazard" class="btn btn-default market-button-skin" data-gaevent="Five-SeveN Urban Hazard" target="_blank" rel="nofollow">1316 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_fiveseven&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Urban+Hazard" class="btn btn-default market-button-skin" data-gaevent="Five-SeveN Urban Hazard" target="_blank" rel="nofollow">1345 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/496/Five-SeveN-Urban-Hazard"><span class="glyphicon glyphicon glyphicon-link"></span>Five-SeveN Urban Hazard Skin &amp; Price Details</a></p>
@@ -1172,17 +1172,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/502/MP9-Dart"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_chevron_light_large.698ab583537e3ed4b7661d3fcf75be62f0cdfab9.png" alt="MP9 Dart"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/502/MP9-Dart">$0.42 - $1.15</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/502/MP9-Dart">$0.42 - $1.03</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/502/MP9-Dart">$1.10 - $2.16</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/502/MP9-Dart">$0.96 - $1.99</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M565583634689528702A6189011228D13893256169674663548" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MP9 Dart">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp9&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Dart" class="btn btn-default market-button-skin" data-gaevent="MP9 Dart" target="_blank" rel="nofollow">903 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp9&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Dart" class="btn btn-default market-button-skin" data-gaevent="MP9 Dart" target="_blank" rel="nofollow">758 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/502/MP9-Dart"><span class="glyphicon glyphicon glyphicon-link"></span>MP9 Dart Skin &amp; Price Details</a></p>
@@ -1204,22 +1204,22 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/497/G3SG1-Murky"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_am_g3sg1_murky_light_large.bc4e8d0e70d2952576d5c9653da71f21bc02b810.png" alt="G3SG1 Murky"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/497/G3SG1-Murky">$0.42 - $0.55</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/497/G3SG1-Murky">$0.41 - $0.65</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/497/G3SG1-Murky">$1.09 - $1.73</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/497/G3SG1-Murky">$1.05 - $1.84</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFIuh6rJImVGvtjllYaNka6la7rUxWkE65BzibvD9N7z0Q22-0Fka2GlJ5jVLFHqavWW2g/50fx38f" alt="Operation Vanguard Weapon Case">Operation Vanguard Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M191784865622767480A7008759844D7935428445527252735" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="G3SG1 Murky">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_g3sg1&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Murky" class="btn btn-default market-button-skin" data-gaevent="G3SG1 Murky" target="_blank" rel="nofollow">689 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_g3sg1&amp;category_730_ItemSet%5B0%5D=tag_set_community_5&amp;appid=730&amp;q=Murky" class="btn btn-default market-button-skin" data-gaevent="G3SG1 Murky" target="_blank" rel="nofollow">605 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/497/G3SG1-Murky"><span class="glyphicon glyphicon glyphicon-link"></span>G3SG1 Murky Skin &amp; Price Details</a></p>
 </div>
-</div>
+ </div>
 </div>
 </div>
 <div class="row">
@@ -1290,7 +1290,7 @@ Rarity
 <ul>
 <li><a href="https://csgostash.com/case/339/Dreams-&amp;-Nightmares-Case">Dreams & Nightmares Case Skins</a></li>
 </ul>
-</li>
+ </li>
 </ul>
 </div>
 </div>
@@ -1323,6 +1323,6 @@ Rarity
 <script src="https://csgostash.com/js/vendor.js?id=65ca2070436a0d6cc0e0ee3ea177a58a"></script>
 "<script>var sf = 'https://csgostash.com/js/sf.json?id=c9fb15cbd288b42843e618c4ea80f6b0';</script>"
 <script src="https://csgostash.com/js/app.js?id=f0db3a9f58dd5e6b54e6996a5f14a4e2"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a271f3c0c4c2c50","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a96ccd6ba0413f5","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
 </body>
 </html>

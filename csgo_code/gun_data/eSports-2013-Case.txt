@@ -507,7 +507,7 @@
 <a href="https://steamcommunity.com/market/listings/730/eSports%202013%20Case" target="_blank" rel="nofollow" class="market-button-item" data-gaevent="eSports 2013 Case">
 <img class="img-responsive center-block content-header-img-margin" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1YznfCcdzkR74vnw9TZwa-sYOOCzzoF6ZJ0jL6Qp9uj3Qbj_Uc6Z2z1I9WLMlhp9VPHu3g/256fx256f" alt="eSports 2013 Case"></a>
 <div class="btn-group content-header-container-btn">
-<a href="https://steamcommunity.com/market/listings/730/eSports%202013%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="eSports 2013 Case">$38.64 on Steam</a>
+<a href="https://steamcommunity.com/market/listings/730/eSports%202013%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="eSports 2013 Case">$34.50 on Steam</a>
 <a class="btn btn-default" data-toggle="collapse" href="#case-item-details" aria-expanded="false" aria-controls="case-item-details">Market Details <span class="glyphicon glyphicon-chevron-down collapse-chevron"></span></a>
 </div>
 </div>
@@ -525,17 +525,17 @@
 <div class="btn-group btn-group-justified">
 <a href="https://steamcommunity.com/market/listings/730/eSports%202013%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item " data-gaevent="eSports 2013 Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest Steam price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Steam</span>
-<span class="pull-right">$38.64</span></a>
+<span class="pull-right">$34.50</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://bitskins.com/?market_hash_name=eSports%202013%20Case&amp;referred_by=76561197961670681&amp;sort_by=price&amp;order=asc&amp;is_stattrak=-1" target="_blank" class="btn btn-default bitskins-button " data-gaevent="eSports 2013 Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/bitskins.png?id=4726663ef591c414c8c69456fe7294a7" alt="BitSkins Logo">BitSkins</span>
-<span class="pull-right">$31.61</span></a>
+<span class="pull-right">$49.00</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://p2p.bitskins.com/?ref_alias=CSGOStash&amp;search={%22where%22:{%22name%22:%22eSports%202013%20Case%22},%22order_by%22:{%22key%22:%22price%22,%22order%22:%22ASC%22}}" target="_blank" class="btn btn-default bitskins-button " data-gaevent="eSports 2013 Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins P2P price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/bitskins.png?id=4726663ef591c414c8c69456fe7294a7" alt="BitSkins Logo">BitSkins P2P</span>
-<span class="pull-right">$39.99</span></a>
+<span class="pull-right">$30.00</span></a>
 </div>
 </div>
 <div class="col-md-6">
@@ -545,7 +545,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# currently for sale">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Listings
 <span class="pull-right">
-269
+303
 </span>
 </td>
 </tr>
@@ -553,7 +553,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="Median price of items sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Median
 <span class="pull-right">
-$37.94
+$33.26
 </span>
 </td>
 </tr>
@@ -561,7 +561,7 @@ $37.94
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Volume
 <span class="pull-right">
-32
+26
 </span>
 </td>
 </tr>
@@ -743,14 +743,14 @@ Rarity
 </div>
 <a href="https://csgostash.com/case/2/eSports-2013-Case?Knives=1"><img class="img-responsive center-block margin-top-sm rare-item-header-img" src="https://csgostash.com/img/misc/rare_item.png?id=3a8208a7138f9be71c5cfe2c47b80874" alt="Rare Item Drop"></a>
 <a href="https://csgostash.com/case/2/eSports-2013-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_aa_fade_light_large.811f8e8af2e00675c047a9c1e9f04bbe5ace83b1.png" alt="Flip Knife Fade"></a>
-<a href="https://csgostash.com/case/2/eSports-2013-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_m9_bayonet.1a55109e0c88792e5d56ea04dc1f676e44f9dec2.png" alt="M9 Bayonet \xe2\x98\x85 (Vanilla)"></a>
-<a href="https://csgostash.com/case/2/eSports-2013-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bayonet_am_zebra_light_large.2234064362204e87ea5ce3f997dc691d844d9168.png" alt="Bayonet Slaughter"></a>
-<a href="https://csgostash.com/case/2/eSports-2013-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_hy_webs_light_large.61217494aaae26081c31d87f15739f42b4c1444a.png" alt="Karambit Crimson Web"></a>
+<a href="https://csgostash.com/case/2/eSports-2013-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_karambit.8b491b581a4b9c7b5298071425f2b29a39a2a12f.png" alt="Karambit \xe2\x98\x85 (Vanilla)"></a>
+<a href="https://csgostash.com/case/2/eSports-2013-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_gut_am_zebra_light_large.c374f8e71f300e4351b680b6246da645d3dea01d.png" alt="Gut Knife Slaughter"></a>
+<a href="https://csgostash.com/case/2/eSports-2013-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_aq_oiled_light_large.75bfecf8e9073c05ba21251889b8d49889f90669.png" alt="M9 Bayonet Case Hardened"></a>
 <div class="details-link">
 <a href="https://csgostash.com/case/2/eSports-2013-Case?Knives=1"><h4>65 Possible Knives</h4>
 <p class="nomargin"><span class="glyphicon glyphicon glyphicon-link"></span>All eSports 2013 Case Knives</p></a>
 </div>
- </div>
+</div>
 </div>
 <div class="col-lg-4 col-md-6 col-widen text-center">
 <div class="well result-box nomargin">
@@ -767,17 +767,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/70/P90-Death-by-Kitty"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_catskulls_p90_light_large.0ff2c5c53a691e28de02cd7b40e395d53d8c6826.png" alt="P90 Death by Kitty"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/70/P90-Death-by-Kitty">$31.94 - $54.53</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/70/P90-Death-by-Kitty">$32.51 - $58.11</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/70/P90-Death-by-Kitty">$101.11 - $251.16</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/70/P90-Death-by-Kitty">$113.75 - $240.44</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1YznfCcdzkR74vnw9TZwa-sYOOCzzoF6ZJ0jL6Qp9uj3Qbj_Uc6Z2z1I9WLMlhp9VPHu3g/50fx38f" alt="eSports 2013 Case">eSports 2013 Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M630885829286223377A7017565896D765689745000179421" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P90 Death by Kitty">Inspect in-game (MW)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p90&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Death+by+Kitty" class="btn btn-default market-button-skin" data-gaevent="P90 Death by Kitty" target="_blank" rel="nofollow">119 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p90&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Death+by+Kitty" class="btn btn-default market-button-skin" data-gaevent="P90 Death by Kitty" target="_blank" rel="nofollow">114 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/70/P90-Death-by-Kitty"><span class="glyphicon glyphicon glyphicon-link"></span>P90 Death by Kitty Skin &amp; Price Details</a></p>
@@ -799,17 +799,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/71/AWP-BOOM"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_blam_simple_light_large.ed114947481e0366b2cde092a8ddac4d7250775b.png" alt="AWP BOOM"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/71/AWP-BOOM">$81.72 - $347.59</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/71/AWP-BOOM">$83.46 - $348.69</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/71/AWP-BOOM">$126.82 - $614.39</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/71/AWP-BOOM">$134.17 - $633.69</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1YznfCcdzkR74vnw9TZwa-sYOOCzzoF6ZJ0jL6Qp9uj3Qbj_Uc6Z2z1I9WLMlhp9VPHu3g/50fx38f" alt="eSports 2013 Case">eSports 2013 Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M628634029467999645A6270238312D16457400039324007975" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="AWP BOOM">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_awp&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=BOOM" class="btn btn-default market-button-skin" data-gaevent="AWP BOOM" target="_blank" rel="nofollow">328 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_awp&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=BOOM" class="btn btn-default market-button-skin" data-gaevent="AWP BOOM" target="_blank" rel="nofollow">311 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/71/AWP-BOOM"><span class="glyphicon glyphicon glyphicon-link"></span>AWP BOOM Skin &amp; Price Details</a></p>
@@ -831,17 +831,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/78/AK-47-Red-Laminate"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_hy_ak47lam_light_large.199620e808579639264cf753d0650721b4bc1f37.png" alt="AK-47 Red Laminate"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/78/AK-47-Red-Laminate">$30.42 - $263.43</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/78/AK-47-Red-Laminate">$29.06 - $248.80</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/78/AK-47-Red-Laminate">$73.22 - $1,220.35</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/78/AK-47-Red-Laminate">$74.02 - $1,419.12</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1YznfCcdzkR74vnw9TZwa-sYOOCzzoF6ZJ0jL6Qp9uj3Qbj_Uc6Z2z1I9WLMlhp9VPHu3g/50fx38f" alt="eSports 2013 Case">eSports 2013 Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534562745083A6958154527D7703666659783394237" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="AK-47 Red Laminate">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ak47&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Red+Laminate" class="btn btn-default market-button-skin" data-gaevent="AK-47 Red Laminate" target="_blank" rel="nofollow">465 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ak47&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Red+Laminate" class="btn btn-default market-button-skin" data-gaevent="AK-47 Red Laminate" target="_blank" rel="nofollow">463 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/78/AK-47-Red-Laminate"><span class="glyphicon glyphicon glyphicon-link"></span>AK-47 Red Laminate Skin &amp; Price Details</a></p>
@@ -884,17 +884,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/73/Galil-AR-Orange-DDPAT"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_hy_ddpat_orange_light_large.8499a023e61f6d3f7d03012521422bedaedd6c2b.png" alt="Galil AR Orange DDPAT"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/73/Galil-AR-Orange-DDPAT">$11.82 - $48.91</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/73/Galil-AR-Orange-DDPAT">$12.38 - $46.47</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/73/Galil-AR-Orange-DDPAT">$16.99 - $322.00</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/73/Galil-AR-Orange-DDPAT">$14.84 - $321.97</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1YznfCcdzkR74vnw9TZwa-sYOOCzzoF6ZJ0jL6Qp9uj3Qbj_Uc6Z2z1I9WLMlhp9VPHu3g/50fx38f" alt="eSports 2013 Case">eSports 2013 Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M630885829284206527A6961525811D4821316769342471589" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Galil AR Orange DDPAT">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_galilar&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Orange+DDPAT" class="btn btn-default market-button-skin" data-gaevent="Galil AR Orange DDPAT" target="_blank" rel="nofollow">218 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_galilar&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Orange+DDPAT" class="btn btn-default market-button-skin" data-gaevent="Galil AR Orange DDPAT" target="_blank" rel="nofollow">231 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/73/Galil-AR-Orange-DDPAT"><span class="glyphicon glyphicon glyphicon-link"></span>Galil AR Orange DDPAT Skin &amp; Price Details</a></p>
@@ -916,17 +916,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/75/P250-Splash"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_sp_splash_p250_light_large.9270d8d14c39aef83407ea50e51f0eb89c17263d.png" alt="P250 Splash"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/75/P250-Splash">$16.68 - $36.61</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/75/P250-Splash">$15.48 - $60.85</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/75/P250-Splash">$23.66 - $78.00</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/75/P250-Splash">$26.40 - $78.50</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1YznfCcdzkR74vnw9TZwa-sYOOCzzoF6ZJ0jL6Qp9uj3Qbj_Uc6Z2z1I9WLMlhp9VPHu3g/50fx38f" alt="eSports 2013 Case">eSports 2013 Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M632011729195054028A7017278511D7983911004446155692" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P250 Splash">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p250&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Splash" class="btn btn-default market-button-skin" data-gaevent="P250 Splash" target="_blank" rel="nofollow">303 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p250&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Splash" class="btn btn-default market-button-skin" data-gaevent="P250 Splash" target="_blank" rel="nofollow">302 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/75/P250-Splash"><span class="glyphicon glyphicon glyphicon-link"></span>P250 Splash Skin &amp; Price Details</a></p>
@@ -948,17 +948,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/76/Sawed-Off-Orange-DDPAT"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sawedoff_hy_ddpat_orange_light_large.04fe163870ad65e17d8e4dd9403180ed3c5a218d.png" alt="Sawed-Off Orange DDPAT"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/76/Sawed-Off-Orange-DDPAT">$11.42 - $39.27</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/76/Sawed-Off-Orange-DDPAT">$10.58 - $39.12</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/76/Sawed-Off-Orange-DDPAT">$14.98 - $98.70</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/76/Sawed-Off-Orange-DDPAT">$16.99 - $98.27</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1YznfCcdzkR74vnw9TZwa-sYOOCzzoF6ZJ0jL6Qp9uj3Qbj_Uc6Z2z1I9WLMlhp9VPHu3g/50fx38f" alt="eSports 2013 Case">eSports 2013 Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M192910765522891381A7004023691D7242505263962509705" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Sawed-Off Orange DDPAT">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_sawedoff&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Orange+DDPAT" class="btn btn-default market-button-skin" data-gaevent="Sawed-Off Orange DDPAT" target="_blank" rel="nofollow">180 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_sawedoff&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Orange+DDPAT" class="btn btn-default market-button-skin" data-gaevent="Sawed-Off Orange DDPAT" target="_blank" rel="nofollow">174 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/76/Sawed-Off-Orange-DDPAT"><span class="glyphicon glyphicon glyphicon-link"></span>Sawed-Off Orange DDPAT Skin &amp; Price Details</a></p>
@@ -980,17 +980,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/77/M4A4-Faded-Zebra"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_sp_zebracam_bw_light_large.de08ef2a6d7524e682118cef5d12124c5156dfa8.png" alt="M4A4 Faded Zebra"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/77/M4A4-Faded-Zebra">$2.60 - $10.98</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/77/M4A4-Faded-Zebra">$1.99 - $12.72</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/77/M4A4-Faded-Zebra">$3.41 - $41.88</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/77/M4A4-Faded-Zebra">$3.57 - $41.88</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1YznfCcdzkR74vnw9TZwa-sYOOCzzoF6ZJ0jL6Qp9uj3Qbj_Uc6Z2z1I9WLMlhp9VPHu3g/50fx38f" alt="eSports 2013 Case">eSports 2013 Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M191784865620499590A7010798972D4820760406734660646" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M4A4 Faded Zebra">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Faded+Zebra" class="btn btn-default market-button-skin" data-gaevent="M4A4 Faded Zebra" target="_blank" rel="nofollow">1488 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Faded+Zebra" class="btn btn-default market-button-skin" data-gaevent="M4A4 Faded Zebra" target="_blank" rel="nofollow">1543 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/77/M4A4-Faded-Zebra"><span class="glyphicon glyphicon glyphicon-link"></span>M4A4 Faded Zebra Skin &amp; Price Details</a></p>
@@ -1012,17 +1012,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/72/MAG-7-Memento"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_hy_icosahedron_light_large.f7ea8cca0b48a0463d0877af9c94e7f54d0f1d79.png" alt="MAG-7 Memento"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/72/MAG-7-Memento">$2.70 - $4.41</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/72/MAG-7-Memento">$2.73 - $4.49</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/72/MAG-7-Memento">$3.79 - $7.95</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/72/MAG-7-Memento">$3.52 - $10.55</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1YznfCcdzkR74vnw9TZwa-sYOOCzzoF6ZJ0jL6Qp9uj3Qbj_Uc6Z2z1I9WLMlhp9VPHu3g/50fx38f" alt="eSports 2013 Case">eSports 2013 Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M565583634686515342A7011529928D14006839734325162203" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MAG-7 Memento">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mag7&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Memento" class="btn btn-default market-button-skin" data-gaevent="MAG-7 Memento" target="_blank" rel="nofollow">511 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mag7&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Memento" class="btn btn-default market-button-skin" data-gaevent="MAG-7 Memento" target="_blank" rel="nofollow">539 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/72/MAG-7-Memento"><span class="glyphicon glyphicon glyphicon-link"></span>MAG-7 Memento Skin &amp; Price Details</a></p>
@@ -1044,17 +1044,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/74/FAMAS-Doomkitty"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_hy_doomkitty_light_large.c9dd7b8fb1a44d5691684aae406d360433550468.png" alt="FAMAS Doomkitty"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/74/FAMAS-Doomkitty">$2.66 - $2.68</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/74/FAMAS-Doomkitty">$2.61 - $5.15</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/74/FAMAS-Doomkitty">$3.49 - $3.61</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/74/FAMAS-Doomkitty">$2.99 - $3.45</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk5kKhZDpYX3e1YznfCcdzkR74vnw9TZwa-sYOOCzzoF6ZJ0jL6Qp9uj3Qbj_Uc6Z2z1I9WLMlhp9VPHu3g/50fx38f" alt="eSports 2013 Case">eSports 2013 Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M632011729192322138A81130375D4910692042028275250" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="FAMAS Doomkitty">Inspect in-game (MW)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_famas&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Doomkitty" class="btn btn-default market-button-skin" data-gaevent="FAMAS Doomkitty" target="_blank" rel="nofollow">598 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_famas&amp;category_730_ItemSet%5B0%5D=tag_set_esports&amp;appid=730&amp;q=Doomkitty" class="btn btn-default market-button-skin" data-gaevent="FAMAS Doomkitty" target="_blank" rel="nofollow">614 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/74/FAMAS-Doomkitty"><span class="glyphicon glyphicon glyphicon-link"></span>FAMAS Doomkitty Skin &amp; Price Details</a></p>
@@ -1163,6 +1163,6 @@ Rarity
 <script src="https://csgostash.com/js/vendor.js?id=65ca2070436a0d6cc0e0ee3ea177a58a"></script>
 "<script>var sf = 'https://csgostash.com/js/sf.json?id=c9fb15cbd288b42843e618c4ea80f6b0';</script>"
 <script src="https://csgostash.com/js/app.js?id=f0db3a9f58dd5e6b54e6996a5f14a4e2"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a271f6cb99786cf","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a96cce87bec13ef","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
 </body>
 </html>

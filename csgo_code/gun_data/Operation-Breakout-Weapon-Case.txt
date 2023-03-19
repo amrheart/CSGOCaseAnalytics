@@ -507,7 +507,7 @@
 <a href="https://steamcommunity.com/market/listings/730/Operation%20Breakout%20Weapon%20Case" target="_blank" rel="nofollow" class="market-button-item" data-gaevent="Operation Breakout Weapon Case">
 <img class="img-responsive center-block content-header-img-margin" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/256fx256f" alt="Operation Breakout Weapon Case"></a>
 <div class="btn-group content-header-container-btn">
-<a href="https://steamcommunity.com/market/listings/730/Operation%20Breakout%20Weapon%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="Operation Breakout Weapon Case">$4.77 on Steam</a>
+<a href="https://steamcommunity.com/market/listings/730/Operation%20Breakout%20Weapon%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="Operation Breakout Weapon Case">$4.83 on Steam</a>
 <a class="btn btn-default" data-toggle="collapse" href="#case-item-details" aria-expanded="false" aria-controls="case-item-details">Market Details <span class="glyphicon glyphicon-chevron-down collapse-chevron"></span></a>
 </div>
 </div>
@@ -525,17 +525,17 @@
 <div class="btn-group btn-group-justified">
 <a href="https://steamcommunity.com/market/listings/730/Operation%20Breakout%20Weapon%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item " data-gaevent="Operation Breakout Weapon Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest Steam price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Steam</span>
-<span class="pull-right">$4.77</span></a>
+<span class="pull-right">$4.83</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://bitskins.com/?market_hash_name=Operation%20Breakout%20Weapon%20Case&amp;referred_by=76561197961670681&amp;sort_by=price&amp;order=asc&amp;is_stattrak=-1" target="_blank" class="btn btn-default bitskins-button " data-gaevent="Operation Breakout Weapon Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/bitskins.png?id=4726663ef591c414c8c69456fe7294a7" alt="BitSkins Logo">BitSkins</span>
-<span class="pull-right">$3.68</span></a>
+<span class="pull-right">$3.87</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://p2p.bitskins.com/?ref_alias=CSGOStash&amp;search={%22where%22:{%22name%22:%22Operation%20Breakout%20Weapon%20Case%22},%22order_by%22:{%22key%22:%22price%22,%22order%22:%22ASC%22}}" target="_blank" class="btn btn-default bitskins-button " data-gaevent="Operation Breakout Weapon Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins P2P price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/bitskins.png?id=4726663ef591c414c8c69456fe7294a7" alt="BitSkins Logo">BitSkins P2P</span>
-<span class="pull-right">$3.98</span></a>
+<span class="pull-right">$5.00</span></a>
 </div>
 </div>
 <div class="col-md-6">
@@ -545,7 +545,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# currently for sale">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Listings
 <span class="pull-right">
-22288
+10970
 </span>
 </td>
 </tr>
@@ -553,7 +553,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="Median price of items sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Median
 <span class="pull-right">
-$4.60
+$5.11
 </span>
 </td>
 </tr>
@@ -561,7 +561,7 @@ $4.60
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Volume
 <span class="pull-right">
-10111
+8977
 </span>
 </td>
 </tr>
@@ -743,44 +743,12 @@ Rarity
 </div>
 <a href="https://csgostash.com/case/18/Operation-Breakout-Weapon-Case?Knives=1"><img class="img-responsive center-block margin-top-sm rare-item-header-img" src="https://csgostash.com/img/misc/rare_item.png?id=3a8208a7138f9be71c5cfe2c47b80874" alt="Rare Item Drop"></a>
 <a href="https://csgostash.com/case/18/Operation-Breakout-Weapon-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_aa_fade_light_large.b1ab5fb3ed08185a266334b6488a364bb3f220f8.png" alt="Butterfly Knife Fade"></a>
-<a href="https://csgostash.com/case/18/Operation-Breakout-Weapon-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_butterfly.794147e84a4e9426202d45145910cbb007797ce5.png" alt="Butterfly Knife \xe2\x98\x85 (Vanilla)"></a>
 <a href="https://csgostash.com/case/18/Operation-Breakout-Weapon-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_am_zebra_light_large.8f5d28f8b8607d83059c4df618b399e2fa551bb4.png" alt="Butterfly Knife Slaughter"></a>
 <a href="https://csgostash.com/case/18/Operation-Breakout-Weapon-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_aq_blued_light_large.969518ce760404d72095af853f90df7582e7889f.png" alt="Butterfly Knife Blue Steel"></a>
+<a href="https://csgostash.com/case/18/Operation-Breakout-Weapon-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_butterfly_hy_webs_light_large.8e3a3668a8678a4ce56b2675c60d7ec6a756827a.png" alt="Butterfly Knife Crimson Web"></a>
 <div class="details-link">
 <a href="https://csgostash.com/case/18/Operation-Breakout-Weapon-Case?Knives=1"><h4>13 Possible Knives</h4>
 <p class="nomargin"><span class="glyphicon glyphicon glyphicon-link"></span>All Operation Breakout Weapon Case Knives</p></a>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6 col-widen text-center">
-<div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/M4A1-S">M4A1-S</a> | <a href="https://csgostash.com/family/Cyrex">Cyrex</a></h3>
-<a class="nounderline" href="https://csgostash.com/skin-rarity/Covert" title="All Covert Skins">
-<div class="quality color-covert">
-<p class="nomargin">Covert Rifle
-<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
-</p>
-</div>
-</a>
-<div class="stattrak">
-<p class="nomargin">StatTrak Available</p>
-</div>
-<a href="https://csgostash.com/skin/393/M4A1-S-Cyrex"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_cyrex_light_large.144b4053eb73b4a47f8128ebb0e808d8e28f5b9c.png" alt="M4A1-S Cyrex"></a>
-<div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/393/M4A1-S-Cyrex">$14.16 - $30.51</a></p>
-</div>
-<div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/393/M4A1-S-Cyrex">$34.17 - $95.13</a></p>
-</div>
-<div class="collection">
-<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
-</div>
-<div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M191784865623470540A6751206612D7927156139973768012" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M4A1-S Cyrex">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Cyrex" class="btn btn-default market-button-skin" data-gaevent="M4A1-S Cyrex" target="_blank" rel="nofollow">855 Steam Listings</a>
-</div>
-<div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/393/M4A1-S-Cyrex"><span class="glyphicon glyphicon glyphicon-link"></span>M4A1-S Cyrex Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -799,20 +767,52 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/406/P90-Asiimov"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90-asiimov_light_large.0ca7f7fc032c98c5cc506ccde92b33e5836a8a88.png" alt="P90 Asiimov"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/406/P90-Asiimov">$5.63 - $38.75</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/406/P90-Asiimov">$5.48 - $38.76</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/406/P90-Asiimov">$14.55 - $167.87</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/406/P90-Asiimov">$15.92 - $165.09</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M192910765531957501A6640967733D16727684909982647551" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P90 Asiimov">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p90&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Asiimov" class="btn btn-default market-button-skin" data-gaevent="P90 Asiimov" target="_blank" rel="nofollow">626 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p90&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Asiimov" class="btn btn-default market-button-skin" data-gaevent="P90 Asiimov" target="_blank" rel="nofollow">546 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/406/P90-Asiimov"><span class="glyphicon glyphicon glyphicon-link"></span>P90 Asiimov Skin &amp; Price Details</a></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="well result-box nomargin">
+<h3><a href="https://csgostash.com/weapon/M4A1-S">M4A1-S</a> | <a href="https://csgostash.com/family/Cyrex">Cyrex</a></h3>
+<a class="nounderline" href="https://csgostash.com/skin-rarity/Covert" title="All Covert Skins">
+<div class="quality color-covert">
+<p class="nomargin">Covert Rifle
+<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
+</p>
+</div>
+</a>
+<div class="stattrak">
+<p class="nomargin">StatTrak Available</p>
+</div>
+<a href="https://csgostash.com/skin/393/M4A1-S-Cyrex"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_cyrex_light_large.144b4053eb73b4a47f8128ebb0e808d8e28f5b9c.png" alt="M4A1-S Cyrex"></a>
+<div class="price">
+<p class="nomargin"><a href="https://csgostash.com/skin/393/M4A1-S-Cyrex">$14.12 - $29.00</a></p>
+</div>
+<div class="price">
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/393/M4A1-S-Cyrex">$35.11 - $88.75</a></p>
+</div>
+<div class="collection">
+<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
+</div>
+<div class="btn-group-sm btn-group-justified">
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M191784865623470540A6751206612D7927156139973768012" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M4A1-S Cyrex">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Cyrex" class="btn btn-default market-button-skin" data-gaevent="M4A1-S Cyrex" target="_blank" rel="nofollow">868 Steam Listings</a>
+</div>
+<div class="details-link">
+<p class="nomargin"><a href="https://csgostash.com/skin/393/M4A1-S-Cyrex"><span class="glyphicon glyphicon glyphicon-link"></span>M4A1-S Cyrex Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -831,52 +831,20 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/404/Glock-18-Water-Elemental"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock-liquescent_light_large.151e954ed4aef28ccc55d0ca4b43a7d9644f36ac.png" alt="Glock-18 Water Elemental"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/404/Glock-18-Water-Elemental">$4.38 - $13.85</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/404/Glock-18-Water-Elemental">$3.93 - $13.12</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/404/Glock-18-Water-Elemental">$9.74 - $44.66</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/404/Glock-18-Water-Elemental">$11.50 - $47.52</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M565583634688964392A4664909953D9704839995715617738" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Glock-18 Water Elemental">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_glock&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Water+Elemental" class="btn btn-default market-button-skin" data-gaevent="Glock-18 Water Elemental" target="_blank" rel="nofollow">858 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_glock&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Water+Elemental" class="btn btn-default market-button-skin" data-gaevent="Glock-18 Water Elemental" target="_blank" rel="nofollow">906 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/404/Glock-18-Water-Elemental"><span class="glyphicon glyphicon glyphicon-link"></span>Glock-18 Water Elemental Skin &amp; Price Details</a></p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6 col-widen text-center">
-<div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/Desert+Eagle">Desert Eagle</a> | <a href="https://csgostash.com/family/Conspiracy">Conspiracy</a></h3>
-<a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
-<div class="quality color-classified">
-<p class="nomargin">Classified Pistol
-<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
-</p>
-</div>
-</a>
-<div class="stattrak">
-<p class="nomargin">StatTrak Available</p>
-</div>
-<a href="https://csgostash.com/skin/402/Desert-Eagle-Conspiracy"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_cu_deagle_aureus_light_large.7fa76057cb05f2cab829be448f120ae540715d0e.png" alt="Desert Eagle Conspiracy"></a>
-<div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/402/Desert-Eagle-Conspiracy">$6.13 - $9.00</a></p>
-</div>
-<div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/402/Desert-Eagle-Conspiracy">$13.77 - $26.54</a></p>
-</div>
-<div class="collection">
-<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
-</div>
-<div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M192910765529305201A6436411210D17151476101951260303" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Desert Eagle Conspiracy">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_deagle&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Conspiracy" class="btn btn-default market-button-skin" data-gaevent="Desert Eagle Conspiracy" target="_blank" rel="nofollow">625 Steam Listings</a>
-</div>
-<div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/402/Desert-Eagle-Conspiracy"><span class="glyphicon glyphicon glyphicon-link"></span>Desert Eagle Conspiracy Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -903,6 +871,38 @@ Rarity
 </div>
 <div class="col-lg-4 col-md-6 col-widen text-center">
 <div class="well result-box nomargin">
+<h3><a href="https://csgostash.com/weapon/Desert+Eagle">Desert Eagle</a> | <a href="https://csgostash.com/family/Conspiracy">Conspiracy</a></h3>
+<a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
+<div class="quality color-classified">
+<p class="nomargin">Classified Pistol
+<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
+</p>
+</div>
+</a>
+<div class="stattrak">
+<p class="nomargin">StatTrak Available</p>
+</div>
+<a href="https://csgostash.com/skin/402/Desert-Eagle-Conspiracy"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_cu_deagle_aureus_light_large.7fa76057cb05f2cab829be448f120ae540715d0e.png" alt="Desert Eagle Conspiracy"></a>
+<div class="price">
+<p class="nomargin"><a href="https://csgostash.com/skin/402/Desert-Eagle-Conspiracy">$5.67 - $9.34</a></p>
+</div>
+<div class="price">
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/402/Desert-Eagle-Conspiracy">$14.07 - $24.00</a></p>
+</div>
+<div class="collection">
+<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
+</div>
+<div class="btn-group-sm btn-group-justified">
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M192910765529305201A6436411210D17151476101951260303" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Desert Eagle Conspiracy">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_deagle&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Conspiracy" class="btn btn-default market-button-skin" data-gaevent="Desert Eagle Conspiracy" target="_blank" rel="nofollow">735 Steam Listings</a>
+</div>
+<div class="details-link">
+<p class="nomargin"><a href="https://csgostash.com/skin/402/Desert-Eagle-Conspiracy"><span class="glyphicon glyphicon glyphicon-link"></span>Desert Eagle Conspiracy Skin &amp; Price Details</a></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="well result-box nomargin">
 <h3><a href="https://csgostash.com/weapon/Five-SeveN">Five-SeveN</a> | <a href="https://csgostash.com/family/Fowl+Play">Fowl Play</a></h3>
 <a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
 <div class="quality color-classified">
@@ -916,17 +916,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/403/Five-SeveN-Fowl-Play"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_aq_57_feathers_light_large.aa942f28d5fd868643b54ba0c317703d8b615754.png" alt="Five-SeveN Fowl Play"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/403/Five-SeveN-Fowl-Play">$2.01 - $7.99</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/403/Five-SeveN-Fowl-Play">$2.33 - $9.72</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/403/Five-SeveN-Fowl-Play">$3.59 - $20.64</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/403/Five-SeveN-Fowl-Play">$3.99 - $21.97</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M565583634687907632A7013253406D16863913582843560191" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Five-SeveN Fowl Play">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_fiveseven&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Fowl+Play" class="btn btn-default market-button-skin" data-gaevent="Five-SeveN Fowl Play" target="_blank" rel="nofollow">611 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_fiveseven&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Fowl+Play" class="btn btn-default market-button-skin" data-gaevent="Five-SeveN Fowl Play" target="_blank" rel="nofollow">464 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/403/Five-SeveN-Fowl-Play"><span class="glyphicon glyphicon glyphicon-link"></span>Five-SeveN Fowl Play Skin &amp; Price Details</a></p>
@@ -948,17 +948,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/396/Nova-Koi"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_koi_light_large.28c3fe03f736b48dee10e1e88e77ac02132dcba6.png" alt="Nova Koi"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/396/Nova-Koi">$0.72 - $1.39</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/396/Nova-Koi">$0.71 - $1.39</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/396/Nova-Koi">$1.68 - $4.04</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/396/Nova-Koi">$1.74 - $4.32</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M192910765531662021A5215177657D12461038432138603737" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Nova Koi">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_nova&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Koi" class="btn btn-default market-button-skin" data-gaevent="Nova Koi" target="_blank" rel="nofollow">741 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_nova&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Koi" class="btn btn-default market-button-skin" data-gaevent="Nova Koi" target="_blank" rel="nofollow">820 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/396/Nova-Koi"><span class="glyphicon glyphicon glyphicon-link"></span>Nova Koi Skin &amp; Price Details</a></p>
@@ -980,17 +980,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/397/P250-Supernova"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_bittersweet_light_large.83cd48968d79412e0cf2233b8e18602ff2790ad4.png" alt="P250 Supernova"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/397/P250-Supernova">$0.64 - $1.42</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/397/P250-Supernova">$0.64 - $1.38</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/397/P250-Supernova">$1.74 - $4.05</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/397/P250-Supernova">$1.62 - $4.11</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M565583634690522702A7015717462D7109537483244071340" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P250 Supernova">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p250&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Supernova" class="btn btn-default market-button-skin" data-gaevent="P250 Supernova" target="_blank" rel="nofollow">1269 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p250&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Supernova" class="btn btn-default market-button-skin" data-gaevent="P250 Supernova" target="_blank" rel="nofollow">1336 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/397/P250-Supernova"><span class="glyphicon glyphicon glyphicon-link"></span>P250 Supernova Skin &amp; Price Details</a></p>
@@ -1012,17 +1012,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/401/CZ75-Auto-Tigris"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_c75a-tiger_light_large.b754b5a73c8f2b207942eb046efdbd4cade04513.png" alt="CZ75-Auto Tigris"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/401/CZ75-Auto-Tigris">$0.52 - $1.79</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/401/CZ75-Auto-Tigris">$0.43 - $1.72</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/401/CZ75-Auto-Tigris">$1.17 - $4.55</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/401/CZ75-Auto-Tigris">$1.03 - $5.38</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M565583634687622122A7012965629D7236795234969801529" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="CZ75-Auto Tigris">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_cz75a&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Tigris" class="btn btn-default market-button-skin" data-gaevent="CZ75-Auto Tigris" target="_blank" rel="nofollow">1139 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_cz75a&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Tigris" class="btn btn-default market-button-skin" data-gaevent="CZ75-Auto Tigris" target="_blank" rel="nofollow">1599 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/401/CZ75-Auto-Tigris"><span class="glyphicon glyphicon glyphicon-link"></span>CZ75-Auto Tigris Skin &amp; Price Details</a></p>
@@ -1044,17 +1044,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/400/PP-Bizon-Osiris"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_cu_bizon-osiris_light_large.269e03e1ad598b76adb884704c4f48d725beb5fc.png" alt="PP-Bizon Osiris"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/400/PP-Bizon-Osiris">$0.64 - $1.45</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/400/PP-Bizon-Osiris">$0.59 - $1.39</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/400/PP-Bizon-Osiris">$1.10 - $4.94</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/400/PP-Bizon-Osiris">$1.28 - $4.66</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M630885829285733417A6968273375D14622768965224494262" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="PP-Bizon Osiris">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_bizon&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Osiris" class="btn btn-default market-button-skin" data-gaevent="PP-Bizon Osiris" target="_blank" rel="nofollow">990 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_bizon&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Osiris" class="btn btn-default market-button-skin" data-gaevent="PP-Bizon Osiris" target="_blank" rel="nofollow">1187 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/400/PP-Bizon-Osiris"><span class="glyphicon glyphicon glyphicon-link"></span>PP-Bizon Osiris Skin &amp; Price Details</a></p>
@@ -1076,17 +1076,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/398/SSG-08-Abyss"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_aq_leviathan_light_large.0d0ce425b5374642d0d1fbfd0c0ec634eb8570fb.png" alt="SSG 08 Abyss"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/398/SSG-08-Abyss">$0.23 - $3.65</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/398/SSG-08-Abyss">$0.20 - $3.61</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/398/SSG-08-Abyss">$0.76 - $10.62</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/398/SSG-08-Abyss">$0.65 - $11.79</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M192910765524996581A7006422004D7948290721064615016" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="SSG 08 Abyss">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ssg08&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Abyss" class="btn btn-default market-button-skin" data-gaevent="SSG 08 Abyss" target="_blank" rel="nofollow">3243 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ssg08&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Abyss" class="btn btn-default market-button-skin" data-gaevent="SSG 08 Abyss" target="_blank" rel="nofollow">5009 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/398/SSG-08-Abyss"><span class="glyphicon glyphicon glyphicon-link"></span>SSG 08 Abyss Skin &amp; Price Details</a></p>
@@ -1108,17 +1108,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/405/P2000-Ivory"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_ivory_light_large.2a47b14b59ce796956958ce13cb60617148f7711.png" alt="P2000 Ivory"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/405/P2000-Ivory">$0.10 - $0.51</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/405/P2000-Ivory">$0.10 - $0.49</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/405/P2000-Ivory">$0.18 - $2.46</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/405/P2000-Ivory">$0.17 - $2.48</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M192910765531159461A7015906015D7532411829915509312" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P2000 Ivory">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_hkp2000&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Ivory" class="btn btn-default market-button-skin" data-gaevent="P2000 Ivory" target="_blank" rel="nofollow">3220 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_hkp2000&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Ivory" class="btn btn-default market-button-skin" data-gaevent="P2000 Ivory" target="_blank" rel="nofollow">3207 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/405/P2000-Ivory"><span class="glyphicon glyphicon glyphicon-link"></span>P2000 Ivory Skin &amp; Price Details</a></p>
@@ -1140,52 +1140,20 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/399/UMP-45-Labyrinth"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_hy_lines_orange_light_large.d004ea389236e6fa5da2f0555ab5b3723bdf36d1.png" alt="UMP-45 Labyrinth"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/399/UMP-45-Labyrinth">$0.12 - $0.30</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/399/UMP-45-Labyrinth">$0.11 - $0.29</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/399/UMP-45-Labyrinth">$0.27 - $0.86</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/399/UMP-45-Labyrinth">$0.25 - $0.83</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M633137629090478419A7005396628D12162217543018994818" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="UMP-45 Labyrinth">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ump45&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Labyrinth" class="btn btn-default market-button-skin" data-gaevent="UMP-45 Labyrinth" target="_blank" rel="nofollow">2298 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ump45&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Labyrinth" class="btn btn-default market-button-skin" data-gaevent="UMP-45 Labyrinth" target="_blank" rel="nofollow">2090 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/399/UMP-45-Labyrinth"><span class="glyphicon glyphicon glyphicon-link"></span>UMP-45 Labyrinth Skin &amp; Price Details</a></p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6 col-widen text-center">
-<div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/Negev">Negev</a> | <a href="https://csgostash.com/family/Desert-Strike">Desert-Strike</a></h3>
-<a class="nounderline" href="https://csgostash.com/skin-rarity/Mil-Spec" title="All Mil-Spec Skins">
-<div class="quality color-milspec">
-<p class="nomargin">Mil-Spec Machine Gun
-<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
-</p>
-</div>
-</a>
-<div class="stattrak">
-<p class="nomargin">StatTrak Available</p>
-</div>
-<a href="https://csgostash.com/skin/395/Negev-Desert-Strike"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_negev_titanstorm_light_large.eb7badc75ecbb1b4cdf35bfb53088731bbe11cb0.png" alt="Negev Desert-Strike"></a>
-<div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/395/Negev-Desert-Strike">$0.12 - $0.26</a></p>
-</div>
-<div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/395/Negev-Desert-Strike">$0.23 - $0.89</a></p>
-</div>
-<div class="collection">
-<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
-</div>
-<div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M565583634690231912A5223111566D3370981706332708270" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Negev Desert-Strike">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_negev&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Desert-Strike" class="btn btn-default market-button-skin" data-gaevent="Negev Desert-Strike" target="_blank" rel="nofollow">1897 Steam Listings</a>
-</div>
-<div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/395/Negev-Desert-Strike"><span class="glyphicon glyphicon glyphicon-link"></span>Negev Desert-Strike Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -1204,20 +1172,52 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/394/MP7-Urban-Hazard"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7-commander_light_large.260d3f2765c83f75eadac5abd6ef4187ea2c2089.png" alt="MP7 Urban Hazard"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/394/MP7-Urban-Hazard">$0.13 - $0.27</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/394/MP7-Urban-Hazard">$0.11 - $0.27</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/394/MP7-Urban-Hazard">$0.28 - $0.89</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/394/MP7-Urban-Hazard">$0.26 - $0.83</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M632011729194518128A6732264202D589624942165671973" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MP7 Urban Hazard">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp7&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Urban+Hazard" class="btn btn-default market-button-skin" data-gaevent="MP7 Urban Hazard" target="_blank" rel="nofollow">2981 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp7&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Urban+Hazard" class="btn btn-default market-button-skin" data-gaevent="MP7 Urban Hazard" target="_blank" rel="nofollow">3717 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/394/MP7-Urban-Hazard"><span class="glyphicon glyphicon glyphicon-link"></span>MP7 Urban Hazard Skin &amp; Price Details</a></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="well result-box nomargin">
+<h3><a href="https://csgostash.com/weapon/Negev">Negev</a> | <a href="https://csgostash.com/family/Desert-Strike">Desert-Strike</a></h3>
+<a class="nounderline" href="https://csgostash.com/skin-rarity/Mil-Spec" title="All Mil-Spec Skins">
+<div class="quality color-milspec">
+<p class="nomargin">Mil-Spec Machine Gun
+<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
+</p>
+</div>
+</a>
+<div class="stattrak">
+<p class="nomargin">StatTrak Available</p>
+</div>
+<a href="https://csgostash.com/skin/395/Negev-Desert-Strike"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_negev_titanstorm_light_large.eb7badc75ecbb1b4cdf35bfb53088731bbe11cb0.png" alt="Negev Desert-Strike"></a>
+<div class="price">
+<p class="nomargin"><a href="https://csgostash.com/skin/395/Negev-Desert-Strike">$0.11 - $0.26</a></p>
+</div>
+<div class="price">
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/395/Negev-Desert-Strike">$0.24 - $0.92</a></p>
+</div>
+<div class="collection">
+<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/50fx38f" alt="Operation Breakout Weapon Case">Operation Breakout Weapon Case</p>
+</div>
+<div class="btn-group-sm btn-group-justified">
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M565583634690231912A5223111566D3370981706332708270" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Negev Desert-Strike">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_negev&amp;category_730_ItemSet%5B0%5D=tag_set_community_4&amp;appid=730&amp;q=Desert-Strike" class="btn btn-default market-button-skin" data-gaevent="Negev Desert-Strike" target="_blank" rel="nofollow">2005 Steam Listings</a>
+</div>
+<div class="details-link">
+<p class="nomargin"><a href="https://csgostash.com/skin/395/Negev-Desert-Strike"><span class="glyphicon glyphicon glyphicon-link"></span>Negev Desert-Strike Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -1239,8 +1239,8 @@ Rarity
 <li><a href="https://csgostash.com/case/376/Revolution-Case">Revolution Case Skins + Gloves</a></li>
 <li><a href="https://csgostash.com/music/68/ULTIMATE-Denzel-Curry">Denzel Curry Music Kit</a></li>
 <li><a href="https://csgostash.com/stickers/capsule/375/Espionage-Sticker-Capsule">Espionage Sticker Capsule</a></li>
-</ul>
- </li>
+ </ul>
+</li>
 <li>15 November 2022
 <ul>
 <li><a href="https://csgostash.com/stickers/capsule/372/Rio-2022-Champions-Autograph-Capsule">Rio 2022 Champions Autograph Capsule</a></li>
@@ -1302,7 +1302,7 @@ Rarity
 </div>
 </div>
 <div class="col-lg-4 col-md-6 adv-footer">
- <div class="footer-adv">
+<div class="footer-adv">
 
 "<div id='div-gpt-ad-1493028401801-0'></div>"
 </div>
@@ -1323,6 +1323,6 @@ Rarity
 <script src="https://csgostash.com/js/vendor.js?id=65ca2070436a0d6cc0e0ee3ea177a58a"></script>
 "<script>var sf = 'https://csgostash.com/js/sf.json?id=c9fb15cbd288b42843e618c4ea80f6b0';</script>"
 <script src="https://csgostash.com/js/app.js?id=f0db3a9f58dd5e6b54e6996a5f14a4e2"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a271f458a642d19","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a96ccda1d8ee271","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
 </body>
 </html>

@@ -404,7 +404,7 @@
 <li><a href="https://csgostash.com/pins/capsule/175/Collectible-Pins-Capsule-Series-2">Series 2</a></li>
 <li><a href="https://csgostash.com/pins/series/3">Series 3</a></li>
 <li><a href="https://csgostash.com/pins/capsule/143/Collectible-Pins-Capsule-Series-1">Series 1</a></li>
-<li class="divider"></li>
+ <li class="divider"></li>
 <li><a href="https://csgostash.com/graffiti"><img src="https://csgostash.com/img/menu/graffiti.png?id=496a6f1bb8413f245f95e5eac1417d87" alt="Graffiti">Graffiti</a></li>
 <li><a href="https://csgostash.com/graffiti/collection/CSGO+Graffiti+3+Collection">CS:GO Graffiti #3 Collection (Recoil)</a></li>
 <li><a href="https://csgostash.com/graffiti/collection/CSGO+Graffiti+2+Collection">CS:GO Graffiti #2 Collection</a></li>
@@ -461,7 +461,7 @@
 <li><a href="https://csgostash.com/setcurrency/THB" class="set-currency-option" data-gaevent="THB"><img src="https://csgostash.com/img/menu/flags/THB.png?id=ab1f5df176fc60fc8350c00a27a9d6e6" alt="Thai Baht Flag">Thai Baht (\xe0\xb8\xbf)</a></li>
 <li><a href="https://csgostash.com/setcurrency/TRY" class="set-currency-option" data-gaevent="TRY"><img src="https://csgostash.com/img/menu/flags/TRY.png?id=fcb15100e5a91f182bd2664c91d34ffc" alt="Turkish Lira Flag">Turkish Lira (\xe2\x82\xba)</a></li>
 <li><a href="https://csgostash.com/setcurrency/UAH" class="set-currency-option" data-gaevent="UAH"><img src="https://csgostash.com/img/menu/flags/UAH.png?id=12f53b2c373f514b5fb4c50cf581d7b7" alt="Ukrainian Hryvnia Flag">Ukrainian Hryvnia (\xe2\x82\xb4)</a></li>
- <li><a href="https://csgostash.com/setcurrency/UYU" class="set-currency-option" data-gaevent="UYU"><img src="https://csgostash.com/img/menu/flags/UYU.png?id=f619e5420067ce9eb33d6174dfb3e2e1" alt="Uruguayan Peso Flag">Uruguayan Peso ($U)</a></li>
+<li><a href="https://csgostash.com/setcurrency/UYU" class="set-currency-option" data-gaevent="UYU"><img src="https://csgostash.com/img/menu/flags/UYU.png?id=f619e5420067ce9eb33d6174dfb3e2e1" alt="Uruguayan Peso Flag">Uruguayan Peso ($U)</a></li>
 <li><a href="https://csgostash.com/setcurrency/VND" class="set-currency-option" data-gaevent="VND"><img src="https://csgostash.com/img/menu/flags/VND.png?id=c0353860b9435b9d8a71f915642bde00" alt="Vietnamese Dong Flag">Vietnamese Dong (\xe2\x82\xab)</a></li>
 </ul>
 </li>
@@ -507,7 +507,7 @@
 <a href="https://steamcommunity.com/market/listings/730/Operation%20Broken%20Fang%20Case" target="_blank" rel="nofollow" class="market-button-item" data-gaevent="Operation Broken Fang Case">
 <img class="img-responsive center-block content-header-img-margin" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/256fx256f" alt="Operation Broken Fang Case"></a>
 <div class="btn-group content-header-container-btn">
-<a href="https://steamcommunity.com/market/listings/730/Operation%20Broken%20Fang%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="Operation Broken Fang Case">$2.09 on Steam</a>
+<a href="https://steamcommunity.com/market/listings/730/Operation%20Broken%20Fang%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="Operation Broken Fang Case">$2.49 on Steam</a>
 <a class="btn btn-default" data-toggle="collapse" href="#case-item-details" aria-expanded="false" aria-controls="case-item-details">Market Details <span class="glyphicon glyphicon-chevron-down collapse-chevron"></span></a>
 </div>
 </div>
@@ -525,12 +525,12 @@
 <div class="btn-group btn-group-justified">
 <a href="https://steamcommunity.com/market/listings/730/Operation%20Broken%20Fang%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item " data-gaevent="Operation Broken Fang Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest Steam price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Steam</span>
-<span class="pull-right">$2.09</span></a>
+<span class="pull-right">$2.49</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://bitskins.com/?market_hash_name=Operation%20Broken%20Fang%20Case&amp;referred_by=76561197961670681&amp;sort_by=price&amp;order=asc&amp;is_stattrak=-1" target="_blank" class="btn btn-default bitskins-button " data-gaevent="Operation Broken Fang Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/bitskins.png?id=4726663ef591c414c8c69456fe7294a7" alt="BitSkins Logo">BitSkins</span>
-<span class="pull-right">$1.73</span></a>
+<span class="pull-right">$1.90</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://p2p.bitskins.com/?ref_alias=CSGOStash&amp;search={%22where%22:{%22name%22:%22Operation%20Broken%20Fang%20Case%22},%22order_by%22:{%22key%22:%22price%22,%22order%22:%22ASC%22}}" target="_blank" class="btn btn-default bitskins-button disabled-clickable" data-gaevent="Operation Broken Fang Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins P2P price">
@@ -545,7 +545,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# currently for sale">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Listings
 <span class="pull-right">
-15505
+6383
 </span>
 </td>
 </tr>
@@ -553,7 +553,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="Median price of items sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Median
 <span class="pull-right">
-$2.27
+$2.55
 </span>
 </td>
 </tr>
@@ -561,7 +561,7 @@ $2.27
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Volume
 <span class="pull-right">
-2977
+4765
 </span>
 </td>
 </tr>
@@ -682,7 +682,6 @@ Rarity
 <option value="price_bitskins_agg">BitSkins Price</option>
 <option value="rarity">Rarity</option>
 <option value="weapon">Weapon</option>
-
 <option value="name">Name</option>
 </select>
 </div>
@@ -743,10 +742,10 @@ Rarity
 <p class="nomargin">\xe2\x98\x85 Rare Special Items \xe2\x98\x85</p>
 </div>
 <a href="https://csgostash.com/case/308/Operation-Broken-Fang-Case?Gloves=1"><img class="img-responsive center-block margin-top-sm rare-item-header-img" src="https://csgostash.com/img/misc/rare_item.png?id=3a8208a7138f9be71c5cfe2c47b80874" alt="Rare Item Drop"></a>
-<a href="https://csgostash.com/case/308/Operation-Broken-Fang-Case?Gloves=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_checker_flag_blue_green_light_large.d0a65fd2decfb2b5d4f8da4dfcd440771152d9fb.png" alt="Moto Gloves Finish Line"></a>
+<a href="https://csgostash.com/case/308/Operation-Broken-Fang-Case?Gloves=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_slingshot_light_large.31d32b99c02474d3c39dff0999d53bdc1249586d.png" alt="Sport Gloves Slingshot"></a>
 <a href="https://csgostash.com/case/308/Operation-Broken-Fang-Case?Gloves=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_jaguar_white_light_large.232a00b09f3840949dd1390ccf64115c64577bc7.png" alt="Driver Gloves Snow Leopard"></a>
 <a href="https://csgostash.com/case/308/Operation-Broken-Fang-Case?Gloves=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_tiger_orange_light_large.7a97c601858dc5688aba6f3e1a769f1743d14bc8.png" alt="Specialist Gloves Tiger Strike"></a>
-<a href="https://csgostash.com/case/308/Operation-Broken-Fang-Case?Gloves=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_slingshot_light_large.31d32b99c02474d3c39dff0999d53bdc1249586d.png" alt="Sport Gloves Slingshot"></a>
+<a href="https://csgostash.com/case/308/Operation-Broken-Fang-Case?Gloves=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_marble_fade_light_large.37eb14336eedfe6e346c46134d18ea87eea1bd0f.png" alt="Specialist Gloves Marble Fade"></a>
 <div class="details-link">
 <a href="https://csgostash.com/case/308/Operation-Broken-Fang-Case?Gloves=1"><h4>24 Possible Gloves</h4>
 <p class="nomargin"><span class="glyphicon glyphicon glyphicon-link"></span>All Operation Broken Fang Case Gloves</p></a>
@@ -768,17 +767,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1301/M4A1-S-Printstream"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_printstream_light_large.99e340c2eed00b54eef5320fd63e009fcede6cae.png" alt="M4A1-S Printstream"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1301/M4A1-S-Printstream">$92.00 - $391.59</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1301/M4A1-S-Printstream">$96.51 - $493.36</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1301/M4A1-S-Printstream">$150.84 - $949.39</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1301/M4A1-S-Printstream">$148.86 - $1,018.87</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3306168823861205927A20026224586D4675900428942660518" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M4A1-S Printstream">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Printstream" class="btn btn-default market-button-skin" data-gaevent="M4A1-S Printstream" target="_blank" rel="nofollow">120 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Printstream" class="btn btn-default market-button-skin" data-gaevent="M4A1-S Printstream" target="_blank" rel="nofollow">123 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1301/M4A1-S-Printstream"><span class="glyphicon glyphicon glyphicon-link"></span>M4A1-S Printstream Skin &amp; Price Details</a></p>
@@ -800,52 +799,20 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1302/Glock-18-Neo-Noir"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_noir_light_large.c93d0cbfa767d1f822a53ebfca0d57f532088c48.png" alt="Glock-18 Neo-Noir"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1302/Glock-18-Neo-Noir">$8.54 - $52.00</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1302/Glock-18-Neo-Noir">$7.99 - $57.50</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1302/Glock-18-Neo-Noir">$18.37 - $190.90</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1302/Glock-18-Neo-Noir">$18.55 - $185.27</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3302791124140431694A20026497886D2634185820183121384" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Glock-18 Neo-Noir">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_glock&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Neo-Noir" class="btn btn-default market-button-skin" data-gaevent="Glock-18 Neo-Noir" target="_blank" rel="nofollow">231 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_glock&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Neo-Noir" class="btn btn-default market-button-skin" data-gaevent="Glock-18 Neo-Noir" target="_blank" rel="nofollow">291 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1302/Glock-18-Neo-Noir"><span class="glyphicon glyphicon glyphicon-link"></span>Glock-18 Neo-Noir Skin &amp; Price Details</a></p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6 col-widen text-center">
-<div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/M4A4">M4A4</a> | <a href="https://csgostash.com/family/Cyber+Security">Cyber Security</a></h3>
-<a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
-<div class="quality color-classified">
-<p class="nomargin">Classified Rifle
-<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
-</p>
-</div>
-</a>
-<div class="stattrak">
-<p class="nomargin">StatTrak Available</p>
-</div>
-<a href="https://csgostash.com/skin/1299/M4A4-Cyber-Security"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_cyberpunk_light_large.8ed70290de88498fcfdc0c89f23ba2ad60bd13a5.png" alt="M4A4 Cyber Security"></a>
-<div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1299/M4A4-Cyber-Security">$10.00 - $48.24</a></p>
-</div>
-<div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1299/M4A4-Cyber-Security">$14.64 - $111.58</a></p>
-</div>
-<div class="collection">
-<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
-</div>
-<div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3306168823861290807A20026549478D9278064264764000450" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M4A4 Cyber Security">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Cyber+Security" class="btn btn-default market-button-skin" data-gaevent="M4A4 Cyber Security" target="_blank" rel="nofollow">441 Steam Listings</a>
-</div>
-<div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/1299/M4A4-Cyber-Security"><span class="glyphicon glyphicon glyphicon-link"></span>M4A4 Cyber Security Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -864,17 +831,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1298/Five-SeveN-Fairy-Tale"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_cu_five_seven_diary_light_large.e09a26df236581e02db30cdbb9c55adb2a4d2292.png" alt="Five-SeveN Fairy Tale"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1298/Five-SeveN-Fairy-Tale">$10.00 - $38.11</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1298/Five-SeveN-Fairy-Tale">$9.55 - $36.73</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1298/Five-SeveN-Fairy-Tale">$15.04 - $80.00</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1298/Five-SeveN-Fairy-Tale">$16.00 - $87.07</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3301665224367337123A20026556868D2605975358331208723" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Five-SeveN Fairy Tale">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_fiveseven&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Fairy+Tale" class="btn btn-default market-button-skin" data-gaevent="Five-SeveN Fairy Tale" target="_blank" rel="nofollow">238 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_fiveseven&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Fairy+Tale" class="btn btn-default market-button-skin" data-gaevent="Five-SeveN Fairy Tale" target="_blank" rel="nofollow">254 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1298/Five-SeveN-Fairy-Tale"><span class="glyphicon glyphicon glyphicon-link"></span>Five-SeveN Fairy Tale Skin &amp; Price Details</a></p>
@@ -904,6 +871,38 @@ Rarity
 </div>
 <div class="col-lg-4 col-md-6 col-widen text-center">
 <div class="well result-box nomargin">
+<h3><a href="https://csgostash.com/weapon/M4A4">M4A4</a> | <a href="https://csgostash.com/family/Cyber+Security">Cyber Security</a></h3>
+<a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
+<div class="quality color-classified">
+<p class="nomargin">Classified Rifle
+<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
+</p>
+</div>
+</a>
+<div class="stattrak">
+<p class="nomargin">StatTrak Available</p>
+</div>
+<a href="https://csgostash.com/skin/1299/M4A4-Cyber-Security"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_cyberpunk_light_large.8ed70290de88498fcfdc0c89f23ba2ad60bd13a5.png" alt="M4A4 Cyber Security"></a>
+<div class="price">
+<p class="nomargin"><a href="https://csgostash.com/skin/1299/M4A4-Cyber-Security">$10.59 - $43.47</a></p>
+</div>
+<div class="price">
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1299/M4A4-Cyber-Security">$15.77 - $89.87</a></p>
+</div>
+<div class="collection">
+<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
+</div>
+<div class="btn-group-sm btn-group-justified">
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3306168823861290807A20026549478D9278064264764000450" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M4A4 Cyber Security">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Cyber+Security" class="btn btn-default market-button-skin" data-gaevent="M4A4 Cyber Security" target="_blank" rel="nofollow">412 Steam Listings</a>
+</div>
+<div class="details-link">
+<p class="nomargin"><a href="https://csgostash.com/skin/1299/M4A4-Cyber-Security"><span class="glyphicon glyphicon glyphicon-link"></span>M4A4 Cyber Security Skin &amp; Price Details</a></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="well result-box nomargin">
 <h3><a href="https://csgostash.com/weapon/USP-S">USP-S</a> | <a href="https://csgostash.com/family/Monster+Mashup">Monster Mashup</a></h3>
 <a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
 <div class="quality color-classified">
@@ -917,17 +916,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1300/USP-S-Monster-Mashup"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_krokos_light_large.ef94a997db4a990e55bc44d4b07b25f0f420e59e.png" alt="USP-S Monster Mashup"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1300/USP-S-Monster-Mashup">$11.68 - $35.07</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1300/USP-S-Monster-Mashup">$11.86 - $35.74</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1300/USP-S-Monster-Mashup">$17.71 - $63.89</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1300/USP-S-Monster-Mashup">$18.71 - $68.67</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3298287524668562290A20025987066D16304265166050537923" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="USP-S Monster Mashup">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_usp_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Monster+Mashup" class="btn btn-default market-button-skin" data-gaevent="USP-S Monster Mashup" target="_blank" rel="nofollow">268 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_usp_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Monster+Mashup" class="btn btn-default market-button-skin" data-gaevent="USP-S Monster Mashup" target="_blank" rel="nofollow">261 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1300/USP-S-Monster-Mashup"><span class="glyphicon glyphicon glyphicon-link"></span>USP-S Monster Mashup Skin &amp; Price Details</a></p>
@@ -949,17 +948,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1293/AWP-Exoskeleton"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_exoskeleton_light_large.7b7a8af63a8c06beacea7494a41adcda5d5afdd8.png" alt="AWP Exoskeleton"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1293/AWP-Exoskeleton">$2.10 - $8.64</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1293/AWP-Exoskeleton">$2.09 - $11.74</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1293/AWP-Exoskeleton">$5.07 - $27.39</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1293/AWP-Exoskeleton">$4.90 - $30.07</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3303917024051086345A20026606600D207271748077525069" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="AWP Exoskeleton">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_awp&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Exoskeleton" class="btn btn-default market-button-skin" data-gaevent="AWP Exoskeleton" target="_blank" rel="nofollow">1096 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_awp&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Exoskeleton" class="btn btn-default market-button-skin" data-gaevent="AWP Exoskeleton" target="_blank" rel="nofollow">1824 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1293/AWP-Exoskeleton"><span class="glyphicon glyphicon glyphicon-link"></span>AWP Exoskeleton Skin &amp; Price Details</a></p>
@@ -981,17 +980,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1296/SSG-08-Parallax"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_ssg08_chromatic_light_large.66f506ebe947b68afa1d3a6cbbdd8916b054f84a.png" alt="SSG 08 Parallax"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1296/SSG-08-Parallax">$1.39 - $5.20</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1296/SSG-08-Parallax">$1.49 - $4.77</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1296/SSG-08-Parallax">$2.10 - $14.86</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1296/SSG-08-Parallax">$1.91 - $15.32</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3303917024051031085A20026475654D16639301165801821358" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="SSG 08 Parallax">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ssg08&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Parallax" class="btn btn-default market-button-skin" data-gaevent="SSG 08 Parallax" target="_blank" rel="nofollow">606 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ssg08&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Parallax" class="btn btn-default market-button-skin" data-gaevent="SSG 08 Parallax" target="_blank" rel="nofollow">663 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1296/SSG-08-Parallax"><span class="glyphicon glyphicon glyphicon-link"></span>SSG 08 Parallax Skin &amp; Price Details</a></p>
@@ -1013,52 +1012,20 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1294/Dual-Berettas-Dezastre"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dual_elites_dezastre_light_large.9b7aa9accd1e31a202b0f2ab66d0cf8d3039ee7d.png" alt="Dual Berettas Dezastre"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1294/Dual-Berettas-Dezastre">$1.45 - $4.40</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1294/Dual-Berettas-Dezastre">$1.65 - $9.67</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1294/Dual-Berettas-Dezastre">$2.08 - $9.92</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1294/Dual-Berettas-Dezastre">$1.93 - $9.62</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3305043049892711776A20026495092D2309966496258352208" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Dual Berettas Dezastre">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_elite&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Dezastre" class="btn btn-default market-button-skin" data-gaevent="Dual Berettas Dezastre" target="_blank" rel="nofollow">406 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_elite&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Dezastre" class="btn btn-default market-button-skin" data-gaevent="Dual Berettas Dezastre" target="_blank" rel="nofollow">412 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1294/Dual-Berettas-Dezastre"><span class="glyphicon glyphicon glyphicon-link"></span>Dual Berettas Dezastre Skin &amp; Price Details</a></p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6 col-widen text-center">
-<div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/UMP-45">UMP-45</a> | <a href="https://csgostash.com/family/Gold+Bismuth">Gold Bismuth</a></h3>
-<a class="nounderline" href="https://csgostash.com/skin-rarity/Restricted" title="All Restricted Skins">
-<div class="quality color-restricted">
-<p class="nomargin">Restricted SMG
-<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
-</p>
-</div>
-</a>
-<div class="stattrak">
-<p class="nomargin">StatTrak Available</p>
-</div>
-<a href="https://csgostash.com/skin/1297/UMP-45-Gold-Bismuth"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_gs_ump_gold_bismuth_light_large.c09fa5b0617d1c486737c9beb39f79bec31621dc.png" alt="UMP-45 Gold Bismuth"></a>
-<div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1297/UMP-45-Gold-Bismuth">$1.43 - $4.48</a></p>
-</div>
-<div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1297/UMP-45-Gold-Bismuth">$2.27 - $8.69</a></p>
-</div>
-<div class="collection">
-<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
-</div>
-<div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3300539326944572972A20026143151D11676189567994149954" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="UMP-45 Gold Bismuth">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ump45&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Gold+Bismuth" class="btn btn-default market-button-skin" data-gaevent="UMP-45 Gold Bismuth" target="_blank" rel="nofollow">284 Steam Listings</a>
-</div>
-<div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/1297/UMP-45-Gold-Bismuth"><span class="glyphicon glyphicon glyphicon-link"></span>UMP-45 Gold Bismuth Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -1077,20 +1044,84 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1295/Nova-Clear-Polymer"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_polymer_light_large.a45b7ef66f8e62eecf26687892e5c4a76966d7f6.png" alt="Nova Clear Polymer"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1295/Nova-Clear-Polymer">$1.38 - $4.49</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1295/Nova-Clear-Polymer">$1.64 - $4.18</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1295/Nova-Clear-Polymer">$1.96 - $8.37</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1295/Nova-Clear-Polymer">$1.90 - $8.17</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3299413424415742361A20026060386D9991977122393235645" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Nova Clear Polymer">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_nova&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Clear+Polymer" class="btn btn-default market-button-skin" data-gaevent="Nova Clear Polymer" target="_blank" rel="nofollow">353 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_nova&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Clear+Polymer" class="btn btn-default market-button-skin" data-gaevent="Nova Clear Polymer" target="_blank" rel="nofollow">352 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1295/Nova-Clear-Polymer"><span class="glyphicon glyphicon glyphicon-link"></span>Nova Clear Polymer Skin &amp; Price Details</a></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="well result-box nomargin">
+<h3><a href="https://csgostash.com/weapon/UMP-45">UMP-45</a> | <a href="https://csgostash.com/family/Gold+Bismuth">Gold Bismuth</a></h3>
+<a class="nounderline" href="https://csgostash.com/skin-rarity/Restricted" title="All Restricted Skins">
+<div class="quality color-restricted">
+<p class="nomargin">Restricted SMG
+<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
+</p>
+</div>
+</a>
+<div class="stattrak">
+<p class="nomargin">StatTrak Available</p>
+</div>
+<a href="https://csgostash.com/skin/1297/UMP-45-Gold-Bismuth"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_gs_ump_gold_bismuth_light_large.c09fa5b0617d1c486737c9beb39f79bec31621dc.png" alt="UMP-45 Gold Bismuth"></a>
+<div class="price">
+<p class="nomargin"><a href="https://csgostash.com/skin/1297/UMP-45-Gold-Bismuth">$1.44 - $4.18</a></p>
+</div>
+<div class="price">
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1297/UMP-45-Gold-Bismuth">$1.86 - $8.33</a></p>
+</div>
+<div class="collection">
+<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
+</div>
+<div class="btn-group-sm btn-group-justified">
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3300539326944572972A20026143151D11676189567994149954" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="UMP-45 Gold Bismuth">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ump45&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Gold+Bismuth" class="btn btn-default market-button-skin" data-gaevent="UMP-45 Gold Bismuth" target="_blank" rel="nofollow">312 Steam Listings</a>
+</div>
+<div class="details-link">
+<p class="nomargin"><a href="https://csgostash.com/skin/1297/UMP-45-Gold-Bismuth"><span class="glyphicon glyphicon glyphicon-link"></span>UMP-45 Gold Bismuth Skin &amp; Price Details</a></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="well result-box nomargin">
+<h3><a href="https://csgostash.com/weapon/M249">M249</a> | <a href="https://csgostash.com/family/Deep+Relief">Deep Relief</a></h3>
+<a class="nounderline" href="https://csgostash.com/skin-rarity/Mil-Spec" title="All Mil-Spec Skins">
+<div class="quality color-milspec">
+<p class="nomargin">Mil-Spec Machine Gun
+<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
+</p>
+</div>
+</a>
+<div class="stattrak">
+<p class="nomargin">StatTrak Available</p>
+</div>
+<a href="https://csgostash.com/skin/1291/M249-Deep-Relief"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_cu_m249_deep_relief_light_large.227a01518f45cbb6a43981e36b76f60785f9085b.png" alt="M249 Deep Relief"></a>
+<div class="price">
+<p class="nomargin"><a href="https://csgostash.com/skin/1291/M249-Deep-Relief">$0.18 - $0.84</a></p>
+</div>
+<div class="price">
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1291/M249-Deep-Relief">$0.28 - $2.85</a></p>
+</div>
+<div class="collection">
+<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
+</div>
+<div class="btn-group-sm btn-group-justified">
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3298287524668606880A20026019996D7791346248774365598" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M249 Deep Relief">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m249&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Deep+Relief" class="btn btn-default market-button-skin" data-gaevent="M249 Deep Relief" target="_blank" rel="nofollow">957 Steam Listings</a>
+</div>
+<div class="details-link">
+<p class="nomargin"><a href="https://csgostash.com/skin/1291/M249-Deep-Relief"><span class="glyphicon glyphicon glyphicon-link"></span>M249 Deep Relief Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -1109,52 +1140,20 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1289/Galil-AR-Vandal"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_gs_galil_vandal_light_large.5144c3d7d0d1789bc5a25d3a62f15ccd876c9855.png" alt="Galil AR Vandal"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1289/Galil-AR-Vandal">$0.19 - $0.85</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1289/Galil-AR-Vandal">$0.19 - $0.86</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1289/Galil-AR-Vandal">$0.29 - $2.92</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1289/Galil-AR-Vandal">$0.28 - $2.82</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3307294723769729308A20025968634D622735099486441835" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Galil AR Vandal">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_galilar&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Vandal" class="btn btn-default market-button-skin" data-gaevent="Galil AR Vandal" target="_blank" rel="nofollow">1485 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_galilar&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Vandal" class="btn btn-default market-button-skin" data-gaevent="Galil AR Vandal" target="_blank" rel="nofollow">1356 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1289/Galil-AR-Vandal"><span class="glyphicon glyphicon glyphicon-link"></span>Galil AR Vandal Skin &amp; Price Details</a></p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6 col-widen text-center">
-<div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/MP5-SD">MP5-SD</a> | <a href="https://csgostash.com/family/Condition+Zero">Condition Zero</a></h3>
-<a class="nounderline" href="https://csgostash.com/skin-rarity/Mil-Spec" title="All Mil-Spec Skins">
-<div class="quality color-milspec">
-<p class="nomargin">Mil-Spec SMG
-<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
-</p>
-</div>
-</a>
-<div class="stattrak">
-<p class="nomargin">StatTrak Available</p>
-</div>
-<a href="https://csgostash.com/skin/1292/MP5-SD-Condition-Zero"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_gs_mp5_conditionzero_light_large.4ed0ebd4f909faf2e09b5e18ec08e0a093719f63.png" alt="MP5-SD Condition Zero"></a>
-<div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1292/MP5-SD-Condition-Zero">$0.19 - $0.74</a></p>
-</div>
-<div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1292/MP5-SD-Condition-Zero">$0.28 - $2.67</a></p>
-</div>
-<div class="collection">
-<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
-</div>
-<div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3303917024050930145A20026234424D9801521683782660063" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MP5-SD Condition Zero">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp5sd&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Condition+Zero" class="btn btn-default market-button-skin" data-gaevent="MP5-SD Condition Zero" target="_blank" rel="nofollow">1485 Steam Listings</a>
-</div>
-<div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/1292/MP5-SD-Condition-Zero"><span class="glyphicon glyphicon glyphicon-link"></span>MP5-SD Condition Zero Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -1173,17 +1172,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1290/P250-Contaminant"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_infect_light_large.235d9f1d0efc7fe74748085ecd87540a03a4551d.png" alt="P250 Contaminant"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1290/P250-Contaminant">$0.25 - $0.61</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1290/P250-Contaminant">$0.19 - $0.73</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1290/P250-Contaminant">$0.29 - $1.86</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1290/P250-Contaminant">$0.28 - $1.99</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3305043049892545256A20026118500D3045606152813715878" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P250 Contaminant">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p250&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Contaminant" class="btn btn-default market-button-skin" data-gaevent="P250 Contaminant" target="_blank" rel="nofollow">1246 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p250&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Contaminant" class="btn btn-default market-button-skin" data-gaevent="P250 Contaminant" target="_blank" rel="nofollow">1195 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1290/P250-Contaminant"><span class="glyphicon glyphicon glyphicon-link"></span>P250 Contaminant Skin &amp; Price Details</a></p>
@@ -1205,17 +1204,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1286/CZ75-Auto-Vendetta"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_cz75_vendetta_light_large.0c3e295e82d8131b10e8daa2a1568e578fe01541.png" alt="CZ75-Auto Vendetta"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1286/CZ75-Auto-Vendetta">$0.20 - $0.73</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1286/CZ75-Auto-Vendetta">$0.20 - $0.80</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1286/CZ75-Auto-Vendetta">$0.28 - $2.23</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1286/CZ75-Auto-Vendetta">$0.27 - $2.43</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3302791124140288964A20026110002D4920409281311233329" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="CZ75-Auto Vendetta">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_cz75a&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Vendetta" class="btn btn-default market-button-skin" data-gaevent="CZ75-Auto Vendetta" target="_blank" rel="nofollow">850 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_cz75a&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Vendetta" class="btn btn-default market-button-skin" data-gaevent="CZ75-Auto Vendetta" target="_blank" rel="nofollow">974 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1286/CZ75-Auto-Vendetta"><span class="glyphicon glyphicon glyphicon-link"></span>CZ75-Auto Vendetta Skin &amp; Price Details</a></p>
@@ -1224,10 +1223,10 @@ Rarity
 </div>
 <div class="col-lg-4 col-md-6 col-widen text-center">
 <div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/M249">M249</a> | <a href="https://csgostash.com/family/Deep+Relief">Deep Relief</a></h3>
+<h3><a href="https://csgostash.com/weapon/MP5-SD">MP5-SD</a> | <a href="https://csgostash.com/family/Condition+Zero">Condition Zero</a></h3>
 <a class="nounderline" href="https://csgostash.com/skin-rarity/Mil-Spec" title="All Mil-Spec Skins">
 <div class="quality color-milspec">
-<p class="nomargin">Mil-Spec Machine Gun
+<p class="nomargin">Mil-Spec SMG
 <span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
 </p>
 </div>
@@ -1235,22 +1234,22 @@ Rarity
 <div class="stattrak">
 <p class="nomargin">StatTrak Available</p>
 </div>
-<a href="https://csgostash.com/skin/1291/M249-Deep-Relief"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m249_cu_m249_deep_relief_light_large.227a01518f45cbb6a43981e36b76f60785f9085b.png" alt="M249 Deep Relief"></a>
+<a href="https://csgostash.com/skin/1292/MP5-SD-Condition-Zero"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_gs_mp5_conditionzero_light_large.4ed0ebd4f909faf2e09b5e18ec08e0a093719f63.png" alt="MP5-SD Condition Zero"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1291/M249-Deep-Relief">$0.19 - $0.74</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1292/MP5-SD-Condition-Zero">$0.18 - $0.76</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1291/M249-Deep-Relief">$0.27 - $1.77</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1292/MP5-SD-Condition-Zero">$0.26 - $2.33</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3298287524668606880A20026019996D7791346248774365598" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M249 Deep Relief">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m249&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Deep+Relief" class="btn btn-default market-button-skin" data-gaevent="M249 Deep Relief" target="_blank" rel="nofollow">801 Steam Listings</a>
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3303917024050930145A20026234424D9801521683782660063" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MP5-SD Condition Zero">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp5sd&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Condition+Zero" class="btn btn-default market-button-skin" data-gaevent="MP5-SD Condition Zero" target="_blank" rel="nofollow">1447 Steam Listings</a>
 </div>
 <div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/1291/M249-Deep-Relief"><span class="glyphicon glyphicon glyphicon-link"></span>M249 Deep Relief Skin &amp; Price Details</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1292/MP5-SD-Condition-Zero"><span class="glyphicon glyphicon glyphicon-link"></span>MP5-SD Condition Zero Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -1269,17 +1268,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1287/P90-Cocoa-Rampage"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_hy_p90_dino_rampage_light_large.2231742f05375d3370f5f8fbc7fd3f3f623af688.png" alt="P90 Cocoa Rampage"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1287/P90-Cocoa-Rampage">$0.21 - $0.66</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1287/P90-Cocoa-Rampage">$0.23 - $0.66</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1287/P90-Cocoa-Rampage">$0.31 - $1.50</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1287/P90-Cocoa-Rampage">$0.32 - $1.78</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3303917024050810775A20025981510D7061827210956874391" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P90 Cocoa Rampage">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p90&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Cocoa+Rampage" class="btn btn-default market-button-skin" data-gaevent="P90 Cocoa Rampage" target="_blank" rel="nofollow">773 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p90&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Cocoa+Rampage" class="btn btn-default market-button-skin" data-gaevent="P90 Cocoa Rampage" target="_blank" rel="nofollow">1044 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1287/P90-Cocoa-Rampage"><span class="glyphicon glyphicon glyphicon-link"></span>P90 Cocoa Rampage Skin &amp; Price Details</a></p>
@@ -1301,17 +1300,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1288/G3SG1-Digital-Mesh"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_gs_g3sg1_disrupt_light_large.393db5c1a143ad7fc9e3c42a7d17ca860ce490ab.png" alt="G3SG1 Digital Mesh"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1288/G3SG1-Digital-Mesh">$0.21 - $0.60</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1288/G3SG1-Digital-Mesh">$0.19 - $0.74</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1288/G3SG1-Digital-Mesh">$0.29 - $1.57</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1288/G3SG1-Digital-Mesh">$0.29 - $1.96</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFU3naeZIWUStYjgxdnewfGmZb6DxW8AupMp27yT9IqiilCxqkRkZGyldoaLMlhp6IQjKcg/50fx38f" alt="Operation Broken Fang Case">Operation Broken Fang Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M3302791124140294204A20026183839D892956028131129917" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="G3SG1 Digital Mesh">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_g3sg1&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Digital+Mesh" class="btn btn-default market-button-skin" data-gaevent="G3SG1 Digital Mesh" target="_blank" rel="nofollow">861 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_g3sg1&amp;category_730_ItemSet%5B0%5D=tag_set_community_27&amp;appid=730&amp;q=Digital+Mesh" class="btn btn-default market-button-skin" data-gaevent="G3SG1 Digital Mesh" target="_blank" rel="nofollow">912 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1288/G3SG1-Digital-Mesh"><span class="glyphicon glyphicon glyphicon-link"></span>G3SG1 Digital Mesh Skin &amp; Price Details</a></p>
@@ -1345,7 +1344,7 @@ Rarity
 </li>
 <li>21 October 2022
 <ul>
- <li><a href="https://csgostash.com/stickers/tournament/Rio+2022">Rio 2022 Tournament Stickers</a></li>
+<li><a href="https://csgostash.com/stickers/tournament/Rio+2022">Rio 2022 Tournament Stickers</a></li>
 </ul>
 </li>
 <li>13 September 2022
@@ -1407,7 +1406,7 @@ Rarity
 </div>
 <div class="row">
 <div class="col-lg-12">
-<p><a id=\'unic-gdpr\' onclick=\'__tcfapi("openunic");return false;\' style=\'display:none;cursor:pointer;\'>Change Ad Consent</a><a id=\'unic-ccpa\' onclick="window.__uspapi(\'openunic\')" style=\'display:none;cursor:pointer;\'>Do not sell my data</a></p>
+ <p><a id=\'unic-gdpr\' onclick=\'__tcfapi("openunic");return false;\' style=\'display:none;cursor:pointer;\'>Change Ad Consent</a><a id=\'unic-ccpa\' onclick="window.__uspapi(\'openunic\')" style=\'display:none;cursor:pointer;\'>Do not sell my data</a></p>
 <p class="small">CSGOStash \xc2\xa9 2014-2023. Powered by <a href="https://steampowered.com" target="_blank" rel="nofollow">Steam</a>.</p>
 <p class="small"><a href="https://csgostash.com/privacy">Privacy Policy</a> - <a href="https://csgostash.com/advertising">Advertise</a></p>
 </div>
@@ -1420,6 +1419,6 @@ Rarity
 <script src="https://csgostash.com/js/vendor.js?id=65ca2070436a0d6cc0e0ee3ea177a58a"></script>
 "<script>var sf = 'https://csgostash.com/js/sf.json?id=c9fb15cbd288b42843e618c4ea80f6b0';</script>"
 <script src="https://csgostash.com/js/app.js?id=f0db3a9f58dd5e6b54e6996a5f14a4e2"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a271ece0b2f2c95","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a96ccaf1a01e1d2","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
 </body>
 </html>

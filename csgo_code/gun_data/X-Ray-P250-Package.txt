@@ -507,7 +507,7 @@
 <a href="https://steamcommunity.com/market/listings/730/X-Ray%20P250%20Package" target="_blank" rel="nofollow" class="market-button-item" data-gaevent="X-Ray P250 Package">
 <img class="img-responsive center-block content-header-img-margin" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsS091PDtH5O_1FAthwfTNP2kTvomzzYHdlqLxZb7XlW4IuJwk3u2S8NWl3QS1_EA6YT2iddeXdgIgIQaHHJc2aVo/256fx256f" alt="X-Ray P250 Package"></a>
 <div class="btn-group content-header-container-btn">
-<a href="https://steamcommunity.com/market/listings/730/X-Ray%20P250%20Package" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="X-Ray P250 Package">$3.03 on Steam</a>
+<a href="https://steamcommunity.com/market/listings/730/X-Ray%20P250%20Package" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="X-Ray P250 Package">$3.12 on Steam</a>
 <a class="btn btn-default" data-toggle="collapse" href="#case-item-details" aria-expanded="false" aria-controls="case-item-details">Market Details <span class="glyphicon glyphicon-chevron-down collapse-chevron"></span></a>
 </div>
 </div>
@@ -525,7 +525,7 @@
 <div class="btn-group btn-group-justified">
 <a href="https://steamcommunity.com/market/listings/730/X-Ray%20P250%20Package" target="_blank" rel="nofollow" class="btn btn-default market-button-item " data-gaevent="X-Ray P250 Package" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest Steam price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Steam</span>
-<span class="pull-right">$3.03</span></a>
+<span class="pull-right">$3.12</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://bitskins.com/?market_hash_name=X-Ray%20P250%20Package&amp;referred_by=76561197961670681&amp;sort_by=price&amp;order=asc&amp;is_stattrak=-1" target="_blank" class="btn btn-default bitskins-button " data-gaevent="X-Ray P250 Package" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins price">
@@ -545,7 +545,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# currently for sale">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Listings
 <span class="pull-right">
-114
+167
 </span>
 </td>
 </tr>
@@ -553,7 +553,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="Median price of items sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Median
 <span class="pull-right">
-$2.82
+$2.70
 </span>
 </td>
 </tr>
@@ -561,7 +561,7 @@ $2.82
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Volume
 <span class="pull-right">
-50
+94
 </span>
 </td>
 </tr>
@@ -750,17 +750,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/1097/P250-X-Ray"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_xray_p250_light_large.4b9f603e1a1dd4de2d64e05bf21168bc8b070bf2.png" alt="P250 X-Ray"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/1097/P250-X-Ray">$0.49 - $0.88</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/1097/P250-X-Ray">$0.53 - $0.92</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1097/P250-X-Ray">$2.78 - $3.70</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/1097/P250-X-Ray">$2.46 - $4.22</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsS091PDtH5O_1FAthwfTNP2kTvomzzYHdlqLxZb7XlW4IuJwk3u2S8NWl3QS1_EA6YT2iddeXdgIgIQaHHJc2aVo/50fx38f" alt="X-Ray P250 Package">X-Ray P250 Package</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M1939287562060381438A16881977575D11829976205207299046" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P250 X-Ray">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p250&amp;category_730_ItemSet%5B0%5D=&amp;appid=730&amp;q=X-Ray" class="btn btn-default market-button-skin" data-gaevent="P250 X-Ray" target="_blank" rel="nofollow">1229 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p250&amp;category_730_ItemSet%5B0%5D=&amp;appid=730&amp;q=X-Ray" class="btn btn-default market-button-skin" data-gaevent="P250 X-Ray" target="_blank" rel="nofollow">1191 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/1097/P250-X-Ray"><span class="glyphicon glyphicon glyphicon-link"></span>P250 X-Ray Skin &amp; Price Details</a></p>
@@ -869,6 +869,6 @@ Rarity
 <script src="https://csgostash.com/js/vendor.js?id=65ca2070436a0d6cc0e0ee3ea177a58a"></script>
 "<script>var sf = 'https://csgostash.com/js/sf.json?id=c9fb15cbd288b42843e618c4ea80f6b0';</script>"
 <script src="https://csgostash.com/js/app.js?id=f0db3a9f58dd5e6b54e6996a5f14a4e2"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a271ee16d881cde","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a96ccb5dcdd2264","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
 </body>
 </html>

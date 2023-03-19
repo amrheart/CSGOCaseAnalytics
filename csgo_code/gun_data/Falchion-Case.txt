@@ -507,7 +507,7 @@
 <a href="https://steamcommunity.com/market/listings/730/Falchion%20Case" target="_blank" rel="nofollow" class="market-button-item" data-gaevent="Falchion Case">
 <img class="img-responsive center-block content-header-img-margin" src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/256fx256f" alt="Falchion Case"></a>
 <div class="btn-group content-header-container-btn">
-<a href="https://steamcommunity.com/market/listings/730/Falchion%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="Falchion Case">$0.62 on Steam</a>
+<a href="https://steamcommunity.com/market/listings/730/Falchion%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item" data-gaevent="Falchion Case">$0.69 on Steam</a>
 <a class="btn btn-default" data-toggle="collapse" href="#case-item-details" aria-expanded="false" aria-controls="case-item-details">Market Details <span class="glyphicon glyphicon-chevron-down collapse-chevron"></span></a>
 </div>
 </div>
@@ -525,12 +525,12 @@
 <div class="btn-group btn-group-justified">
 <a href="https://steamcommunity.com/market/listings/730/Falchion%20Case" target="_blank" rel="nofollow" class="btn btn-default market-button-item " data-gaevent="Falchion Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest Steam price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Steam</span>
-<span class="pull-right">$0.62</span></a>
+<span class="pull-right">$0.69</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://bitskins.com/?market_hash_name=Falchion%20Case&amp;referred_by=76561197961670681&amp;sort_by=price&amp;order=asc&amp;is_stattrak=-1" target="_blank" class="btn btn-default bitskins-button " data-gaevent="Falchion Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins price">
 <span class="pull-left"><img class="item-table-icon" src="https://csgostash.com/img/core/bitskins.png?id=4726663ef591c414c8c69456fe7294a7" alt="BitSkins Logo">BitSkins</span>
-<span class="pull-right">$0.43</span></a>
+<span class="pull-right">$0.54</span></a>
 </div>
 <div class="btn-group btn-group-justified">
 <a href="https://p2p.bitskins.com/?ref_alias=CSGOStash&amp;search={%22where%22:{%22name%22:%22Falchion%20Case%22},%22order_by%22:{%22key%22:%22price%22,%22order%22:%22ASC%22}}" target="_blank" class="btn btn-default bitskins-button disabled-clickable" data-gaevent="Falchion Case" data-toggle="tooltip" data-placement="top" data-container="body" title="Current lowest BitSkins P2P price">
@@ -545,7 +545,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# currently for sale">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Listings
 <span class="pull-right">
-7697
+10121
 </span>
 </td>
 </tr>
@@ -553,7 +553,7 @@
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="Median price of items sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Median
 <span class="pull-right">
-$0.55
+$0.70
 </span>
 </td>
 </tr>
@@ -561,7 +561,7 @@ $0.55
 <td data-toggle="tooltip" data-placement="top" data-container="body" title="# sold in the past 24 hours">
 <img class="item-table-icon" src="https://csgostash.com/img/core/steam.png?id=0e193d9f0e646d384422a08b4b174287" alt="Steam Logo">Volume
 <span class="pull-right">
-7344
+ 8917
 </span>
 </td>
 </tr>
@@ -683,7 +683,7 @@ Rarity
 <option value="rarity">Rarity</option>
 <option value="weapon">Weapon</option>
 <option value="name">Name</option>
- </select>
+</select>
 </div>
 </div>
 <div class="form-group form-group-aggregate">
@@ -742,45 +742,13 @@ Rarity
 <p class="nomargin">\xe2\x98\x85 Rare Special Items \xe2\x98\x85</p>
 </div>
 <a href="https://csgostash.com/case/50/Falchion-Case?Knives=1"><img class="img-responsive center-block margin-top-sm rare-item-header-img" src="https://csgostash.com/img/misc/rare_item.png?id=3a8208a7138f9be71c5cfe2c47b80874" alt="Rare Item Drop"></a>
-<a href="https://csgostash.com/case/50/Falchion-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_aa_fade_light_large.1db6bc12f4b49677b330382c3e5af21f46d0c124.png" alt="Falchion Knife Fade"></a>
+ <a href="https://csgostash.com/case/50/Falchion-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_aa_fade_light_large.1db6bc12f4b49677b330382c3e5af21f46d0c124.png" alt="Falchion Knife Fade"></a>
 <a href="https://csgostash.com/case/50/Falchion-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_am_zebra_light_large.3cbce2191d2a20b88e610d8180c2f4a9ee0066ca.png" alt="Falchion Knife Slaughter"></a>
-<a href="https://csgostash.com/case/50/Falchion-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_hy_forest_boreal_light_large.9bf4abd73deee0ae82ce0a8670e1056d3a546107.png" alt="Falchion Knife Boreal Forest"></a>
 <a href="https://csgostash.com/case/50/Falchion-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_aq_oiled_light_large.ddcd8f4a87e08ab50fe3241e6791896125c48e03.png" alt="Falchion Knife Case Hardened"></a>
+<a href="https://csgostash.com/case/50/Falchion-Case?Knives=1"><img class="rare-item-box-small-img" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_falchion.adcc43a018fd4fe315dbdbc7960cfc52c5d63e3e.png" alt="Falchion Knife \xe2\x98\x85 (Vanilla)"></a>
 <div class="details-link">
 <a href="https://csgostash.com/case/50/Falchion-Case?Knives=1"><h4>13 Possible Knives</h4>
 <p class="nomargin"><span class="glyphicon glyphicon glyphicon-link"></span>All Falchion Case Knives</p></a>
-</div>
-</div>
-</div>
- <div class="col-lg-4 col-md-6 col-widen text-center">
-<div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/AK-47">AK-47</a> | <a href="https://csgostash.com/family/Aquamarine+Revenge">Aquamarine Revenge</a></h3>
-<a class="nounderline" href="https://csgostash.com/skin-rarity/Covert" title="All Covert Skins">
-<div class="quality color-covert">
-<p class="nomargin">Covert Rifle
-<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
-</p>
-</div>
-</a>
-<div class="stattrak">
-<p class="nomargin">StatTrak Available</p>
-</div>
-<a href="https://csgostash.com/skin/569/AK-47-Aquamarine-Revenge"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_courage_alt_light_large.27e4e7d38dc2ce36ffe86bd6ec65d6f525751eaa.png" alt="AK-47 Aquamarine Revenge"></a>
-<div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/569/AK-47-Aquamarine-Revenge">$19.11 - $90.96</a></p>
-</div>
-<div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/569/AK-47-Aquamarine-Revenge">$45.01 - $316.41</a></p>
-</div>
-<div class="collection">
-<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
-</div>
-<div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M633137629094612059A6748206475D16466900524269227889" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="AK-47 Aquamarine Revenge">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ak47&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Aquamarine+Revenge" class="btn btn-default market-button-skin" data-gaevent="AK-47 Aquamarine Revenge" target="_blank" rel="nofollow">365 Steam Listings</a>
-</div>
-<div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/569/AK-47-Aquamarine-Revenge"><span class="glyphicon glyphicon glyphicon-link"></span>AK-47 Aquamarine Revenge Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -799,20 +767,52 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/568/AWP-Hyper-Beast"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_hyper_beast_light_large.55efa5e3094af71ca6a56b6eac96cb022f7ecd8b.png" alt="AWP Hyper Beast"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/568/AWP-Hyper-Beast">$21.71 - $95.50</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/568/AWP-Hyper-Beast">$20.01 - $92.99</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/568/AWP-Hyper-Beast">$50.92 - $286.21</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/568/AWP-Hyper-Beast">$49.04 - $269.99</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534594056943A5743531871D14125545337509523521" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="AWP Hyper Beast">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_awp&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Hyper+Beast" class="btn btn-default market-button-skin" data-gaevent="AWP Hyper Beast" target="_blank" rel="nofollow">469 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_awp&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Hyper+Beast" class="btn btn-default market-button-skin" data-gaevent="AWP Hyper Beast" target="_blank" rel="nofollow">577 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/568/AWP-Hyper-Beast"><span class="glyphicon glyphicon glyphicon-link"></span>AWP Hyper Beast Skin &amp; Price Details</a></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="well result-box nomargin">
+<h3><a href="https://csgostash.com/weapon/AK-47">AK-47</a> | <a href="https://csgostash.com/family/Aquamarine+Revenge">Aquamarine Revenge</a></h3>
+<a class="nounderline" href="https://csgostash.com/skin-rarity/Covert" title="All Covert Skins">
+<div class="quality color-covert">
+<p class="nomargin">Covert Rifle
+<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
+</p>
+</div>
+</a>
+<div class="stattrak">
+<p class="nomargin">StatTrak Available</p>
+</div>
+<a href="https://csgostash.com/skin/569/AK-47-Aquamarine-Revenge"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_courage_alt_light_large.27e4e7d38dc2ce36ffe86bd6ec65d6f525751eaa.png" alt="AK-47 Aquamarine Revenge"></a>
+<div class="price">
+<p class="nomargin"><a href="https://csgostash.com/skin/569/AK-47-Aquamarine-Revenge">$18.70 - $91.93</a></p>
+</div>
+<div class="price">
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/569/AK-47-Aquamarine-Revenge">$38.72 - $288.45</a></p>
+</div>
+<div class="collection">
+<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
+</div>
+<div class="btn-group-sm btn-group-justified">
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M633137629094612059A6748206475D16466900524269227889" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="AK-47 Aquamarine Revenge">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ak47&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Aquamarine+Revenge" class="btn btn-default market-button-skin" data-gaevent="AK-47 Aquamarine Revenge" target="_blank" rel="nofollow">416 Steam Listings</a>
+</div>
+<div class="details-link">
+<p class="nomargin"><a href="https://csgostash.com/skin/569/AK-47-Aquamarine-Revenge"><span class="glyphicon glyphicon glyphicon-link"></span>AK-47 Aquamarine Revenge Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -831,52 +831,20 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/571/MP7-Nemesis"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_cu_mp7_nemsis_light_large.72074e71a27827f41dc5d6f511d2f003c1b60d8a.png" alt="MP7 Nemesis"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/571/MP7-Nemesis">$4.64 - $10.05</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/571/MP7-Nemesis">$4.97 - $11.32</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/571/MP7-Nemesis">$10.60 - $31.53</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/571/MP7-Nemesis">$10.93 - $31.58</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M633137629097434419A7011823864D16303594468689095271" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MP7 Nemesis">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp7&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Nemesis" class="btn btn-default market-button-skin" data-gaevent="MP7 Nemesis" target="_blank" rel="nofollow">406 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp7&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Nemesis" class="btn btn-default market-button-skin" data-gaevent="MP7 Nemesis" target="_blank" rel="nofollow">378 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/571/MP7-Nemesis"><span class="glyphicon glyphicon glyphicon-link"></span>MP7 Nemesis Skin &amp; Price Details</a></p>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6 col-widen text-center">
-<div class="well result-box nomargin">
-<h3><a href="https://csgostash.com/weapon/SG+553">SG 553</a> | <a href="https://csgostash.com/family/Cyrex">Cyrex</a></h3>
-<a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
-<div class="quality color-classified">
-<p class="nomargin">Classified Rifle
-<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
-</p>
-</div>
-</a>
-<div class="stattrak">
-<p class="nomargin">StatTrak Available</p>
-</div>
-<a href="https://csgostash.com/skin/570/SG-553-Cyrex"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_cyrex_light_large.ef2fb1e4d88e8eb7c0efe12e231a773ca1792a4d.png" alt="SG 553 Cyrex"></a>
-<div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/570/SG-553-Cyrex">$3.64 - $16.41</a></p>
-</div>
-<div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/570/SG-553-Cyrex">$6.53 - $48.81</a></p>
-</div>
-<div class="collection">
-<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
-</div>
-<div class="btn-group-sm btn-group-justified">
-<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M191784865617660030A7006211453D12151533052767128955" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="SG 553 Cyrex">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_sg556&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Cyrex" class="btn btn-default market-button-skin" data-gaevent="SG 553 Cyrex" target="_blank" rel="nofollow">859 Steam Listings</a>
-</div>
-<div class="details-link">
-<p class="nomargin"><a href="https://csgostash.com/skin/570/SG-553-Cyrex"><span class="glyphicon glyphicon glyphicon-link"></span>SG 553 Cyrex Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
@@ -903,6 +871,38 @@ Rarity
 </div>
 <div class="col-lg-4 col-md-6 col-widen text-center">
 <div class="well result-box nomargin">
+<h3><a href="https://csgostash.com/weapon/SG+553">SG 553</a> | <a href="https://csgostash.com/family/Cyrex">Cyrex</a></h3>
+<a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
+<div class="quality color-classified">
+<p class="nomargin">Classified Rifle
+<span class="rarity-search-icon"><span class="glyphicon glyphicon-search"></span></span>
+</p>
+</div>
+</a>
+<div class="stattrak">
+<p class="nomargin">StatTrak Available</p>
+</div>
+<a href="https://csgostash.com/skin/570/SG-553-Cyrex"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_cyrex_light_large.ef2fb1e4d88e8eb7c0efe12e231a773ca1792a4d.png" alt="SG 553 Cyrex"></a>
+<div class="price">
+<p class="nomargin"><a href="https://csgostash.com/skin/570/SG-553-Cyrex">$3.60 - $15.29</a></p>
+</div>
+<div class="price">
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/570/SG-553-Cyrex">$6.55 - $49.60</a></p>
+</div>
+<div class="collection">
+<p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
+</div>
+<div class="btn-group-sm btn-group-justified">
+<a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M191784865617660030A7006211453D12151533052767128955" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="SG 553 Cyrex">Inspect in-game (FN)</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_sg556&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Cyrex" class="btn btn-default market-button-skin" data-gaevent="SG 553 Cyrex" target="_blank" rel="nofollow">744 Steam Listings</a>
+</div>
+<div class="details-link">
+<p class="nomargin"><a href="https://csgostash.com/skin/570/SG-553-Cyrex"><span class="glyphicon glyphicon glyphicon-link"></span>SG 553 Cyrex Skin &amp; Price Details</a></p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="well result-box nomargin">
 <h3><a href="https://csgostash.com/weapon/CZ75-Auto">CZ75-Auto</a> | <a href="https://csgostash.com/family/Yellow+Jacket">Yellow Jacket</a></h3>
 <a class="nounderline" href="https://csgostash.com/skin-rarity/Classified" title="All Classified Skins">
 <div class="quality color-classified">
@@ -916,17 +916,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/572/CZ75-Auto-Yellow-Jacket"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75a_chastizer_light_large.d3234c712c3c068adbbfd5718c468c778f2351dd.png" alt="CZ75-Auto Yellow Jacket"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/572/CZ75-Auto-Yellow-Jacket">$4.05 - $12.99</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/572/CZ75-Auto-Yellow-Jacket">$3.23 - $15.72</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/572/CZ75-Auto-Yellow-Jacket">$7.61 - $34.50</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/572/CZ75-Auto-Yellow-Jacket">$7.93 - $33.55</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534594454003A7013118892D12133276065738465085" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="CZ75-Auto Yellow Jacket">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_cz75a&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Yellow+Jacket" class="btn btn-default market-button-skin" data-gaevent="CZ75-Auto Yellow Jacket" target="_blank" rel="nofollow">513 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_cz75a&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Yellow+Jacket" class="btn btn-default market-button-skin" data-gaevent="CZ75-Auto Yellow Jacket" target="_blank" rel="nofollow">385 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/572/CZ75-Auto-Yellow-Jacket"><span class="glyphicon glyphicon glyphicon-link"></span>CZ75-Auto Yellow Jacket Skin &amp; Price Details</a></p>
@@ -948,17 +948,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/576/M4A4-Evil-Daimyo"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_evil_daimyo_light_large.c208ba252c0d8902caa973a634cbfa945508a716.png" alt="M4A4 Evil Daimyo"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/576/M4A4-Evil-Daimyo">$1.98 - $6.36</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/576/M4A4-Evil-Daimyo">$1.98 - $5.55</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/576/M4A4-Evil-Daimyo">$4.41 - $16.63</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/576/M4A4-Evil-Daimyo">$4.63 - $16.15</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M628634029470132775A5993413881D7794044615172253282" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="M4A4 Evil Daimyo">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Evil+Daimyo" class="btn btn-default market-button-skin" data-gaevent="M4A4 Evil Daimyo" target="_blank" rel="nofollow">2414 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_m4a1&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Evil+Daimyo" class="btn btn-default market-button-skin" data-gaevent="M4A4 Evil Daimyo" target="_blank" rel="nofollow">2879 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/576/M4A4-Evil-Daimyo"><span class="glyphicon glyphicon glyphicon-link"></span>M4A4 Evil Daimyo Skin &amp; Price Details</a></p>
@@ -980,17 +980,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/574/Negev-Loudmouth"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_negev_cu_negev_annihilator_light_large.421039357ccbbcb9ba1456caa1ed2ae4829b5495.png" alt="Negev Loudmouth"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/574/Negev-Loudmouth">$0.59 - $4.15</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/574/Negev-Loudmouth">$0.69 - $5.12</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/574/Negev-Loudmouth">$1.04 - $20.97</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/574/Negev-Loudmouth">$1.18 - $20.33</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M192910765531143691A6891313202D2305993274657545708" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Negev Loudmouth">Inspect in-game (MW)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_negev&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Loudmouth" class="btn btn-default market-button-skin" data-gaevent="Negev Loudmouth" target="_blank" rel="nofollow">582 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_negev&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Loudmouth" class="btn btn-default market-button-skin" data-gaevent="Negev Loudmouth" target="_blank" rel="nofollow">474 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/574/Negev-Loudmouth"><span class="glyphicon glyphicon glyphicon-link"></span>Negev Loudmouth Skin &amp; Price Details</a></p>
@@ -1012,17 +1012,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/573/P2000-Handgun"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_aq_p2000_boom_light_large.39f01b0b86b795bea56300432fecfbf93415ee58.png" alt="P2000 Handgun"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/573/P2000-Handgun">$0.54 - $4.17</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/573/P2000-Handgun">$0.48 - $3.88</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/573/P2000-Handgun">$1.04 - $12.49</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/573/P2000-Handgun">$1.10 - $12.09</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M628634029471099295A7016100454D12448625072732528712" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P2000 Handgun">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_hkp2000&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Handgun" class="btn btn-default market-button-skin" data-gaevent="P2000 Handgun" target="_blank" rel="nofollow">1324 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_hkp2000&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Handgun" class="btn btn-default market-button-skin" data-gaevent="P2000 Handgun" target="_blank" rel="nofollow">1371 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/573/P2000-Handgun"><span class="glyphicon glyphicon glyphicon-link"></span>P2000 Handgun Skin &amp; Price Details</a></p>
@@ -1044,17 +1044,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/575/MP9-Ruby-Poison-Dart"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_am_mp9_nitrogen_light_large.3a0b5a7cd31a7cfd5f0d90b9a0a1dbfcdb642cca.png" alt="MP9 Ruby Poison Dart"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/575/MP9-Ruby-Poison-Dart">$0.81 - $1.96</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/575/MP9-Ruby-Poison-Dart">$0.80 - $1.81</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/575/MP9-Ruby-Poison-Dart">$1.90 - $5.59</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/575/MP9-Ruby-Poison-Dart">$1.89 - $5.41</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534596732493A5278598057D9864267111706135188" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="MP9 Ruby Poison Dart">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp9&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Ruby+Poison+Dart" class="btn btn-default market-button-skin" data-gaevent="MP9 Ruby Poison Dart" target="_blank" rel="nofollow">843 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_mp9&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Ruby+Poison+Dart" class="btn btn-default market-button-skin" data-gaevent="MP9 Ruby Poison Dart" target="_blank" rel="nofollow">1340 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/575/MP9-Ruby-Poison-Dart"><span class="glyphicon glyphicon glyphicon-link"></span>MP9 Ruby Poison Dart Skin &amp; Price Details</a></p>
@@ -1076,17 +1076,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/577/FAMAS-Neural-Net"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_am_famas_dots_light_large.dc6f19278bac52ea06b8e3576fa324624f2f82b4.png" alt="FAMAS Neural Net"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/577/FAMAS-Neural-Net">$0.69 - $1.89</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/577/FAMAS-Neural-Net">$0.78 - $1.74</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/577/FAMAS-Neural-Net">$1.62 - $5.22</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/577/FAMAS-Neural-Net">$1.41 - $4.99</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534594932513A6618742227D2613953416301287954" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="FAMAS Neural Net">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_famas&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Neural+Net" class="btn btn-default market-button-skin" data-gaevent="FAMAS Neural Net" target="_blank" rel="nofollow">1025 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_famas&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Neural+Net" class="btn btn-default market-button-skin" data-gaevent="FAMAS Neural Net" target="_blank" rel="nofollow">1158 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/577/FAMAS-Neural-Net"><span class="glyphicon glyphicon glyphicon-link"></span>FAMAS Neural Net Skin &amp; Price Details</a></p>
@@ -1108,17 +1108,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/583/Galil-AR-Rocket-Pop"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_cu_galilar_particles_light_large.8732f64d53dbc9b0c732641655d4f99124d8cacc.png" alt="Galil AR Rocket Pop"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/583/Galil-AR-Rocket-Pop">$0.30 - $6.86</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/583/Galil-AR-Rocket-Pop">$0.27 - $7.18</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/583/Galil-AR-Rocket-Pop">$0.70 - $16.50</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/583/Galil-AR-Rocket-Pop">$0.59 - $16.80</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M632011729192906608A7013789635D3354694408494126415" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Galil AR Rocket Pop">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_galilar&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Rocket+Pop" class="btn btn-default market-button-skin" data-gaevent="Galil AR Rocket Pop" target="_blank" rel="nofollow">1887 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_galilar&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Rocket+Pop" class="btn btn-default market-button-skin" data-gaevent="Galil AR Rocket Pop" target="_blank" rel="nofollow">2738 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/583/Galil-AR-Rocket-Pop"><span class="glyphicon glyphicon glyphicon-link"></span>Galil AR Rocket Pop Skin &amp; Price Details</a></p>
@@ -1140,17 +1140,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/578/USP-S-Torque"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_progressiv_light_large.91cde781cd0c8502bbbb66f37cc7f1baf2a10c05.png" alt="USP-S Torque"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/578/USP-S-Torque">$0.88 - $1.96</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/578/USP-S-Torque">$0.84 - $2.18</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/578/USP-S-Torque">$2.20 - $4.87</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/578/USP-S-Torque">$2.33 - $4.44</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M567835434488942824A6990540164D17072728390802182955" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="USP-S Torque">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_usp_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Torque" class="btn btn-default market-button-skin" data-gaevent="USP-S Torque" target="_blank" rel="nofollow">2819 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_usp_silencer&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Torque" class="btn btn-default market-button-skin" data-gaevent="USP-S Torque" target="_blank" rel="nofollow">3467 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/578/USP-S-Torque"><span class="glyphicon glyphicon glyphicon-link"></span>USP-S Torque Skin &amp; Price Details</a></p>
@@ -1172,24 +1172,24 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/582/Glock-18-Bunsen-Burner"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_aq_glock18_flames_blue_light_large.5fed23d5a32793c25914eeb99b45f1a2b0cb9d6c.png" alt="Glock-18 Bunsen Burner"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/582/Glock-18-Bunsen-Burner">$0.23 - $0.96</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/582/Glock-18-Bunsen-Burner">$0.19 - $1.24</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/582/Glock-18-Bunsen-Burner">$0.76 - $4.92</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/582/Glock-18-Bunsen-Burner">$0.70 - $4.37</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M632011729193252458A6760888487D4632691940279348096" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Glock-18 Bunsen Burner">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_glock&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Bunsen+Burner" class="btn btn-default market-button-skin" data-gaevent="Glock-18 Bunsen Burner" target="_blank" rel="nofollow">3480 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_glock&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Bunsen+Burner" class="btn btn-default market-button-skin" data-gaevent="Glock-18 Bunsen Burner" target="_blank" rel="nofollow">4315 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/582/Glock-18-Bunsen-Burner"><span class="glyphicon glyphicon glyphicon-link"></span>Glock-18 Bunsen Burner Skin &amp; Price Details</a></p>
 </div>
 </div>
 </div>
- <div class="col-lg-4 col-md-6 col-widen text-center">
+<div class="col-lg-4 col-md-6 col-widen text-center">
 <div class="well result-box nomargin">
 <h3><a href="https://csgostash.com/weapon/P90">P90</a> | <a href="https://csgostash.com/family/Elite+Build">Elite Build</a></h3>
 <a class="nounderline" href="https://csgostash.com/skin-rarity/Mil-Spec" title="All Mil-Spec Skins">
@@ -1204,17 +1204,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/580/P90-Elite-Build"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90_mastery_light_large.f58ff489c92ffa8c6e4c42814bad01c352df0ab6.png" alt="P90 Elite Build"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/580/P90-Elite-Build">$0.17 - $1.50</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/580/P90-Elite-Build">$0.16 - $1.53</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/580/P90-Elite-Build">$0.29 - $7.24</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/580/P90-Elite-Build">$0.29 - $6.58</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M632011729195282738A6821772949D722264843971413599" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="P90 Elite Build">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p90&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Elite+Build" class="btn btn-default market-button-skin" data-gaevent="P90 Elite Build" target="_blank" rel="nofollow">3429 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_p90&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Elite+Build" class="btn btn-default market-button-skin" data-gaevent="P90 Elite Build" target="_blank" rel="nofollow">3566 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/580/P90-Elite-Build"><span class="glyphicon glyphicon glyphicon-link"></span>P90 Elite Build Skin &amp; Price Details</a></p>
@@ -1236,17 +1236,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/581/Nova-Ranger"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_ranger_light_large.e3e9d3d47d5707092223a268ef59adb53ce76278.png" alt="Nova Ranger"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/581/Nova-Ranger">$0.21 - $0.52</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/581/Nova-Ranger">$0.20 - $0.65</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/581/Nova-Ranger">$0.30 - $2.34</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/581/Nova-Ranger">$0.25 - $1.91</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M566709534596846953A7016724841D5388172821106674781" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="Nova Ranger">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_nova&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Ranger" class="btn btn-default market-button-skin" data-gaevent="Nova Ranger" target="_blank" rel="nofollow">1789 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_nova&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Ranger" class="btn btn-default market-button-skin" data-gaevent="Nova Ranger" target="_blank" rel="nofollow">1705 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/581/Nova-Ranger"><span class="glyphicon glyphicon glyphicon-link"></span>Nova Ranger Skin &amp; Price Details</a></p>
@@ -1268,17 +1268,17 @@ Rarity
 </div>
 <a href="https://csgostash.com/skin/579/UMP-45-Riot"><img class="img-responsive center-block margin-top-sm margin-bot-sm" src="https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_uproar_light_large.04cd84320c4370bced14a3989b0e141cff67ec88.png" alt="UMP-45 Riot"></a>
 <div class="price">
-<p class="nomargin"><a href="https://csgostash.com/skin/579/UMP-45-Riot">$0.21 - $0.47</a></p>
+<p class="nomargin"><a href="https://csgostash.com/skin/579/UMP-45-Riot">$0.21 - $0.41</a></p>
 </div>
 <div class="price">
-<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/579/UMP-45-Riot">$0.30 - $1.21</a></p>
+<p class="nomargin"><a class="price-st" href="https://csgostash.com/skin/579/UMP-45-Riot">$0.30 - $1.30</a></p>
 </div>
 <div class="collection">
 <p class="nomargin"><img src="https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF8ugPDMIWpAuIq1w4KIlaChZOyFwzgJuZNy3-2T89T0jlC2rhZla2vwIJjVLFHz75yKpg/50fx38f" alt="Falchion Case">Falchion Case</p>
 </div>
 <div class="btn-group-sm btn-group-justified">
 <a href="steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M632011729184886258A3104203585D1047735954438078152" class="btn btn-default hidden-xs inspect-button-skin" data-gaevent="UMP-45 Riot">Inspect in-game (FN)</a>
-<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ump45&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Riot" class="btn btn-default market-button-skin" data-gaevent="UMP-45 Riot" target="_blank" rel="nofollow">1940 Steam Listings</a>
+<a href="https://steamcommunity.com/market/search?category_730_Weapon%5B%5D=tag_weapon_ump45&amp;category_730_ItemSet%5B0%5D=tag_set_community_8&amp;appid=730&amp;q=Riot" class="btn btn-default market-button-skin" data-gaevent="UMP-45 Riot" target="_blank" rel="nofollow">1975 Steam Listings</a>
 </div>
 <div class="details-link">
 <p class="nomargin"><a href="https://csgostash.com/skin/579/UMP-45-Riot"><span class="glyphicon glyphicon glyphicon-link"></span>UMP-45 Riot Skin &amp; Price Details</a></p>
@@ -1387,6 +1387,6 @@ Rarity
 <script src="https://csgostash.com/js/vendor.js?id=65ca2070436a0d6cc0e0ee3ea177a58a"></script>
 "<script>var sf = 'https://csgostash.com/js/sf.json?id=c9fb15cbd288b42843e618c4ea80f6b0';</script>"
 <script src="https://csgostash.com/js/app.js?id=f0db3a9f58dd5e6b54e6996a5f14a4e2"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a271f2e5aa61b6a","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon=\'{"rayId":"7a96ccd1d9ca2cd1","token":"2d8d324913ef4246bd43795999eabc48","version":"2023.2.0","si":100}\' crossorigin="anonymous"></script>
 </body>
 </html>

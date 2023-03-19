@@ -7,7 +7,7 @@ class Item:
         self.value_score = 0
         self.url = url
         self.rarity = rarity
-        self.rarity_chance = 0
+        self.rarity_chance = rarity_chance
         
     def __str__(self):
         return_string = "{} -- {} -- {}".format(self.name, self.rarity, self.price_range)
@@ -32,3 +32,4 @@ class Item:
     
     def CalculateValueScore(self):
         self.value_score = self.rarity_chance * self.price_average
+        return self.value_score
